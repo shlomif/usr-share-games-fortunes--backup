@@ -1,0 +1,2064 @@
+FWIW, I have a fairly large killfile that's built up over the years; but I
+don't killfile fellow DD.  My two conditions for killfiling are:
+
+- I'm reasonably certain they'll never write anything that's worth my time
+  reading it, and
+- they're impotent enough that I don't have to worry about the consequences
+  of ignoring them
+
+Well, every DD can upload to the archive, so there can certainly be
+consequences from ignoring any of them completely. :)
+    -- Steve Langasek
+%
+Has anyone noticed that since asuffield disappeared from list discussions,
+the quality of list discussions didn't change absolutely at all?
+	-- Enrico Zini
+%
+<Manoj> Google is working on a version of Ubuntu, known internally as Goobuntu.
+<Manoj> wow
+<Manoj> are we all google developers, then?
+%
+My arguments weren't _wholly_ insults.
+	-- Manoj Srivastava
+%
+Language war bad. Bad. Bad language war. Bad, bad, bad. Language war:
+bad. No language war. No, no, no. No bad language war. Stop language
+war. Stop - language - war. Stop. Stop, stop, stop, stop, stop. Bad
+language war stop. Now. Stop bad language war now.
+	-- Lars Wirzenius
+%
+<ari> lawls
+<peterS> someone make that dude stop lawling
+%
+<ari> i for one hate lesbians
+%
+I WONDER WHAT HAPPENED TO THE LEGAL THEORY THAT WARRANTY DISCLAIMERS
+ARE VALID ONLY IF THEY ARE PRESENTED WITH A STYLE OF TYPOGRAPHY THAT
+MAKES IT ESPECIALLY UNLIKELY THAT ANY USER WILL EVER FEEL INCLINED TO
+TRY TO READ THEM CAREFULLY, SUCH AS BY USING ALL-UPPERCASE LETTERS TO
+MAKE THEM EFFECTIVELY UNREADABLE. PERHAPS THE PRESENCE OF LOWERCASE
+LETTERS IN THIS PARAGRAPH IS JUST AN EDITING MISTAKE? SURELY IT CANNOT
+BE MEANT TO READ THAT WAY IN THE FINAL LICENSE.
+	--Henning Makholm
+%
+<doogie> bah
+<doogie> javascript doesn't support super
+<ari> but it supports first-order functions!
+<peterS> whats a super
+<ari> the guy that replaces your lightbulbs when they burn out
+<peterS> so I'm the super?
+<ari> thanks for asking
+%
+Is everybody tired this time of the year, or is [it] just me?
+	-- Jesus Climent
+%
+Heh, too anti-social for Debian...  That's like being kicked out of Guns
+N' Roses for having too much of a drug problem.
+	-- Brian Nelson
+%
+* BenC chuckles as he notes that vim's postinst script error was caused by vim formatting problems
+<Overfiend> BenC: what's more distressing is that our own Project Leader doesn't even install the packages he creates before uploading them
+<BenC> Overfiend: hey...that's going to be my smear campaign for DPL Election 2001!
+* BenC prepares the TV ads
+%
+* BenC files a failure to build bug on sex
+<BenC> sex always causes unforseen problems in unknown territory
+%
+* BenC watches glibc 2.2.4-5 finish uploading
+<nfhssvryq> benc: could we have one which works this time? please?
+<BenC> nfhssvryq: no, I make a habit of intentionally uploading broken things
+%
+* DanielS LARTs the moron who just posted to:
+--- DanielS is now known as |
+<|> To: <debian-devel@lists.debian.org>, <debian-doc@lists.debian.org>,
+<|>         <debian-user@lists.debian.org>, <debian-russian@lists.debian.org>,
+<|>         <debian-french@lists.debian.org>, <debian-hurd@lists.debian.org>,
+<|>         "Debian User Spanish" <debian-user-spanish@lists.debian.org>,
+<|>         <debian-powerpc@lists.debian.org>, <debian-italian@lists.debian.org>,
+<|>         <debian-www-cvs@lists.debian.org>, <debian-mips@lists.debian.org>,
+<|>         <debian-kde@lists.debian.org>,
+<|>         "Debian Bug Tracking System" <submit@bugs.debian.org>,
+<|>         <debian-legal@lists.debian.org>, <debian-alpha@lists.debian.org>,
+<|>         <debian-user-de@lehmanns.de>,
+<|>         <debian-devel-m68k-changes@lists.debian.org>, 
+<|>         <LISTMASTER@lists.debian.org>, <control@bugs.debian.org:>
+<|> Subject: HELP !!!!!!
+--- | is now known as DanielS
+* mstone larts the moron who just spammed the channel
+%
+* Demonishi configures for pants off
+%
+* ElectricElf pokes the Front Desk.
+* wiggy will not be poked
+* ElectricElf uses wiggy to poke the Front Desk
+<ElectricElf> wiggy: Better? :)
+<wiggy> you're using me to poke part of me?
+<ElectricElf> wiggy: When you say it like that, it sounds perverted.
+%
+* Joy glares at his brand spanking new hack, joe_2.8-15.3_i386.changes
+<Joy> INSTALL!
+* Joy hugs dinstall -n
+%
+* Joy makes a mental note to start addressing CQ as "Mr. President" :)
+<Joy> and Joey as Mr. Vice-President
+<doogie> ooh, ooh.
+<doogie> can I be "That Bastard"?
+<Joy> Mr. President of Vice would be more like it >:)
+<Joy> doogie: hmm, will "Mr. Schmuck" do? :>
+* Joy runs
+* doogie sends Joy to hell, seeing as how I run the place
+%
+* Joy notes that recently, linuxtoday has had a bunch of looney crap on it
+* asuffield notes that linuxtoday has always had a bunch of loony crap on it
+%
+* Joy spews an ENOFOOD and sighs
+<Joey> if EACCES means no access, does ENOFOOD mean no no-food (=food) then?
+<Joy> heh
+<Joy> okay then, EFOOD
+<StevenK> Joey: Damnit, stop making sense!
+%
+* Knghtbrd notes dpkg has a big fat "IWJ was here" plastered all over it  =)
+%
+* Kysh has been compiling X for about half a day now... :>
+<calc> kysh: only a few more weeks to go?
+%
+* Lo-lan-2 thinks about installing Hurd more and more often
+<Lo-lan-2> (The "often" refers to "thinks", not about "installing Hurd")
+%
+* Mercury ponders upgrading his server to woody.
+<luca> mercury, I'll buy you a beer if you upgrade to sid
+<Mercury> luca: I don't drink.
+<Mercury> luca: And why would I put my server on sid instead of woody?
+<luca> mercury, for the excitement
+%
+* Omnic does something naughty
+<Omnic> dd if=/dev/urandom bs=1k count=512 | mail -s "I was bored" stevenk@debian.org
+%
+* Oskuro kicks cvs.d.o.
+* Oskuro kicks it again.
+* Joy kicks Oskuro's ass
+<Joy> stay away from poor kleckie
+<Oskuro> I knew Joy would defend his precioussss
+<Joy> heh
+<thom> my precccccccccccccciiiiiiiiiiiiiiiiiiiiiiiiiiiooooooooooooooooooooooousssssssssssss
+<Joy> some people have tamagotchis, some have 16M hit web servers
+<thom> joy: if you're stroking klecker, then i'm scared ;P
+* Oskuro tries to avoid kicking klecker again... but fails.
+%
+* Oskuro wants bdale.
+<StevenK> Oskuro: Too much information.
+<Oskuro> StevenK: what does that mean? elmo said that too the other day...
+<Oskuro> is it a new meme unknown to me? :)
+<StevenK> Oskuro: That it has multiple meanings and we just _don't_ want to know. :-)
+*** bdale_ is now known as bdale
+<Oskuro> yo bdale!
+<StevenK> bdale: Look out, Oskuro wants you.
+* Oskuro kicks StevenK
+%
+* Overfiend goes back to creating a hostile environment for women.
+%
+* Overfiend imagines buildd's as being a trough, and the packages they build as a bunch of hogs eating the slop from it
+<Overfiend> then XFree86 shows up
+%
+* Overfiend is enjoying this frenzy of one-liners he is firing off
+[several minutes later...]
+<aj> holy fuck
+<aj> i've been overspammed!
+%
+* Overfiend_ can't recall reading about Francois MITTERAND or Georges CLEMENCEAU, let alone Napoleon BONAPARTE.
+<Overfiend_> Or Louis THE FOURTEENTH
+<ElectricElf> Overfiend_: None of them were Japanese.
+%
+* Robot101 ponders writing a debian-devel FAQ
+<Robot101> Q: What's wrong with...? I need a member of -admin, ... isn't working...
+<Robot101> A: Look at the topic.
+<Joy> Q: *
+<Joy> A: FOAD
+* Joy snickers
+<Robot101> Q: elmo, ...
+<Robot101> A: FOAD
+<Kamion> Q: *
+<Kamion> A: Ask Overfiend if he'll fix it for you
+<Robot101> Q: Culus, ...
+<Robot101> A: moo.
+<willy> A': Be sure to call him `Branden', he likes that
+<Joy> willy: nonono, BrandOn
+<Robot101> Q: What's wrong with ...?
+<Robot101> A: It's broken.
+<Joy> Q: *
+<Joy> A: go awa^Wto #debian
+<thom> Joy:oh, now _that's_ harsh
+<Joy> Q: *
+<Joy> A: first of all, do you have a sister?
+<Kamion> Q: I have a bug report.
+<Kamion> A: reassign xxxxx dpkg
+%
+* StevenK looks at some Perl he wrote, vomits, and still feels ill.
+%
+* StevenK wonders how many times bod wants to kill Telstra
+<bod> only once
+<bod> just slooooowwwly
+%
+* SynrG giggles
+<Robot101> SynrG: we discussed this a few days ago.  giggling is for girls.
+<SynrG> tough
+<SynrG> I'm a straight, slightly effeminate man
+<SynrG> deal with it
+%
+* Tv takes a voodoo doll that looks like liiwi and stamps "NM" on its forehead.
+<liiwi> Tv: I'll confess nothing
+%
+* Viiru adds "die" to tomorrows TODO-list.
+%
+* aaronl proposes that the NM's get together and lynch BenC
+* BenC_ proposes aaronl jump off a bridge
+%
+* aj needs an amusing subject line for a valentines day message about woody
+<aj> bod: so far
+<doogie> I can see the release message for woody:  Get your red hot woody here!
+<bod> "I wanted to give you a woody for Valentine's Day...  here's a CD"
+<seeS> give your girlfriend woody for valentines day
+<moshez> And since woody is likely to have PMS in it...
+<aj> but it's not ready to be given to anyone, there aren't even b-f's for i386...
+<doogie> aj: boy friends?
+<doogie> save your woody for marriage
+<aj> hmmm
+<aj> ``The twelve month woody (or how long until we release, dammit?)''
+<part> aj: ouch
+* moshez wants a twelve month woody too
+* seeS needs to fix some of his packages then
+<bod> now *that's* priapism...
+* rahul shudders
+* seeS learns a new word
+* part looks it up from webster's
+* aj looked it up with dict
+<seeS> dict is excellent
+* bod contributes to the furthering education of #debian-devel
+<tausq> :P
+<seeS> the problem is it is something you are unlikely to see in the crossword
+* aj wonders what the clue would be
+<tausq> "opposite of impotent"? 
+<part> aj: a picture?
+<part> tausq: that would make the answer "omnipotent"
+%
+* asuffield is none too sure why progeny forked in the first place
+<Overfiend> asuffield: because suits recoil in horror at a stock Debian install
+<Overfiend> "WHAT!?!?!?  I have to ANSWER QUESTIONS?!??!"
+<Overfiend> "I can't just DROOL on the KEYBOARD and have it WORK!?!?"
+%
+* asuffield proposes making the CD images incredibly hard to find, rot13ed, and reversed
+%
+* bdale thinks a 'clue' package might be a good idea... just a postinst output saying "c'mon, you didn't think getting a clue would be *that* easy, did you?"
+%
+* bod hacks debbugs to reserve 100K
+<bod> unless ($from =~ /bod@/) { ... }
+%
+* bod imagines aj in the mosh pit
+<bod> up for a bit of stage diving?
+%
+* bod notes that "US English" is a contradiction in terms
+%
+* bod notes that "one-true-brace-style" and indent holy wars belong with vi/emacs... >/dev/null
+<rahul> if you use Lisp, no one argues about indenting. there really is one true style :)
+<Omnic> rahul: dont start :P
+%
+* bod pokes joeyh with a pointed stick
+<joeyh__> ow!
+%
+* bod sucks news from azure...
+* _ja kills bod
+<bod> ooh look, it *does* have an nntp port...   trn a.b.p.cows
+%
+* bod thought joeyh had moved to TN, and his new job was "sitting on the porch whittlin'"
+<Manoj> whitlin' and chawing 'baccy
+<bod> well, I suppose he's got the beard for it...
+<bod> jim: joeyh is moving to SF?
+<jim> bod: away from
+<Manoj> they doan chew 'baccy in sawn frawnsisco
+<jim> they make chewbacky flowers for your hair
+<bod> on reading the other night that joeyh hails from that neck of the woods, my mental image has changed a bit
+<bod> does joeyh have a drawl?
+%
+* calc_ wonders why everyone thinks apt 0.4 questions are funny
+%
+* chris13 pokes the channel hopefully. :)
+%
+* doog-work holds lully's ide disk
+<_wiggy__> doog-work: check if it bounces
+<doog-work> _wiggy__: no bounce
+<doog-work> just a thud when dropped from 2'
+<_wiggy__> try 8' or more
+<doog-work> I'm not that tall.
+%
+* dtype sips more of his margharita.
+<dtype> hey aj
+* aj waves at dtype
+<dtype> aj's seen the liquor collection, methinks
+%
+* hmh wonders if that topic will summon culus
+<hmh> moo
+<willy> ojnk
+<mhp> :)
+<hmh> oink in en_US I think :)
+<willy> if you want to summon Culus, there's a quicker way
+<hmh> willy: m00?
+<willy> APT SUCKS DONKEY DICK!
+%
+* joeyh combines jt and bod's statements, arrives at "programming languages encourage crappy code", and suggests we all go back to banging rocks together instead
+%
+* joeyh finally releases rpm 4
+* wolfie wonders if what joeyh is doing is a GOOD thing
+%
+* joeyh is getting up way too early these days
+<joeyh> awake before dinstall is just wrong!
+%
+* joeyh_ is all about useless flooding
+<joeyh_> don't tempt me
+%
+* karlheg tries hard not to use the term "snot".
+%
+* knghtbrd looks at -devel
+<knghtbrd> AAAGGGHHH!!!
+%
+* liiwi has done rm * in /etc of an pretty busy webserver
+<liiwi> once
+<calc> liiwi: oops
+<ocsi> liiwi: after that you decided to be a Debian Developer instead of a System Administrator :-)
+%
+* liiwi stinks about getting pizza
+<Joy> stinks? :))
+<ZaNaGa> stinks?
+<StevenK> liiwi: Freudian slip?
+* liiwi stinks about shower
+<Joy> liiwi: combining several thoughts into one short sentence. i like that. :)
+%
+* luca is happy Debian doesn't have the Death Penalty
+%
+* luca wonders what a Canadian keyboard might have on it
+<CQ> luca- an 'eh?' key...
+%
+* luca wonders why knghtbrd has abandoned us
+* elmo wonders if luca hasn't noticed the tiny hint of tension between knghtbrd and overfiend :P
+%
+* mhp goes into wolf mode, and eats Robot101 
+<mhp> sheeps are delicious
+<Robot101> that'd be sheep
+<ElectricElf> I thought he was a robot..
+<Robot101> a sheep, some sheep, many sheep.
+* willy infects mhp with foot-in-mouth disease
+<ElectricElf> Asleep, sleep, must sleep.
+<Robot101> lol, foot IN mouth? =)
+<willy> R101: most of the tories have been infected with it, i hear.
+%
+* mstone becomes frightened by excessively pointed footware
+<asuffield> mstone: you're stoned
+<mstone> what? you could put an eye out with one of those.
+%
+* mstone convinces the USPTO to let him patent debian and then sues everyone
+%
+* mstone sees irony in Overfiend bitching about CAPS
+<Overfiend_> mstone: I don't have caps in *all* of my mail messages...
+%
+* neuro blames it on elmo's women.
+<BlindMan> neuro: elmo has women?
+<neuro> BlindMan: katie, rhona, andrea, etc...
+%
+* ocsi is say becouse of his debian uid
+* Overfiend struggles to parse ocsi's words
+<ocsi> 2219.. more 3 and it's 2222
+*** Overfiend is now known as Jingofiend
+<Jingofiend> ocsi: are you tired?  your English is even worse than usual tonight.
+*** Jingofiend is now known as Overfiend
+%
+* rahul shoots some heroin into Overfiend's veins
+<Demonishi> rahul: PLEASE no more
+%
+* seeS blinks "thanks", "sorry", "overfiend"?? must be some wierd apple juice at lunch
+%
+* shaleh has been reading the python written by RH, supposedly big fans of the language -- further proof that RH rights bad code in all languages
+<uberSlimer> shaleh: True.  RH python code is *really* bad.  I hacked anaconda more than once. OMG it was bad.
+<shaleh> code like: for n in ['kernel-smp', 'kernel-enterprise']: # haven't you heard of tuples?
+<uberSlimer> I swear that part of me believes that RH hires 15 year old talentless programmers, and feeds them in exchange for code.
+<shaleh> uberSlimer: guess what one of my new jobs at VA is
+<uberSlimer> shaleh: hacking RH?
+<shaleh> uberSlimer: specifically anaconda
+<uberSlimer> shaleh: Oh, Shaleh. I'm so sorry.
+%
+* solomon equips the Magical +50 Ring of Not Fucking Up
+<solomon> solomon's Magical +50 Ring of Not Fucking Up is CURSED!
+%
+* solomon nudges the Loyal Community of Debian Developers
+<doogie> when did we become loyal?
+<solomon> oh, i didn't mean you guys
+<solomon> i meant, you know, the cabal
+%
+* tausq-work wonders if anyone can tell him what's the diff beween cHDLC and plain HDLC
+<wiggy> the c...
+* tausq-work kicks wiggy
+%
+* vorlon tries to figure out how he's going to convince his wife that they should really go to Brazil on their next vacation.
+<vorlon> "But honey, it looks so lonely on the PGP map!"
+%
+* wolfie remembers when scripting was the 'in' thing
+<wolfie> 'd00d i have mad popups'
+* wolfie shudders
+* SynrG does not recall a time when scripting was ever "in"
+<SynrG> must've hung around the wrong crowd
+%
+*** Joy (joy@pork.gkvk.hr) has joined #debian-devel
+<Omnic_> WHEEEEEEEEEEEEE!
+<Joy> heh, when you're up at 7AM you get to hear New Zealenders scream
+%
+*** Overfiend is now known as O
+<O> I am running the latest sid and I'm trying to compile a custom 2.0.38
+<O> kernel for use with smalllinux on an ancient PS/2 386 with 4 megs of RAM.
+<O> (The default won't do because it doesn't have support for ESDI drives.)
+*** O is now known as Overfiend
+<Overfiend> poor bastard
+<Overfiend> ESDI.
+<Myth> lets all send him a quarter so he can buy an IDE controller
+%
+*** Overfiend is now known as buxy
+<buxy> I have a GR!!!
+<buxy> Here is ballot!!!
+<buxy> [  ] Overfiend BAD
+<buxy> [  ] Overfiend BAD
+<buxy> [  ] Overfiend BAD
+<buxy> Please rank in order of preference !!!! Thanks you!
+*** buxy is now known as Overfiend
+* Joey wonders why [  ] Overfiend VERY BAD is missing.
+%
+*** joeyh_enroute has quit (Ping timeout for joeyh_enroute[206.112.110.143])
+<tausq> does joeyh irc during his commute or something?
+%
+*** willy is now known as wonty
+%
+<BenC> everytime I have toolchain problems with glibc...it's always because we don't use gcc-2.96-RH
+<neuro> tausq: it's what redhat uses!
+<BenC> tausq: yeah, but it's what Uli uses :/
+<tausq> <sigh>
+* tausq so wishes ia64 doesn't use 2.96
+<BenC> supposedly gcc-3.0 is approved aswell
+<BenC> I get the feeling that Uli introduces incompatibilites with gcc-2.95 just for spite
+%
+<BenC> geeks should not dance
+* BenC can't dance
+<asuffield> hey! nothing wrong with dancing geeks
+* asuffield waves at dancer
+%
+<BenC> ok, starting the incoming queue...
+<tausq> meep meep
+<Culus> MEEP!
+<Culus> OBEY! OBEY OR BE DESTROYED!
+<tausq> have you been reading too much btaf? :)
+%
+<BenC> watching four simultaneous glibc builds is a beautiful thing to behold
+<ElectricElf> BenC: Yummy.
+* BenC listens to the harmonic hum of disks chruning and cpu fans blowing
+<BenC> my 10 month old sits next to my rack and goes to sleep in his walker
+<BenC> must be a soothing sound for him
+<ElectricElf> BenC: Really? That's nifty.
+<ElectricElf> An entire generation of people who don't mind the sound of CPU and power supply fans. The world really would be a better place :)
+%
+<BenC> well now
+<BenC> Bush just lost my vote for a second term
+<wolfie> WHAT
+<wolfie> YOU VOTED FOR THAT MORON
+<wolfie> oh god
+<wolfie> well one less person to pick for DPL
+<Che_Fox> wolfie: don't judge like that.
+* BenC shoots wolfie
+<Che_Fox> judge like this!
+<BenC> one less voter :)
+<Che_Fox> YOU STUPID GIT WHAT WERE YOU THINKING OH MY GOD WE MIGHT AS WELL MOVE TO CANADIA
+%
+<BenC> wiggy: md5sum segv'd?
+<BenC> we are all doomed!
+%
+<BlindMan> *yawn*
+<BlindMan> morning girls
+<rcw> blindman: please, refer to us as either 'ladies' or 'maggots'.  Thanks.
+<wolfie> rcw: i find that offensive
+<wolfie> rcw: ladies? hardly
+<wolfie> rcw: most of us look far more like common tramps
+<wolfie> rcw: i'll have you not spreading such rumours about
+<wolfie> "ladies" indeed, the impertinence!
+<wolfie> rcw: hand over your debian badge
+%
+<CQ> ok, I'm off on vacation for two weeks... have a good xmas and new year's everyone!
+<brother> vacation? what's that
+<weasel> brother: you don't go to work but work on debian full time for a limited period of time
+%
+<CQ> rotfl... this from Linus' Kernel 2.4.8 mail:
+<CQ> pre3:
+<CQ>  - Ben Collins: 1394 updates
+<CQ> that's a shitload of updates :)
+%
+<Che_Fox> joeyh: wah, I'm so confused
+<Che_Fox> someone just tell me what to do
+<seeS_> Che_Fox: have a coke
+%
+<Che_Fox> well, this no longer looks like a stack smash
+<Che_Fox> this is the line that's crashing
+<Che_Fox> 1919    if (appResources.autofocus) XtSetKeyboardFocus(toplevel, childwid);
+<Che_Fox> both toplevel and childwid are perfectly legal
+<Che_Fox> no bad pointers, no bad stack
+* bod suggests that Che_Fox could recompile X with debugging...  that might help :)
+<Che_Fox> bod: You can go to hell. :)
+%
+<CheezH> Subject: ssh: shit is fucked
+%
+<Cluster> I guess instead of going out with a georgous girl I'll be coding C++....  I'm feelin depressed :(
+<washort> Cluster: coding C++ would do that to me too. :)
+%
+<Crow--> how do I align, at say, 6 inches, in TeX?
+<joeyh_> 6 inches in latex?
+* joeyh_ backs off
+<Slimer> whoah
+<Slimer> am i in the right channel?
+%
+<Crow-> i think we should use project funds to hire whores for all needy developers
+%
+<Crow-> i've also converted half the guys here to mutt from pine, hehe
+<Crow-> er
+<Crow-> wait
+<Crow-> i mean from pine to mutt
+<Crow-> oh wait i said it right the first time
+<doogie_> Crow-: stop drinking
+%
+<Crow-> im thinking the proper thing to do is for them to all join a cult and kill themselves
+<Doviende> they already belong to a cult
+<Crow-> yes, well, then all they have to do is kill themselves then
+%
+<Crow-> oops, when is Incoming going to be processed?
+<aj> Crow-: when omnic gets dumped...
+%
+<Culus-> Hmm, I see auric is still up
+<Culus-> Lalalalalal die die die! :P
+<BenC> Culus-: shush...do you want to jinx it! :)
+<Culus> quick, everyone log into auric :P
+<doogie_> Culus: and run screen?
+<BenC> doogie: no, run irc in a screen
+%
+<Culus> How odd. The cookies appear to have little mouths that are calling out 'eat me..' 'eeeeaaat mee..'
+%
+<Culus> I can't wait till someone debconfs perl!
+* Culus cackles evilly
+%
+<Culus> I hate all our users.
+<drow> poor culus
+<elmo> culus: you and myth should form a club!
+<Culus> elmo: YES!
+<Culus> elmo: That's a great idea
+<Culus> Myth: We need a name
+<Robot101> DMAU
+<Culus> Myth: The I HATE YOU club - IHY, sounds good
+<Robot101> Debian Maintainers Against Users
+<Culus> Anyone can be a member, overfiend will be the mascot
+%
+<Culus> I have a fun game. Lets compile apt on openbsd. Yes, Lets.
+%
+<Culus> I recommend we all begin mooing.
+<Culus> Mooing solves everything
+%
+<Culus> Make no mistake, Debian has enemies that would stop at nothing to destroy us
+<Culus> The cabal fights secret battles daily to hide this from the average developer, a world of evil that would corrupt them if they ever learned of it
+%
+<Culus> Satan is busy computing phase margins, please, check your soul at the door and try your call again. If you feel you have reached this message in error.. SATAN! SATAN! SATAN!
+* Manoj thinks culus has been hit by the mad cow disease
+<rahul> Manoj: you didn't notice this before?
+%
+<Culus> There is nothing that can be done to prevent people that are not liked from joining debian
+<Kronos-X> Culus: constitutional amendment?
+<Kronos-X> ;)
+%
+<Culus> You would not appear to be a developer either
+<Culus>  You are fortunate overfiend is not awake
+<doogie_> aren't we all.
+%
+<Culus> auric{jgg}~/apt2/build/bin#./apt-get moo
+<Culus>          (__)
+<Culus>          (oo)
+<Culus>    /------\/
+<Culus>   / |    ||
+<Culus>  *  /\---/\
+<Culus>     ~~   ~~
+<Culus> ...."Have you mooed today?"...
+%
+<Culus> well, I have been meaning to add that feature that irradiates users
+<Culus> I think irraditating users will solve all problems personally
+<Culus> First, they won't breed. Thus there will be less of them
+<tausq> apt-get --irradiate
+<willy> Culus: Hey, my dad's a user!
+<Culus> In fact, if filing bugs could be linked to irradiation, then through natural selection we'd get users that didn't file bugs!
+<Overfiend> Culus: sometimes even that step isn't necessary, you just have to find the right ball-busting chick.  Like Demonishi, who wouldn't .... if I were the last man on earth
+<Culus> willy: NO SYMPATHY!
+<calc> Culus: most of my bugs come from other developers, that would kill them off too ;)
+%
+<DanielS> "SHARE YOUR TIME WITH AN AWESOME SOLE MATE"
+<dark> There's something fishy about that quote.
+%
+<DanielS> -h, --help         you are currently reading it ;-)
+<DanielS> gotta love smartarse --help.
+%
+<DanielS> canard: it's not a reboot, it's a refresh. memory is like gas, the longer you use your computer, the more you use it up, except that you get it back when you reboot.
+<DanielS> canard: that was an actual explanation obtained from the MS helpdesk.
+<asuffield> DanielS: you failed CS, didn't you?
+<asuffield> oh dear
+%
+<Deek> Why is apt responding to every thanks?
+<apt> my pleasure, Deek.
+%
+<Demonishi> I'm suprised no one sells PC's pre-installed with pr0n
+<tbm> Demonishi: found a company..
+%
+<EZlsONf^> ALL WINKIDDY CUNTD SHOULD BE KILLED
+<XdVwDwMwP> ALL WINKIDDY CUNTD SHOULD BE KILLED
+<UbuhZdm> ALL WINKIDDY CUNTD SHOULD BE KILLED
+<emu> cuntd? is this a new daemon? neat
+%
+<ElectricElf> Okay, I don't want to start a flame war. But how many people here think the statement "C++ is better than C" is moronic and ignorant?
+<dark> ElectricElf: I prefer the unix hater's handbook version, "C++ is to C as Lung Cancer is to Lung"
+%
+<ElectricElf> mhp: "assing"? Sorry, not familiar with the term.
+%
+<Fendor> Ah yes, today I corrected a journalist for abusing the term 'hacker'. That rotten pig
+<Cyis> Fendor: You'd think they'd eventually learn...  harder to teach a journalist the correct meaning of terms than it is to potty train a child :)
+%
+<Fendor> I'm gonna be the first Debian user to ever have sex!
+%
+<Fendor_> Hello, any girls wanna chat? 
+<Fendor_> Whoops, wrong channel
+%
+<FsckIt> cdlu: hey, subscribe him to all the Debian mailing lists... :-P
+<cdlu> FsckIt: I made the mistake of subscribing -myself- to 28 debian mailing lists :)
+%
+<HoserHead> But I'll bet the page is inoperable after that.. "We're better than REGULAR links, we're JAVASCRIPT links!!!!!!!!! 31337!"
+%
+<Joey> Folks, you have smoked too much.
+<Joey> And apart from that, the stuff was bad.
+%
+<Joey> Ok, using an editor for editing is cheating.  What next?  May I use an Operating System for Operating the Computer or do I have to blow into the wires?
+%
+<Joy> "Newsflash: Demonishi Takes Command Of Debian Project"
+<DanielS> Joy: "Newsflash: Demonishi flashes thigh at BenC, DPL collapses in ecstacy, Demonishi assumes command"
+<claviola> Joy: in related news: "Demonishi expells 96% of the Debian developers during her PMS"
+%
+<Joy> ALL YUOR QA-CTTE MEMBERS ARE BELONG TO US!
+* Robot101 pulls out a scimitar and cuts Joy's head off
+<Kamion> Joy: you need help :)
+%
+<Joy> BTW did Voltaire actually compose anything? he was a philosopher mostly AFAIK
+<mhp> Joy : he surely sang under the shower...
+%
+<Joy> Newsflash: Debian Zombie Master Server Harasses Dallas
+<Robot101> JonKatz editorial..
+<Robot101> This is another typical example of open source projects exploiting the donations they recieve from the computer industry...
+<danish> All we need is a /. article. "master.debian.org back up!" And boom, it's not anymore.
+%
+<Joy> calc_: we've all been feminized
+<calc_> joy: was that the punishment for being caught with pr0n? ;)
+<Joy> effeminated, if i dare say
+<Joy> calc_: hehe, no
+%
+<Joy> how do ya pronounce "ook"?
+<jt> it is spelled 'ook', but is pronounced Luxury Yacht
+%
+<Joy> i could care less about eris :p
+<asuffield> Joy: that's a good, healthy, Discordian attitude :)
+%
+<Joy> i'm lame. beat me.
+* xtifr beats Joy :)
+<Joy> xtifr: thank you, a good spanking never hurts... umm...  nevermind :)
+%
+<Joy> it all comes to me now
+<Joy> r in r* commands is for `root exploitable'
+<Joy> root exploitable shell, root exploitable sync, root exploitable login
+<Joy> mmm maybe not sync
+%
+<Joy> it's not ALL: PARANOID, it's FUCKING: BROKEN
+%
+<Joy> luca: you should. what can't kill you, strengthens you, or however the saying goes :)
+<luca> joy, sticks and stones may break my bones, but words and images can permanently scar me
+%
+<Joy> oh my fucking god
+<Joy> 171 W32.Sircam mail in =www
+* Joy screams in horror
+<StevenK> Ohh, phew.
+* wolfie ponders fucking gods
+<Joy> the mailbox was 52MB!
+* StevenK thought Joy just saw the package he uploaded to Incoming.
+%
+<Klatu> EDITOR="rm /etc/passwd";export EDITOR
+<Klatu> oops... wrong window
+%
+<Lo-lan-2> Poik?
+<Lo-lan-2> Um.  Wrong window.
+<Lo-lan-2> Bah, poik nevertheless :-)
+%
+<Lo-lan-do> All hail BenC!
+* BenC notes Lo-lan-do was not kneeling when he said that...3 lashes
+* Lo-lan-do punches BenC in the nose
+* BenC calls the guards
+<Lo-lan-do> I'm doing nothing for less than 50 lashes
+%
+<Lo-lan-do> CQ: I know, let's create the meta-cabal.
+<solomon> Lo-lan-do: what?  you count cabals?  but TINC
+<liiwi> but was there a cabal in the beginning? 
+<Lo-lan-do> solomon: Oh yea, so they say to the non-cabalists.
+<doogie> which came first, the cabal, or the rumor?
+<asuffield> In the Beginning, there was Nothing but the Cabal. And there was No Cabal.
+%
+<Lo-lan-do> Gnus respects nature and Mail-Copies-To.
+%
+<Lo-lan-do> People physically interested in me (you can always hope) will see me in Bordeaux next July.
+<shaleh> Lo-lan-do: great, I have been looking forward to caressing that ass of yours
+%
+<LoRez-WK> hmh: is there a package that uses debconf'd information when running /etc/init.d/ scripts?
+<hmh> LoRez-WK: I don't think so. At least I sure HOPE so :)
+%
+<LoRez> Summary: I am happy to recommend the acceptance of Jesus as a Debian Maintainer.
+%
+<MadHack> don't you know that /org isn't fhs-compliant?
+* MadHack runs
+%
+<Manoj> I must go and write up some populist emails _right now_
+%
+<Manoj> I ran over my laptop with my car. 
+<Manoj> Actually, I backed over it, sitting in its case
+<luca> manoj, that truly sucks.
+<Manoj> well, the machine still boots up (at least the linux part)
+<ElectricElf> Manoj: Impressive! :)
+<luca> Linux. It'll boot on even *dead* boxen.
+%
+<Manoj> Joy: umm. ooops. Could have been on -private.  Someone flay me for revealing deep dark secrets on a public forum
+* dark hands Manoj a whip and a flaying HOWTO.
+%
+<Manoj> lftp ftp.gnu.org
+<Manoj> cd /bin
+<Manoj> get ls
+<Manoj> 29404 bytes transferred in 1 second (21.5K/s)
+<aj> Manoj: no, don't do it!!!
+<Manoj> the FSF has abandoned me, where are my rights?
+<Manoj> can I sue them for GPL violation?
+%
+<Manoj> w-b? warner brothers?
+%
+<MatthewV> argh! I hate trn!
+<wiggy> trn rules
+<canard> slrn rules
+<Lo-lan-do> That a troll?  May I join?
+%
+<Md> Booting... /vmunix.el
+%
+<Mercury> I need someone who knows imake.
+<willy> everyone who knew imake died in a tragic gardening accident in 1982
+%
+<Mercury> What is bad is when you can dial tech support, and navagate the menus without having to listen to any of them, and when they answer you tell them the exact problem, and they take a little while to be convinced.
+%
+<Myth> all I really want is for my network card to enjoy being ejected, and reinserted
+<calc> myth: fondle it ;)
+%
+<Myth> build build build, all night long, build build build while I sing dis song
+<Myth> mozilla is like a box of chocolates....
+<Myth> melted into a pile of gooey shit that you will never be able to clean up
+%
+<Myth> my butt compiles as well
+<Myth> would my butt go in US, or non-US
+<Myth> does that depend on if I have a passport?
+<Fendor> non-free, perhaps.
+<Lo-lan-do> Crypto-butt?
+<Fendor> A butt is a shared library.
+<Myth> well, that which goes in my mouth doesn't look the same when coming out of my butt
+<Fendor> Depending on one's sexual activity, of course.
+<Myth> so it could either be compression or encoding, or both
+<Omnic> neither. its just a formatting lib.
+<Omnic> its your organs that do the compression/encoding
+<villager> I wonder if that is going to be logged and put on the webpage somewhere...
+%
+<Myth> shaleh: but why did you take lintian if you abhor it so much?
+<shaleh> Myth: my own personal pain was worth it if lintian would function for the rest of debian
+<elmo> shaleh: ohhh! you're my hero!
+%
+<Myth> so right now, I need to get some hairy work done before I can get to mozilla
+* doogie hands myth a bic
+%
+<Myth> we need to start using those mutagenetic morphing algorithms
+<rcw> <dr evil>riiiiiiight</dr>
+<Myth> rcw: be quiet or I will shoot you with my ``laser''
+<rcw> OW
+<rcw> YOU SHOT ME YOU A-HOLE
+%
+<MythAway> I've actually been using E
+<Robot101> really? I've been snorting crack =)
+<MythAway> you don't snort crack
+<MythAway> you smoke crack, and snort cocaine
+<Robot101> ah, busted. =)
+%
+<MythJaded> aaronl: did you have your vocal cords surgically disconnected from your brain? or is your cluelessness and aquired skill?
+%
+<MythWork> blurgle fnurting gargle flap
+%
+<NotRobot> Let's replace de- with les- and have some fun
+%
+<Omnic> +6434739290 for land line :)
+* willy watches omnic's phone light up with debian developers racing to leave him pornographic voicemail
+%
+<Omnic> Culus: Demonishi works with canadians... poor girl
+* Culus sends omnic a copy of 'The Chipmunks greatest hits'
+<willy> Omnic: Oi!
+<willy> No mocking the canucks
+%
+<Omnic> I *SO* did not need to know that doogie shaves his legs
+%
+<Omnic> TOO MUCH MAIL!
+* Omnic kicks the internet
+<aaronl> TOO MUCH TAIL!
+<luca> no such thing as "too much tail", aaronl
+%
+<Omnic> changing to another uid is gonna be interesting
+<SamWork> Omnic ehhh?
+<Omnic> SamWork: mv /home/omnic /home/mjb;sed -e 's/omnic/mjb/' /etc/group , /etc/passwd, /etc/shadow;mv /var/mail/omnic /var/mail/mjb;echo "omnic: mjb" >> /etc/aliases
+<StevenK> Omnic: But _why_?
+<Omnic> StevenK: cos I'm sick of "omnic" :P
+<Omnic> I wanna be normal and use my initials
+<StevenK> Omnic: /nick mjb
+<StevenK> ;-)
+<Omnic> irc IS NOT life :P
+<SamWork> Omnic ARRRGH!! blasphemy!!!
+<StevenK> It _so_ is!
+<StevenK> SamWork: :-)
+<SamWork> irc is a drug
+<SamWork> life without it is just... boring
+%
+<Omnic> how does one quickly detect promiscuous devices on ethernet?
+<asuffield> oh, that's impossible
+<Omnic> asuffield: no it isnt
+<asuffield> Omnic: barring a quantum device, it is
+<Omnic> no, it isnt
+<asuffield> Omnic: how do you detect whether somebody is listening to you or not?
+<asuffield> it's the same problem
+<elmo> well, if they chat as much shit as you do asuffield, it's a fair bet that no one's listening :P
+%
+<Omnic> synx: good point, I wouldnt want to fondle Overfiend's man breasts
+%
+<Omnic> tadpole rock
+<aaronl_> TADPOLES ROCK
+<Omnic> no, Tadpole rock
+<LoRez> no, fraggle rock
+%
+<Omnic> whats decklin's nick?
+%
+<Omnic_> this is beginning to drive me batty
+<doogie_> beginning?
+%
+<Oskuro> I'm going to the village again
+<Joy> Oskuro: you're among the village people? :)
+%
+<Oskuro> what's /afs?
+<Myth> it is pure evil
+%
+<Overfiend> "I'm really into gay necrophilia," Tom said in dead earnest.
+%
+<Overfiend> "Ivor Horton, the Idiot's Guide to writing Books for Dummies in 21 Days"
+%
+<Overfiend> "Progeny:  Need Debian Mercenaries?  Call Us."
+<Overfiend> "We Will Paint Our Faces In Camoflauge, Infiltrate the Enemy Defenses, And Make Off With Their Women."
+<rcw> overfiend: "The windows server deployment was cancelled..." "Why?" "Vikings..." "Damn. Again?"
+%
+<Overfiend> All, I know is, since BenC lives in Virginia, he must have been *really* flying down the road to run over a cop in Texas and be home in time for dinner :)
+%
+<Overfiend> As DPL, I will ensure that it is a capital offense to package to any font in which the lowercase "i"s are dotted with little hearts.
+* Overfiend spits
+%
+<Overfiend> Deep6: join NM, find a sponsor, THEN you can hang out in here
+* aaronl sponsors Deep6 just for the sake of argument
+%
+<Overfiend> MOOAHAHAHAHAHAHA
+<Robot101> Overfiend: lol!
+<asuffield> was that a moo at the start there? :)
+<Overfiend> of course.  All True Villains have to start with a "MOO" before their "HAHAHAHAHAHA"
+<Overfiend> There is "MOOHAHAHAHA" for villainous, "my-evil-plan-is-coming-together" laughter, and "BWA HA HA HA HA" for derisive, scornful, mocking "what-a-fucking-moron" laughter
+* ElectricElf wonders which laugh Overfiend uses more...
+<Overfiend> "Several folks noted that VA is changing its name to "VA Software" to reflect the fact that they aren't a Linux company anymore. "
+<Overfiend> BWA HA HA HA HA
+%
+<Overfiend> OH, COME ON, LET ME FLAME THE FUCKER
+<rcw> does anyone else think it's unhealthy for Overfiend to keep his feelings to himself?
+%
+<Overfiend> OW OW OW OW OW, jesus CHRIST.  We're supposed to be FROZEN and our LIBC and BINUTILS are maintained by CVS ADDICTS whose LEFT HAND is SUPERGLUED to their DICKS
+%
+<Overfiend> and if you manage to sodomoize a couple of TREE HUGGIN' HIPPIES while you're at it, ALL THE BETTER
+<Overfiend> sodomize, even
+<Overfiend> must be out of practice typing that word
+* wolfie is surprised overfiend doesn't have sodomize bound to an alias
+%
+<Overfiend> don't write debconf templates like this:
+<Overfiend> Template: foo/bar/baz
+<Overfiend> Description: Would you like to
+<Overfiend>  Suck my big fat penis?
+<Overfiend> better would be:
+<Overfiend> Template: foo/bar/baz
+<Overfiend> Description: Suck my big fat penis?
+<Overfiend>  My penis is tasty.  You want my penis.
+<ocsi> good example Overfiend
+%
+<Overfiend> heh, ever notice how aaronl is me, without any of the redeeming qualities?
+%
+<Overfiend> maybe you have the magical mystical epoch-stripping dpkg-source
+<mstone> we call it the "mystery machine". epochs fade away as you munch on the "scooby snacks"
+%
+<Overfiend> penis jokes are okay in mixed company.  VMS is NOT!!!
+%
+<Overfiend_> Porn actors give their male kids really virile names.  "Thor", "Lance", "Bigus Dickus"
+<Overfiend_> some are subtler than others :)
+<willy> "Can you drive a 6" nail through a plank with your penis?" "Uh, not right now" "Tsk, a woman has to have some standards"
+%
+<Overfiend_> [Please reply to debian-x.]
+<Overfiend_> [Please reply to debian-x.]
+<Overfiend_> [Please reply to debian-x.]
+<Overfiend_> [Please reply to debian-x.]
+<Overfiend_> What part of that is too difficult to understand?
+<zarq> overfiend, the [] are confusing people 
+%
+<Overfiend_> besides, I like to refer to Sven Luther by his last name only.  That way I can treat him like a supervillain
+<Overfiend_> "Not so fast, Luther!  I know about your plans to nuke the San Andreas fault!"
+%
+<Primus> mhp: ah, feel like bouncing any email from linus and any email from alan to me? :)  I couldnt find a list archive that has full headers..
+<mhp> Primus: okay. nveber@d.o, right?
+<Primus> mhp: yep
+<mhp> one sec then..
+<Primus> mhp: thanks.  I was just curious what mailer/MTA they use :)
+<hartmans> primus: Planning on exploiting a bug to get a change into the kernel?;)
+%
+<Robot101> 'NASA apt-get dist-upgrades Debian on their Mars Probe'
+<Robot101> 'NASA fucked because lilo needs to be reconfigured through debconf'
+<Rhamphoryncus> c'mon, nasa'd use grub :)
+<DanielS> "NASA ^C dist-upgrade and apt-get install grub, Russell Coker used as rocket fuel for next mission"
+<Robot101> 'NASA answered question wrongly and left probe unbootable - spokesman says "Next time we'll use Mandrake..."'
+%
+<Robot101> 5003 kept, 0 deleted.
+* Robot101 ponders mail filters
+%
+<Robot101> asuffield: it doesn't work as a el dorito floppy image?
+%
+<Robot101> how do you pronounce xtifr?
+<xtifr> Robot101: like it's spelled :)
+* Robot101 donates a set of vowels to xtifr
+%
+<Robot101> let me clarify
+<Robot101> FUCK! FUCK! FUCK! FUCK!
+%
+<Robot101> she's not exactly a great beauty.
+<asuffield> Robot101: when did you last get any?
+<Kamion> ah, #debian-devel, master of the tactful question
+%
+<Robot101> the UI SUCKS GOAT TESTICLES!
+<bod> oh c'mon Robot101, don't hold back...  tell us what you *really* think
+<rcw> yeah, do you feel that way all over or just in spots?
+%
+<Robot101> will insanity make the DAM reject my NM application?
+<luca> he's already insane
+* luca looks at elmo
+<luca> phew... not here
+<Robot101> well thats OK then =)
+<knghtbrd> insanity is a prerequisite for being a Debian developer.
+%
+<Shrike> what does woody have that potato doesn't?
+<kernelco> bugs
+%
+<Sir^Ahzz> FUCK! my system is so screwed up right now due to dpkg segfaulting.
+<Sir^Ahzz> 8-(
+<Sir^Ahzz> ldconfig: Input file /usr/lib/libImlib.so.1.9.8.dpkg-new not found.
+<Sir^Ahzz> !?!
+<seeS> Sir^Ahzz: the word is not screwed, it is fun. You system is so fun right now due to dpkg seffaulting.
+<Sir^Ahzz> today is NOT a good day
+<SynrG> ahh, it's all a matter of perspective :)
+%
+<Sir^Ahzz> well if dpkg will STOP SEGFAULTING i'd do it.
+%
+<Skif> how to make chocolate moose, bork, bork, bork!  Furst you get dee m00sie... heer, m00sie!
+%
+<Slimer> In my opinion there is no need for timezones, it should always be *lunch*
+%
+<Slimer> What's brown and sticky?
+<Slimer> A stick.
+%
+<Snow-Man> Ohhh, yay!  Another flamewar!
+%
+<StevenK> "The same thing we do every night, Pinky!"
+<Joy> "Try to TAKE OVER THE WORLD!"
+%
+<StevenK> Dyslexia for cure found.
+%
+<StevenK> solomon: Like CC, only it blinds you
+<Joy> StevenK: you forgot the lobotomizing, too ;)
+%
+<StevenK> wiggy: I can kick Xu for you. ;-)
+<wiggy> StevenK: kick him hard
+<StevenK> "Hi Herbert! *KICK!* That's from Wichert"
+%
+<Treenaks> Sir_Ahzz: are you from the Castle of Aaaaaaaaaaaghgh?
+<Sir_Ahzz> no.
+<Sir_Ahzz> i'm from the castle of Mooooooooooo
+%
+<Tv> $tv->stop_hacking('jpilot'); no lights; no music; push @futon, $tv; $brain = pop @tv; chomp $brain;
+%
+<Tv> Overfiend: Do you _fix_ bugs at all, or do you just sneer at the submitter and close them?
+* Tv runs
+%
+<Tv> There's quite a lot of fucking on this channel, given the gender ratio involved..
+<Overfiend_> Tv: it's like prison
+%
+<Tv> Unnghgrllm... cd $WORK; zombie --hours 9; cd $HOME
+%
+<Viiru> 49? Ouch.
+<liiwi> that's like.. almost 50.
+<asuffield> liiwi: your mathematical skills astound us
+%
+<ZaNaGa> is it just me or do packages break more than they used to.. =)
+<willy> zanaga: as one of my friends used to say, `a smiley is an indication that you just made a humourous comment, not an excuse to avoid being punched in the nose'
+* willy punches zanaga in the nose
+<ZaNaGa> *ouch*
+%
+<Zxcvb> apt, karma dpkg
+<apt> dpkg has karma of 1
+<dpkg> apt: '640K ought to be enough for anybody.' - Bill Gates, 1981
+<apt> dpkg: bugger all, i dunno
+<dpkg> apt: The name is Baud......, James Baud.
+<apt> ...but name is already something else...
+%
+<_wiggy> I don't think I've ever seen a transvestite not counting tv
+<Doviende> _wiggy: maybe they were just really good at it
+%
+<`0V3RB1FF> HRM. 1 DONT TH1NK THAT /EXEC -O SHOULD ROUTE STDURR. JUST STDOUT
+<`0V3RB1FF> MAYBE I SHOULD F1LE A BUG AGAINST EPIC: "THIZ INTURFUREZ W1TH MY OBNOXIOUZ B1FFSTURISMZ ON 1RC"
+%
+<aaronl> AAAAAAAAAAAAAAAAAARRRRRRRRRRGGGGGGGGGGHHHHHHH
+<aaronl> ld, THOU SHALT FEAR MY WRATH
+%
+<aaronl> MY WHOLE HOME DIR IS GONE
+%
+<aaronl> [lehmann@grace lehmann]$ cat /etc/passwd | wc -l
+<aaronl>   19070
+<StevenK> aaronl: Lemme guess, RedHat?
+%
+<aaronl> gotta go. class.
+*** aaronl has quit ([BX] Windows 95, coded entirely by blondes)
+<doogie> yeah, right.
+<doogie> like he has class.
+%
+<aaronl> hmmm
+<aaronl> some people are idiots
+%
+<aaronl> how do you pronounce kerberos?
+<Culus> Moo
+<aj> Culus: that's a funny way to pronounce kerberos
+<aj> Culus: but i guess as a cow you don't have much choice
+%
+<aaronl_> why does this merit a package?
+<Viiru> Nowadays everything merits a package.
+<Viiru> Even your morning fart.
+<Robot101> apt-get install morning-fart
+<Viiru> Maybe I should package that.
+%
+<aj> OBEY! UPLOAD APT 0.4!
+<aj> NOW!
+<aj> TO INCOMING!
+* aj supposes he'd better be precise
+<aj> AND DON'T DELETE IT STRAIGHT AFTER!
+%
+<aj> and for my next trick, i'll send a message to Brandon Robinson
+%
+<aj> poor master :(
+* Culus gets out his disk failure date calculator
+<Culus> carry the one..
+<Culus> Hmmm
+<Culus> We Are Doomed
+%
+<aj> sigh
+<aj> so many evil plans, so little time
+%
+<aj> tausq: A deity curses? ``<God> Oh, capt!''
+%
+<aj> voltaire's ssh key's changed since i last logged into it apparently
+<aj> anyone have an accurate known_hosts entry for it?
+* aj supposes he's being overly paranoid
+<Culus> voltaire{jgg}~#cat /etc/ssh/ssh_host_key.pub 
+<Culus> 1024 35 146713406580684774623058345534143994728458177443745271252732978009785875673131642722891618113547849753576184285307817427158502646561468241057204077763554198298773084405863291325982289018441625498758655533434117775755816656597870142539261907388307444617771955439653626200105526204782717631709889487312587705263 root@voltaire
+<vorlon> aj: if you're going to be paranoid about ssh host keys, shouldn't you get ahold of the new key through more reliable means than irc? ;)
+%
+<aj> we need somone to appoint a cow to the technical committtee
+%
+<aj> woah!
+<aj> someone just posted to -devel about having diffs between packages files!
+<aj> what a clever idea!!
+<neuro> aj: that could change everything!
+%
+<aj> wtf do we always end up arguing about the most pointless fucking things imaginable?
+%
+<aj> you know what really sucks? my new ppc laptop runs cooler than my old i386 laptop, so i don't get to use it as a handwarmer when it gets a bit chilly at night
+<asuffield> aj: seek female/animal/server company, then ;)
+<aj> all of those make it kinda hard to type
+%
+<aj> you know, having an ibook right in front of me, probably means i shouldn't try ssh'ing to voltaire to do ppc build testing
+%
+<asuffield> I probably need sleep or something
+* asuffield tries to wake up a bit
+<asuffield> --- Received a CTCP SLEEP from luca
+<asuffield> --- Received a CTCP COFFEE from luca
+%
+<asuffield> I would much rather die alone. the alternative implies somebody shot me.
+%
+<asuffield> M-x woman [No match]
+<mhp> asuffield: it's bundled with emacs21
+%
+<asuffield> W: package-created-by-fiend
+* Robot101 remembers the E: maintainer-is-xu campaign... :P
+<nowster> W: package-contains-pure-evil
+<walters>  E: package-contains-vi-implementation
+<asuffield> W: java
+%
+<asuffield> grr. my little brother was downloading pr0n
+<willy> one, two, three
+<willy> DUH!
+<willy> why don't you just tell him where your pr0n collection lives?  That'll keep him busy for the next few hours.
+<asuffield> that's not the problem. making my connection lag, that's a crime.
+<asuffield> because my solution is much more satisfying
+<Omnic> what's your solution?
+<asuffield> I removed the patch cable to his room
+%
+<asuffield> it's extremely hard to rapidly decide if a person is genuine, or if they are an idiot
+<Joy> maybe they're a genuine idiot :)
+%
+<asuffield> kernel-patch-2.2.19-donald-becker-ethernet-drivers-and-i-can-add-any-old-crap-here-because-it-is-way-off-the-end-of-your-screen-by-now
+%
+<asuffield> maybe we should just ship an ftpmaster with every copy of debian to do all the installations manually...
+<elmo> asuffield: oi
+<elmo> asuffield: don't give people ideas
+* luca goes to the CloneYourPet facility and prepares a vat to accept elmo
+%
+<asuffield> that's a couple dozen lines of perl or so. can't think of a way to do it on the command line
+* luca was waiting for somebody to say "use the Schwartzian Transform"
+<calc> luca: no the phrase is use the schwartz ;P
+%
+<asuffield> watch out for the slack users. stay out of knife range.
+* asuffield chuckles evilly
+<rcw> asuffield: barbarians. BEGIN THE INQUISITION!
+<rcw> put them up in stocks and show them apt-get
+<ElectricElf> rcw: Yeah, but they'd go on a rampage as soon as they saw update-rc.d :)
+%
+<asuffield> would the cowsay maintainer be amenable to a patch which causes it to silently exit if it's parent process is an irc client?
+%
+<bab> Is anyone else having X not start since yesterdays' upgrade?
+<asuffield> yes <yawn> /join #debian and /msg apt news
+<bab> okay (i did try to look out for traffic on this but i can't quite work a text console :) )
+<asuffield> that's like having trouble using a pencil
+%
+<bdale> Mar 16 23:34:05 buildd: unstable: total 948 packages to build.
+<tausq_> that's it? :)
+<joeyh> I think there are released ports less far behind :-/
+%
+<bdale> the more interesting idea I had early on was to go excerpt hunks of text from the writings of RMS, etc, so that vrms could do more than just report what was non-free... it could give you a real tongue-lashing, too.  to be totally whacked, it might be cool someday to get RMS, et al, to record some flaming and build a vrms-festival so you can get the full treatment.  :-)
+<asuffield> hehe
+<bdale> well, you get the idea, festival and audio playback being two possible approaches to the same end
+<infinity> bdale : That would be incredibly disturbing.
+<infinity> bdale : Especially in a cron job at 6:30 am. :)
+<pasc> bdale: and when a system is completly non-free free, it would play the free software song
+<bdale> infinity: particularly with the mixer call to max the volume first...  :-)
+<bdale> pasc: no, no, we aren't supposed to *penalize* people for having free systems...  :-)
+<infinity> Interspersed with clips of Bruce telling us that we should listen to RMS 'cause his girlfriend is hot. ;)
+<pasc> bdale: but the song is about freedom! and happyness!
+%
+<bignose-work> there's one I never heard... electrons are black holes
+<washort> bignose-work: that explains why computers suck
+%
+<bod> aj: I believe that you can get drugs/surgury to cure premature optimization
+%
+<bod> compared to iwj's obfuscation prowess, I am but an egg
+%
+<bod> damnit...  the internet is broken
+%
+<bod> subtle?
+<bod> and Overfiend in the same sentence?
+%
+<bod> why does chsh ask me for a password?
+<rcw> bod: wouldn't you be pissed off if you were away from your desk for a second and someone changed your shell to csh or something?
+%
+<calc> gar someone broke mozilla-cvs
+<Oskuro_> calc: the maintainer?
+<calc> probably
+%
+<calc> now if someone in nvidia could just get sircam and send out the gl driver source :>
+%
+<calc> we have 666 RC bugs now
+%
+<certron> LRU: can I show them my package?
+* certron thinks he will keep his package where it is.
+<LRU> certron: yours would take a movie all by itself :-)
+<certron> LRU: well, maybe it wouldn't be a movie...
+<certron> LRU: more like an 'animated short'
+%
+<certron> with debian, i can download alife.
+* certron wishes it was 'a life' instead.
+%
+<claviola> hmh: why are you consistently saying "libre" instead of "free" now? :)
+<hmh> claviola: I spent too much time saying 'free as in free beer, and free as in free speech' this week
+* claviola thinks libre is too much spanish for him
+<hmh> claviola: well... English is broken re. this word, so we route around English :P
+%
+<claviola> i'm gonna name my college's soon-to-be debian machines after lethal diseases (couldn't have a better idea)
+<DanielS> claviola: "what's that you're carrying?" "this? this is ebola." "AARGH! *runs away in horror*" "damn, and she was hot, too"
+%
+<cmr> I think Perl is, quite frankly, one of the most ugly, clunky languages I've seen.
+<bod> cmr: and?
+%
+<cmr> oh my god.  I've foudn a perl script that eats all memory and dies. stupid thing.
+<doogie_> cmr: you installed debbugs?
+<stu> cmr: windows has got something like that.. called internet explorer, i think
+%
+<cmr> wow, gkrellm is gorgeous.
+<doogie_> get your eyes checked
+%
+<dEdd> at the risk of getting flamed -- is Eray's application being addressed?
+* StevenK flames dEdd
+<dEdd> StevenK: why?
+<StevenK> The "E" word.
+%
+<danish> ah, #debian-devel. from philosophical discussions on technical issues to modes of government and law, to all your base.
+<cesarb> danish: "That's why we love Debian. No distro would be complete without Zero Wing references." =)
+%
+<dark> "After unpacking 1539kB will be freed."
+<dark> That's not natural.
+%
+<dark> moon-buggy is sort of fun.
+<Treenaks> dark: play it when you're drunk - THAT's fun! :)
+%
+<davidw> you have to bargain with pirates for control of your mail files?
+<davidw> arrh, matey, gimme yer treasure, or it's curtains for ye mail spool
+%
+<dieman> <dark> eat Depends: cook | eat-out.
+<dieman>        But eat-out is non-free so that's out.
+<dieman>        And cook Recommends: clean-pans.
+<dieman>         -- Seen on #Debian
+<aaronl> oh GOD i read that wrong
+<dieman> eh?
+<aaronl> at first i saw that as cock instead of cook
+<aaronl> and i saw "cock Reccomends: clean-pants"
+<dieman> heh
+* aaronl needs to adjust his font
+%
+<dieman> reportbug, with Virtual Overfiend AI.
+<Demonishi> Oh dear god.
+<Demonishi> That'd be horrible.
+<dieman> Hi! Welcome to reportbug!
+<dieman> You wont fucking report any fucking bugs against xfree86 with this pile of shit bug reporting tool.
+<dieman> If you do need to, use email!
+<rcw> "Warning: This package appears to be maintained by Branden Robinson. Are you sure you wish to continue?"
+* Cyberlink waits for the bug# for *that* patch.
+<Demonishi> rcw: "WARNING: You are about to file a bug report against a package maintained by Branden Robinson. Do you wish to continue? N/N"
+<Demonishi> "But I want Yes!" "We warned you...."
+<rcw> cyberlink: as soon as one appears, I'll append to it a patch to make it configurable via an external file
+<rcw> "There's your problem. Your /etc/pricks file is out of date."
+%
+<dieman_> "* SourceForge: Project Info - shoop (Joseph Emmanuel (Joey) Hess, Gergely Nagy)
+<dieman_> http://oase-shareware.org/shell/links/
+<joeyh> you'd better be kidding
+<dieman_> nope
+* joeyh wonders if sourceforge got his full name via some incenstuous relation with VA HR, or what
+%
+<doogie> "The media is always accurate, except when they're talking about things I know." 
+<Joy> how true :)
+%
+<doogie> $ chown us:us /your_base -R
+<doogie> chown: what you say!!
+%
+<doogie> Culus: release 0.4 please.
+* doogie prods
+<Culus> its not that much better..
+* tausq joins the prodding
+<Culus> You all suck :P
+%
+<doogie> From: "Eray Ozkural (exa)" <erayo@cs.bilkent.edu.tr>
+<doogie> To: Branden Robinson <branden@debian.org>
+<doogie> You use vi? Emacs rules.
+* doogie dons abestos suit
+* joeyh whaps doogie for letting me see something eray wrote
+%
+<doogie> I agree with wiggy.
+<wiggy> stop agreeing with me doogie
+<wiggy> that scares me
+%
+<doogie> Joy: you know what we need?
+<doogie> Joy: a bot on owner@bugs, that looks for control@bugs-like messages, and sends a scalding reply back. :|
+%
+<doogie> Overfiend: you got bug 90000, and it included a patch
+<Overfiend> I did?
+<doogie> and your prize for getting such a round number, is to get to apply the patch, and close the bug.
+%
+<doogie> approaching bug 100k
+<willy> doogie: that is, like, so May 2001
+%
+<doogie> still no klecker
+<doogie> how can I use cvs.d.o, and fix dpkg?
+<liiwi> doogie: pigeons, pigeons.
+<SynrG> ah, good thinking.  establish an ssh-over-pigeons tunnel
+%
+<doogie_> Joy: get a room
+<Joy> doogie_: ?
+<doogie_> Joy: you and mhp's sister
+<Joy> doogie_: hush there :p
+<Joy> mhp: he said that, not me :)
+<willy> can't you guys take this to #debian-sex?  :-)
+%
+<doogie_> Overfiend: I have a source mapping now.
+<Overfiend> eeeeeeeexcellent
+<Overfiend> doogie: you're going to turn me completely into Mr. Burns...
+%
+<doogie_> Which useless thread are we going to ignore today, Brain?
+%
+<doogie_> is that your boyfriend?
+<aaronl> no
+%
+<doogie_> it was straight forward the first time, just tedious
+<aj> nothing in debbugs is straight forward
+<aj> if it looks straightforward, it's wrong
+<aj> it's all a plot by iwj to trap the unwary
+%
+<doogie_> ooh.
+<doogie_> bug in apt!
+<doogie_> if I do apt-get .... | /usr/games/chef, it hangs
+<doogie_> oh, wait, no.
+<doogie_> need a -y
+<doogie_> (Reedeeng detebese-a ... 45006 feeles und deerecturies coorruntly instelled.)
+<doogie_> Prepereeng tu replece-a feelters 2.15 (useeng .../ercheefes/feelters_2.15_i386.deb) ...
+* doogie_ ponders a chef locale for dpkg
+%
+<doogie_> why are there no interesting flames on -devel?
+%
+<drow> Hm, joeyh, are you really online this time?
+<joeyh> yes
+<drow> joeyh: How's debian-installer lately?
+<joeyh> cooking dinner tho
+<bod> the debian-installer now cooks dinner?
+%
+<drow> Maybe I won't reupload apache-perl
+<drow> see if I can get twenty bugs on the same issue in the next day
+<drow> That's I think eight identical bugs this week
+<drow> people even include comments like "yes, this is a duplicate of #foo, and i'm filing it anyway"
+%
+<drow> wiggy: Will there be any significant penalty if I wrap dpkg in a script that adds --smallmem
+<Joey> Oh dear... I parsed that as --stallman...
+%
+<dtype> elmo or culus around?
+<Tv> No, elmo is remotely humanoid and culus looks like a cow. Neither of them are very spherical.
+%
+<edlang> "my dick is more minimalist than your dick"
+%
+<elmo>  /msg manoj quick, insult overfiend for no apparent reason, that should stir things up
+%
+<elmo> "effectively close" my ass.. GAR!
+<aj> elmo: effectively close your ass? maybe you need to eat some prunes or something
+%
+<elmo> I'll have you all know I deleted my ``pr0n'' collection at Oldenubrg, just so I could compile mozilla debs :-P
+<doogie> elmo: your priorities are twisted.
+%
+<elmo> hey overfiend, could you explain the business plan behind progeny? cosmicray disowns it entirely...
+<rcw> elmo: step 1: collect underpants
+<rcw> step 2...
+<rcw> step 3, profit
+* tausq waits for rcw's company to go ipo
+%
+<elmo> liw: I'm only doing it to fan the flames; I'm deliberately processing everyone in reverse order, so that everyone gets upset about 'queue jumpers'
+<liw> elmo, way to go :)
+<LoRez> elmo: =)
+<m2-> elmo: you are evil and we all love you :)
+%
+<emu> heh: ITP: Pants -- Ensure your system is properly dressed
+<rcw> emu: Pants is Priority: optional, right?
+<ElectricElf> rcw: Not in my house, it isn't.
+%
+<fire_hawk> OMG
+<fire_hawk> BenC is alive!
+<fire_hawk> Praise the Lord!
+<fire_hawk> heh
+* fire_hawk cancels the flower order.
+* BenC brandishes his weapon and takes aim at fire_hawk
+* fire_hawk puts his "buy 1 cremation get 1 free" ticket back in his wallet.
+%
+<fitz> i got a blue screen, which beeped when i pressed buttons?
+<swente> fitz: did you accidentally install Win NT ?
+%
+<gorgo> hmm... does anyone know who said "it's practically impossible to look at a penguin and feel angry" ? I found it, liked it, put it in my sig, and now it is attributed to me all over the place :)
+%
+<gravity> Would anyone object to my renaming xorg-x11 to schadenfreude-x11?
+%
+<greycat> lamer: step away from the browser.  slowly....  don't make any sudden moves...
+%
+<hax> btw, what happened to 'dpkg'? did 'apt' eat him?
+%
+<helix> please don't make jokes about me being dfsg-free
+%
+<ibid> um, is this right?
+<ibid> Passed by Congress September 25, 1789.  Ratified May 7, 1992
+%
+<ilaT> hmm, does anyone have a good GLib/GObject tutorial?
+<asuffield> step 1: cut off your own right arm
+%
+<irq> .
+<irq> '
+<irq> oh no! ITS A FLOATING SEMICOLON!
+<irq> run!
+* washort stomps on it before it can scurry under the couch
+<FsckIt> ,.
+<FsckIt> dead semicolon
+%
+<jaqque> Manoj: (this is totally off topic) quick question, can you write a fast fourier transformation in named.conf?
+%
+<jemfinch> can I ask installation questions here?
+<washort> jemfinch: yes
+<washort> jemfinch: if you're fortunate you'll get an answer. =)
+<final> jemfinch: if not, it'll probably be entertaining
+* wolfie gets some caramel popcorn
+%
+<joeyh>  zsh (4.0.4-24) unstable; urgency=low
+<joeyh>    * Move zsh binary to /bin so it can more safely be used as
+<joeyh>      /bin/sh or root's shell.
+<joeyh> I like zsh, but, umm
+<knghtbrd> ew
+* moshez knows where *he'd* move zsh to, but that's neither here nor there.
+%
+<joeyh> aaronl: not only is kysh female, but h^Wshe lives near you.  I'll hook you up
+%
+<joeyh> constants of the universe:
+<joeyh>   pi
+<joeyh>   linux vm needs rewrite
+<joeyh>   e
+<joeyh>   planck
+%
+<joeyh> nooooo
+<joeyh> not the unreleased apt of death
+%
+<joeyh_> bloody freaking slow C progrgams, slowing down nice fast perl
+%
+<joeyh_> damnit, I really, really need to figure out a way to get most of /etc into cvs
+%
+<joeyh_> we went with udebs because doogie threatened to raise some kind of stink if we uploaded non-policy compliant files with .deb extention, and I buckled to this threats.
+<tausq> why not moodebs?
+%
+<jt> dark: When questioning the grammar a 'The' creature used, one might say, 'the the the The used was ambiguous'.
+%
+<lamont_work> oh.  that problem.  long=long long on many 64 bit arch's
+<wolfie> long.. long long.. long long long.. whatever
+<wolfie> why dont they just have long, really long, and fucking long
+<dieman> heh
+<dieman> long long!
+<doogie> when did turn into a dick size contest?
+<wolfie> doogie: duh, everything turns into a dick contest
+<Viiru> "Life is a dick contest!"
+%
+<liiwi> The Great Oracle of Caffeine says: "yes".
+* asuffield consults his pineal gland
+<asuffield> it says "ignore liiwi, he is stoned"
+<luca> that sounds rude, somehow
+%
+<liiwi> this thinkpad has a nipple
+%
+<liiwi> uw has given us secure quality software: uw-imapd, wu-ftpd, pine
+<luca> liiwi, sarcasm?
+<liiwi> luca: who? me? never.
+%
+<lilo> Overfiend: you're never this way in person
+%
+<luca> Overfiend, you could send Colin some flowers or something
+<Overfiend_> nah, I wouldn't want to cause him some sort of homosexual panic.  The English are quite prone to that.
+%
+<luca> We're Glaxo-Wellcome. Better living through chemicals. Glaxo-Wellcome. Your partner in life.
+<luca> Feeling tired? Take an upper!
+<luca> Feeling edgy? Take a downer!
+%
+<luca> aaronl, i have this site you should see...
+<aaronl> lemme guess, goatse.cx?
+<luca> how did you know!
+%
+<luca> if Debian pays for the fiber to my door, I'll happily babysit Debian servers
+<luca> I'll throw the electricity in for free :)
+<luca> no, really, I mean it :)
+%
+<luca> mercury, taking your Model M to bed is kinda kinky, don't ya think?
+%
+<luca> oskuro, the power you have over robot101 is scary
+* Robot101 larts luca repeatedly
+%
+<luca_> rpm. because cpio wasn't good enough.
+%
+<mhp> I liked the `if you could come back as an animal, what would you be?' thread
+<asuffield> "A koala, so that I could have koala sex"
+<StevenK> "A horse, so I could kick the shit out of you for starting this crap."
+<mhp> I would be a penguin, and have koala sex.
+%
+<mhp> does anyone know of a four letter acronym, that is specific to Debian? (not counting TINC)
+<tausq> mhp: WNPP
+<mhp> tausq: THATS IT! Thank you!
+<Robot101> mhp: is this song you're mutilating... by the village people, perchance?
+<Robot101> it's fun to browse on the W N P P! you can come and see, any new ITPs, and pick up an orphaned package or three...
+%
+<mhp> wow, I open =debian-bugs-dist, and load jumps to 4
+%
+<michaelw> OMG! ROTFLMAO on a d-p post...
+<Overfiend_> d-p?
+<Overfiend_> -policy?  -private?  -powerpc?
+<asuffield> -pointless? :)
+%
+<moshez> Wow! The idiocy of that article cannot be described
+<MythWork> the idiocy of arguing about the idiocy of that article cannot be described
+%
+<mstone> DanielS: if you don't have the honesty & maturity to question what you're doing, you need to go back to school
+<StevenK> mstone: Errr, DanielS _is_ in school.
+<DanielS> StevenK: sssh :P
+%
+<mstone> I really hate the word "francophone". makes me think of those prissy telephones stuck on a piller
+<Overfiend_> No way, a francophone is a telephone inside a huge hot dog bun
+%
+<mstone> anyone doing floating point in a shell script needs their head examined
+<mgoetze> mstone : i do. :)
+* mstone rests case
+%
+<mstone> fsck, what's up with this shit. first gopher and now uucp. next thing he'll be pulling out the heliograph
+<CosmicRay> hehe
+<CosmicRay> mstone: you do realize I turned town an opportunity to revive archie? :-)
+%
+<mstone> parse error, core dumped
+<doogie> mstone: you have core?
+<mstone> doogie: two of them!!!!
+<doogie> tmi
+%
+<netgod> "back! BACK! i have PGP on my laptop! its a MUNITION!"
+%
+<netgod> we control the vertical, the horizontal, and the dns
+%
+<neuro> hrm.  www.networkassholes.com took me where I expected it to.
+<rcw> neuro: heh, wow, that is intuitive
+%
+<neuro> so lets compile the whole distro with that compiler!  it'll obviously not add any impossible to debug bugs
+%
+<nick_>  * Found a wonderful poof to the last theorem (closes:Bug#17).
+<nick_>  -- Fermat
+%
+<nickr> you know what be cool
+* moshez squishes liiwi
+<nickr> an MTA written C that uses guile for config
+<nickr> muah
+<moshez> nickr: you're fucking sick
+<liiwi> I find fucking sick people offensive.
+<nickr> moshez: thank you.
+<moshez> liiwi: I find people from Finland offensive.
+<nickr> I find rewriting everything in python offensive. I offend myself daily.
+<moshez> liiwi: I find squishing offensive too.
+<nickr> squishing is not only offensive, it is obscene.
+<Manoj> hmm. cowsay treats the sacred mother cows in a derogatory fashion. I am deeply offended.
+* Manoj hunts for omre packages to be offended by
+<moshez> Manoj: finished the easy ones? kjv, anarchism, violent games?
+<nickr> I'm offended by anything that is written in a procedural language
+<Manoj> I like violent games
+<Manoj> I am offended by languages starting with the letter p -- Xu
+<moshez> Manoj: you can be offended by clisp, because it makes fun of lispers
+<Manoj> all lisp like languages make fun of people with speech impediments
+<nickr> I'm offended by any package that provides localizations other than C and en*
+<moshez> Manoj: oooooh, I know. You can be offended by packages that you don't know what they do.
+<moshez> Manoj: I mean, there's gotta to be at least 2k of those, right?
+<kyle> receiving spam from debian lists in charsets that i don't support offends me!
+<Manoj> moshez: yeah -- they could be doing the nasty and corrupting my kids
+<moshez> Manoj: what about window managers? doesn't it offend you how they manage other windows without regards for the windows feelings?
+<moshez> Manoj: there are like 15 window managers, so that's a big win
+<doogie_> "I've offended by all the languages made to replace languages whose name starts with the letters c, b, or p."
+<Manoj> I have a 133Mhz Cyrix box. Hence I am deeply offended by the bloated crap that is sawfish, enlightenment, and all of GNOME and KDE
+* dilinger is offended by people getting offended
+<kyle> hrm. console-tools offends me too.
+<Manoj> in the good old days of X10, we never needed this crap
+<nickr> I'm offended by anything that uses named pipes. Pipes have the right on anonymity
+<doogie_> I'm offended that X10 stands for a graphical environment, and also a home-control automata
+%
+<paravoid> ok, sarge is releasing, apple is switching to intel
+<paravoid> WHAT THE HELL IS GOING ON TODAY?
+%
+<pikachu> dont put more crap directly in /usr/lib or ill slay thee where ye stands
+%
+<piman> I aim to... please?
+%
+<rahul> #debian is full...
+<Joy> ...of shit? :)
+<rahul> Joy: probably :)
+%
+<rcw> BTW what's up with our list archives on master?
+<rcw> debian-devel cuts off at august
+<Overfiend> rcw: I think <censored> <censored> when <censored> <censored> <censored>, therefore the recent archives are <censored>
+%
+<rcw> buxy: it's standard procedure to write off all developers as soon as they start dpkg development
+<rcw> step one - develop dpkg - step two - become dpl - step three - disappear forever
+%
+<rcw> liiwi: printk("CPU0 on fire\n");
+%
+<rcw> pretzelgod: it only takes about 5 years for something (especially something mildly silly) to completely fade from public memory
+<rcw> pretzelgod: or do you still believe that by the power of greyskull, you have the power?
+* pretzelgod still believes in the power of crack
+%
+<rcw> stuff that's properly documented never catches on
+<rcw> especially not open-source stuff
+<rcw> cuz if it was properly documented, people wouldn't need to dig deep into the source to figure it out, therefore they wouldn't need to become developers, therefore the software wouldn't get significantly better
+%
+<rcw> the last thing we need is for culus to gain political stature and mob ties
+<doog-work> rcw: you're saying he doesn't have them now?
+<rcw> I mean on an official level
+%
+<rcw> umm, if any of you have IRC logs of #debian from 1998, I'm just gonna run away quietly
+%
+<rcw> will never stop screaming is unfortunately not a criminal offense unless you do it in a courtroom (then it's contempt :)
+<calc> i only had a minor run in with the law once
+<calc> but the people didn't file charges against me thankfully
+<aaronl> what happened?
+<calc> rcw: disturbing the peace
+<calc> aaronl: my girlfriend was a bit too young
+<calc> i was right about 18 i think
+* ltd_ chuckles
+<rcw> calc: that involves screaming very loud and for a very looooong time
+<calc> rcw: well it was quite a while
+<calc> at least 30min that i know of
+%
+<rcw> wow, ritual sacrifice of new maintainers - that's got potential
+<aj> (and people thought the old n-m process was "closed"...)
+<rcw> next thing you know there'll be this Debian spliter cult claiming to practice 'Tantric Debian'
+<rcw> s/spliter/splinter/
+<asuffield> who gets the female
+<asuffield> ?
+<rcw> I'd imagine they'd have elections every year to decide that
+%
+<rcw> yeah, cuz we're all people people
+<rcw> raise your hand if your personality has ever been described as 'bubbly'
+%
+<robster> ljlane: go beat up rasterman please
+%
+<secher> I'm tired, I thought this was funny: is there a libid.o?
+<doogie> you're very tired.
+<secher> doogie: libido.. sex drive.. libid.o.. ah, nevermind.  gnight.
+<doogie> you need to get out more
+<bod> cc -o me main.c -lid -lego -lsuper_ego
+%
+<seeS>  From: free-pix@erohard.com
+<seeS>  To: webmaster@debian.org
+<seeS> Japanese Amateur Pages Is Filled With Hot Teens!
+<seeS> Does this mean we have more Debian-JP volunteers?
+%
+<seeS> # mount -t reiserfs /dev/md2 /mnt
+<seeS> Segmentation fault
+<seeS> oh well
+%
+<seeS> eww
+<Manoj> seeS: I hope that was not directed at emacs
+<seeS> Manoj: it wasn't, but now you mention it...
+%
+<seeS> java AND autoconf? WOOO that has to be the ultimate in evilness, definitely a sign of doom
+%
+<seeS> maybe we need a libXu
+%
+<seeS> there is no topic!
+*** willy has changed the topic to: <seeS> there is no topic!
+%
+<seeS> when woody freezes, will it still be called woody?
+<asuffield> seeS: no, it will be renamed to "stiffy"
+%
+<shaleh> comment found in lintian:
+<shaleh>  # Perhaps I should submit this to the obfuscated perl contest.
+%
+<shaleh> how many fucking times do i have to tell Yann that my keyboard is US qwerty?
+%
+<shaleh> tasks are great for newbies, who do not need/want a choice
+<shaleh> but they are not great for the rest of us
+<shaleh> how do I choose between the 8 ident daemons?
+<RevKrusty> shaleh: install them all and let them fight it out!
+%
+<shorty> elmo: Hm, don't you want to bug the maintainer? ;)
+<elmo> shorty: we did; in real life even... *shrug* doesn't do much, Phil is fairly laid back
+<Kamion> laid back in the sense of "horizontal"
+<Overfiend> Phil H. is dead?
+<Kamion> Overfiend: no, just very, very relaxed :)
+%
+<sir_Ahzz> WOOOOOOOOO!
+<sir_Ahzz> I GOT PISSED ON BY OVERFIEND!
+<sir_Ahzz> my life is complete. ;)
+%
+<solomon> CURSE THE TWO FLIES THAT HAVE FLOWN AROUND MY MONITOR FOR THE LAST HOUR
+<solomon> CURSE THEM TO HELL
+<solomon> YEEEEAAAARRRRGGGGHHHHH
+%
+<solomon> DanielS: if i could just come up with a loud irrational exclamation involving ravens and stomach walls, it would be better than the buzzer of death!
+<solomon> SCREEECH SCREEECH SCREEEEEEEEEECH!! THOSE ARE THE CRYING RAVENS OF THE TRUTH, THEIR BEAKS POKING THROUGH THE BRUISED STOMACH WALLS OF YOUR WRONGNESS!
+%
+<solomon> it sounds almost like some discussion got onto -devel that belonged in -devel.
+%
+<solomon> wtf is pants?
+<doogie_> solomon: what goes on the floor of your girlfriend's floor
+<solomon> sorry, i don't get any
+<rcw> solomon: I asked people that a lot the first time I went outside too
+<doogie_> solomon: well, for some, s/girl/boy/
+* rcw ducks/runs
+<solomon> pants - prevent computing without pants
+<StevenK> solomon: Blame thom, he made it.
+<solomon> but wtf is it :)
+<StevenK> solomon: It's an init script that says 'Putting on pants' at startup, and 'Taking off pants' at shutdown. That's about it.
+<solomon> StevenK: uhhhhm :)
+<doogie_> StevenK: and ftpadmin accepted that?
+%
+<srbaker> "I'm gonna have to num your breasts.  Num num num num num."
+%
+<srbaker> Espy used to answer all of my stupid questions without bitching. I miss that, everyone here bitches when I ask a stupid question. :P
+<doogie_> you bitch.
+* doogie_ hides
+<srbaker> doogie; yeah, like that
+%
+<srbaker> Manoj prolly has no idea how his mail is filtered either, i've seen his .gnus file :P
+%
+<srbaker> how do i turn a piece of cat5 into crossover?
+<srbaker> i don't have a hub, just a piece of cat5
+<Overfiend> srbaker: strip off the insulation and make a Möbius strip
+<Overfiend> then place the unshielded cable into a Klein bottle
+<Overfiend> shake vigorously, mix in a naked singularity and freeze at absolute zero for the time it takes for a proton to decay
+%
+<srbaker> the line in port caught fire on me :P
+<rcw> srbaker: now explain just what the hell you did?
+<Overfiend> srbaker: stop fucking with me
+<rcw> printk("dsp0 on fire?\n");
+<srbaker> Overfiend: I fuck you not.
+<rcw> srbaker: did you spray your card with hair spray first?
+<srbaker> rcw; my computer used to catch fire all the time
+%
+<stockholm> psychologically the icecream was very important.
+<stockholm> debian people work better with icecream
+%
+<stu> GAHHHHH
+<stu> google assimilates yet another innurnet technology
+<stu> translation
+<aaronl> porn?
+<aaronl> oh, that's old
+<aaronl> they even have newsgroups now
+<stu> yeah, they bought deja
+<seeS> so now you can understand german pr0n
+%
+<tausq> QUACK
+<bod> tausq is on quack
+<tausq> isn't this more amusing than mooing? :P
+%
+<tausq> elmo-for-dpl!
+<tausq> :P
+* bod kicks tausq in the nuts
+<seeS> Eray for DPL!!
+* Omnic kicks seeS in the nuts
+<tausq> nuts for DPL?
+%
+<tausq_> "Well, I'm just grateful that no one broke in to www.redhat.com and stole the source for Linux."
+%
+<tausq_> davej has quit (Moo.)
+<tausq_> Culus: see what you've done?
+<tausq_> :>
+<Culus> davej?
+<tausq_> Culus: random person from #kernelnewbies
+<Culus> tausq: Excellent, the corruption spreads
+%
+<tbm> 3
+<elmo> 4
+<mhp> 42, I win
+<tbm> mhp: didn't we agree that 69 wins? :P
+<mhp> hell! I forgot it!
+%
+<tbm> seeS: how difficult is it to implement a script which kills non-advocated NM people automatically?  I thought about simply doing it by hand
+%
+<tbm> why write release notes then?
+<wolfie> i dont know
+<wolfie> its not like anyone reads them
+<robster> wolfie: i'm sure many users do
+<robster> i hope
+* wolfie adds robster to his 'naive' list.
+<Viiru> Lets just stop writing documentation at all.
+<Viiru> Nobody ever reads it.
+%
+<tbm> wolfie: re-write the NM docu
+<neuro> wolfie: or look at more porn
+<wolfie> I gotta go with neuro
+%
+<unclean> Overfiend: its a joke... i'm playing as if i have developed a psychological condition that makes me scream I HATE BRANDEN ROBINSON whenever I talk about XWindows.
+<RevKrusty> unclean: that's not funny...some of us do have that condition. :)
+%
+<unclean> oh. wait.
+<unclean> apparently the normal redirect command does that. nm.
+<doogie> unclean: next time, I will wait 2 minutes before answering
+<doogie> unclean: time is money, and you just wasted mine.  you can expect a bill in the mail soon.
+* doogie hides
+%
+<wart> canard: Fun is trying to complete Joy in xchat ;)
+<asuffield> wart: it's three characters you lazy SOB
+%
+<webfreak> time to start reading civil disobediance for english class now :/
+<njs> webfreak: buck the system! don't read it!
+%
+<wiggy> -rw-r-----    1 root     root     12228221 May  1 07:03 xferlog.4.gz
+<wiggy> -rw-r-----    1 root     root     12555149 Apr  1 06:48 xferlog.5.gz
+<wiggy> -rw-r-----    1 root     root      9204386 Mar  1 07:06 xferlog.6.gz
+<wiggy> -rw-r-----    1 root     root      8300171 Feb  1  2001 xferlog.7.gz
+<wiggy> -rw-r-----    1 root     root      7001762 Jan  1  2001 xferlog.8.gz
+<wiggy> -rw-r-----    1 root     root      6826912 Dec  1  2000 xferlog.9.gz
+* wiggy detects a trend in there
+<dilinger> wiggy: newer version of gzip are getting horrible compression?   ;)
+%
+<wiggy> eric_bcn: that's like a year old joke
+<eric_bcn> wiggy yeah, but my network connection is really slow
+<wiggy> so slow it took a year for that joke to reach you?
+<wiggy> man, that's even slower then the internet in australia
+%
+<wiggy> in a stunning new move I actually tested this upload
+<Robot101> wow =)
+<asuffield> wiggy: say it ain't so!
+%
+<wiggy> precompiled files?
+<wiggy> the horror
+%
+<wiggy> quick perl question: how do you turn a character ("a") into a numerical value?
+<doogie_> system("shoop ord 'a'");
+%
+<willy> 44:1724:Scunthorpe, Eng.:United Kingdom
+<willy> Do you think that one was added to annoy people who grep for naughty words?
+%
+<willy> ALL YOUR W-B DATABASE ARE BELONG TO AURIC!
+* willy hides
+%
+<willy> doogie: I refuse to rant about glibc on an open irc channel. there might be ladies or children present :-)
+<OverMyth> if a lady or child is here, they deserve it
+%
+<willy> what's wrong with ical?
+<willy> is it insufficiently bloated for modern gnome desktops?
+%
+<wolfie> I motion that we require tattooed serial numbers
+<wolfie> on the forehead of anyone who wants to join #debian-devel
+<wolfie> do i hear a second of this motion?
+<Culus> woflie: Yeah, PGP fingerprint across the forhead
+<tausq> wolfie: seconded
+<wolfie> Culus: is that a second?
+<wolfie> a thirded
+<wolfie> all in favour?
+<wolfie> aye!
+<doogie_> PGP fingerprint along one's ass crack.
+<Culus> doogie: Bet that hurts
+<wolfie> i have 1 aye, and none dissenting
+<doogie_> you must drop your pants whenever you meet another developer.
+<Culus> doogie: Naw, only when you see overfiend
+<wolfie> that constitutes a quorum by MY rules which  are the only ones that matter!
+<dieman> doogie_ - i keep mine *near* my ass, but not on my ass.
+<wolfie> the motion passes!
+<aaronl> the pants dropping can be our secret handshake protocol
+%
+<wolfie> Joy: all your grammar are belong to us
+* Mercury beats wolfie's and joy's heads together.
+<Joy> wolfie: for great spelling !!
+%
+<wolfie> StevenK: and shouldn't that be void main() ?
+<felson> wolfie: NO
+<felson> wolfie: MAIN IS INT DAMMIT
+<felson> INT MAIN INT MAIN INT MAIN
+%
+<wolfie> do australians not know how to aggregate routes or something
+%
+<wolfie> i have a lot of bug reports this morning..
+<Kamion> wolfie: I imagine somebody decided you were an easier target than Xu, or something
+<wolfie> i look like an easy mark eh? :(
+<doogie_> no, you just look easy.
+%
+<woot> gar
+* woot just tried to expand "FTP" in terms of 
+<woot> "... to package"
+%
+<woot> hah.
+* woot just turned one of djb's programs into a zombie process
+<woot> BAD CODE BAD CODE
+<aj> bad code bad code, what ya gunna do, what ya gunna do when it 'dumps on you?
+<Omnic> aj, you really really have issues
+<aj> Omnic: sorted by year, and leather bound
+%
+<woot> infinite levels of bureaucracy 
+<darkewolf> woot: you mean like debian? :)
+<woot> yes!
+%
+<xsdg> Overfiend: you've used GTK, no?
+<Overfiend> xdsg: cut it out, I'm trying to think about pussy
+%
+<xtifr> aargh, I can't believe there's no screwdrivers near my computer -- what kind of drugs am I on?
+<danish> xtifr: ones that make you eat screwdrivers, maybe?
+%
+<xtifr> hmh: I put "killall spammers" in my crontab, but it doesn't seem to have helped :)
+%
+<xtifr> intel?  don't they make those overpriced, inefficiently designed AMD clones?  :)
+%
+<xtifr> joeyh: hand me back that crack pipe, I'm not done with it :)
+%
+<|> > - What is Debian's (current) approach to non-free software?
+<|> The current approach is to argue about the future approach. ;-) 
+*** | is now known as elmo
+<elmo> astute applicant..
+%
+> > I assert that you are a gerbil. By your logic it is now your
+> > responsibility to demonstrate that you are not.
+> Gerbils don't write on public mailing lists. :)
+That's clearly false: you're a gerbil, and you're writing on a public
+mailing list.
+	-- Andrew Suffield, Raphael Hertzog, and Anthony Towns
+%
+> Hmm; I myself like twizzle sticks (ala fsck) to let one know the
+> machine isn't spinning into oblivion...
+When someone needs to run fsck from their postinst, we'll talk.
+	-- Seth Arnold and Joey Hess
+%
+> Is this our chance to finally package the kitchen sink and include
+> it in Debian?
+It's already packaged under the cryptic name "emacs".
+	-- Daniel Burrows and Petr Cech
+%
+> Ok folks, why is Debian called "GNU/Linux" instead of simply
+> "Linux"?
+To annoy all the uptight "Linux" fanboys. Duh.
+	-- Miles Bader
+%
+> To pseudo-quote Anthony Towns on this one: policy is not a stick to
+> hit lazy maintainers with.
+Oh, come now.  *Anything* can be a stick to hit lazy maintainers with.
+Just so long as they get beaten.
+	-- Julian Gilbey and Branden Robinson
+%
+Also, the flamewars will be tedious and interminable :-)
+	-- Steve Greenland
+%
+Alternatively, perhaps one day those extension libraries will become
+proper shared objects and we can all learn to stop worrying and love
+the bomb.
+	-- Branden Robinson, libsdl1.2_1.2.2-3.3.changes
+
+Alternatively, we could conceptualize good security in terms more
+complex than "penis war".  Imagine that.
+	-- Branden Robinson, CCing letters@lwn.net
+%
+Am I the only one who thinks that 128-bit was chosen because the IETF
+thought that at the time when the Internet will be based on IPv6, most
+computers will be 128-bit?
+	-- Tomasz Wegrzanowski
+%
+And let's not forget that James is a cute, cuddly, furry red creature.
+	-- Adam Heath
+%
+As Debian's resident professional philosopher, I hereby grant Debian a
+special one-time-only exception to the normal philosophical definition
+of "Category", and hereby permit Debian to call anything it wants a
+"Category".
+	-- Thomas Bushnell
+%
+Aww.
+	-- Erinn Clark
+%
+But hey, let's have a go at an impeachment! We could make up a
+procedure for it and everything! It'll be fun!
+	-- Anthony Towns
+%
+Cluebat brigade, assemble!
+	-- Jason McCarty
+%
+Debian. Give us the child until the age of six, and we'll give you the man.
+	-- Branden Robinson
+%
+Er, debconf includes its own web server. In 256 lines of perl.
+(Shittiest web server on earth too, btw.)
+	-- Joey Hess
+%
+Everything is on time, eventually.
+	-- Robert Benson, from _Scriptures of Venus_
+%
+From solemnity to whining, bitching, and bellyaching in record time.
+I guess that's what we're all about...
+	-- Branden Robinson
+%
+Furthermore, since I anticipate that you will refuse to agree with my
+refusal to agree with your agreement with the refusal to agree, I must
+state for the record now that I formally refuse to agree with your
+refusal to agree with my refusal to agree with your agreement with the
+refusal to agree.
+	-- Branden Robinson
+%
+Hahaha, the DPL can barely wipe his nose without consensus :>
+	-- Jason Gunthorpe
+%
+Have you stopped beating random kids on the street? (I *only* need an
+yes or a no, it's an direct question, it shouldn't be hard).
+	-- Peter Makholm
+%
+Hmmm... so we should not test Potato for doneness with a fork?
+	-- Andrew Weiss
+%
+I presume the "preferred" mp3 encoder/player would be brought in by a
+task-annoy-the-riaa package or similar.
+	-- Anthony Towns
+%
+I propose that Debian maintainers not be permitted to use programs
+like "dadadodo" to generate their changelog entries.
+	-- Branden Robinson, submitting a bug against debian-policy
+%
+I think I need a glass of scotch.
+	-- David Nusinow, after uploading X.org
+%
+I think Matt lost the third copy of form 30351A.
+	-- Joey Hess
+%
+I was not aware that PWD was arch conservatism and CURDIR was
+avante-garde neo-programming.
+	-- Manoj Srivastava
+%
+It has always been Debian's philosophy in the past to stick to what
+makes sense, regardless of what crack the rest of the universe is
+smoking.
+    -- Andrew Suffield
+%
+It is perhaps too bad that the DFSG uses "discrimination" in its
+pejorative sense, since the word also has a non-pejorative meaning. If
+I cannot discriminate between the roadway and pedestrians, I'd better
+not be driving a car.
+	-- Branden Robinson
+%
+Kill it or at least modify it so it sends ICBM-coords too and lets us
+nuke the users.
+	-- Peter Makholm, discussing bug-buddy
+%
+Once again proving that "Debian" is short for "Ian's Debating
+Society".
+	-- Anthony Towns
+%
+Ooooh.  An ed script.  Break out your mood rings and fondue pots,
+we're gonna have a tupperware party.
+	-- Branden Robinson
+%
+Perl modules tend to have nicely hierierachical layout and good
+descriptive names (except for when they don't).
+	-- Joey Hess
+%
+The lesson might be that trying to legislate good taste will never
+work.
+	-- Joey Hess
+%
+Time to go and write some new and pointless application that installs 
+into /FLONK/FLONK/FLONK/FLONK/FLONK.
+	-- Andrew Suffield
+%
+WHAT TO DO:
+ - Get a clue
+ - Read better
+	-- Ben Collins responds to Eray Ozkural's bug report
+%
+bzzzzzt bzzzzzzzzzzzt! hear that it is the big buzzer that means you
+are wrong wrong wrong! still going off AAAAA BZZZZZZZZZT IT IS GETTING
+LOUD AND LOUDER SIGNIFYING THE PROFOUND WRONGNESS OF YOU
+BUAAAAAAAAAAR!!!
+	-- Jared Johnson
+%
