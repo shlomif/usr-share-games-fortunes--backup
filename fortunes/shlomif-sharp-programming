@@ -4589,7 +4589,7 @@ Dire Straits. The parody is licensed under the public domain.
    <Rashad>  n is the number of entries in an array, for example.
      <sbrg>  yep
   <rindolf>  Rashad: now, some problems's *verification algorithm* is
-             polynomial and these problemms are called "NP"
+             polynomial and these problems are called "NP"
    <Rashad>  Verification algorithm?
   <rindolf>  Rashad: verification means you verify that the solution is
              correct after given one.
@@ -4633,7 +4633,7 @@ Dire Straits. The parody is licensed under the public domain.
              is NP or not,
    <Rashad>  kadoban: It got pretty philosophical fast :P
    <Rashad>  P = ?
-  <rindolf>  Rashad: P is the class of polynomial problem,s
+  <rindolf>  Rashad: P is the class of polynomial problems
   <kadoban>  P, the complexity class above, which is problems you can
              solve in polynomial time on a deterministic turing machine.
    <Rashad>  I am a bit confused now..
@@ -4737,7 +4737,7 @@ Dire Straits. The parody is licensed under the public domain.
     <Gamah>  sbrg: but the number of sudoku permetations and soultions is
              not unbound...
   <rindolf>  Rashad: generalised Freecell is NP-complete
-  <rindolf>  Rashad: which assumes you have n ranks of cards insetad of 13
+  <rindolf>  Rashad: which assumes you have n ranks of cards instead of 13
              (ace-to-king)
      <sbrg>  Gamah: for a 9x9 sudoku, no, obviously not. but we are
              talking about sudoku in general
@@ -5545,5 +5545,1939 @@ Dire Straits. The parody is licensed under the public domain.
       <wXeno>  all mails from *@* -> inbox2 doesn't count :)
     <rindolf>  wXeno: in this case i deleted them
     <rindolf>  wXeno: but i dont delete all emails
+
+    -- ##programming, Freenode
+%
+       <mentalita>  mozzilla no longer makes thunderbird?
+       <mentalita>  mozilla
+         <rindolf>  mozzarilla
+        <occultus>  mozarella foxfire > goggle charm
+            <xeno>  mentalita: I'm not sure, I haven't really cared about
+                    thunderbird for probably a decade
+       <mentalita>  what do you use xeno
+       <mentalita>  outlook?
+            <xeno>  at work outlook, at home gmail
+            <xeno>  and yeah, I know that means google has all my mail
+            <xeno>  but at least it means *someone* has my mail, asopposed
+                    to the mail I had before I started to use gmail, which
+                    is lost forever
+         <snake2k>  <occultus> mozarella foxfire > goggle charm ... no...
+                    micirosluft adge > life
+        <occultus>  macrohard straightedge > netscoop
+         <snake2k>  occultus, what about papple lafari?
+        <occultus>  isn't pear souffle barely maintained now?
+         <snake2k>  occultus, I think they gave up on it lol
+         <snake2k>  Gotta admit though, I wish Microsoft was my dad so
+                    that it would continue supporting me for some god
+                    forsaken reason even though I'm a disappointment lmao
+         <rindolf>  heh
+ <snowmancantcode>  snake2k: i was of the opinion microsoft commonly
+                    killed of its "children" just as it got useful
+ <snowmancantcode>  or common so maybe a bad father to have
+ <snowmancantcode>  no support post 18 years end of life support :P
+         <snake2k>  snowmancantcode, hahahaha lol "son, you're a grown man
+                    now. You must die."
+
+    -- ##programming, Freenode
+%
+          <rindolf>  36 files changed, 160 insertions(+), 1118
+                     deletions(-) ==> a very productive night
+             <bavi>  nice
+             <bavi>  tighten it up?
+          <rindolf>  i'd like to club my old self who just copy pasted and
+                     modified CSS code
+             <bavi>  ha
+             <bavi>  "let's just say I got rid of A LOT of extraneous
+                     whitespace"
+             <bavi>  ;)
+          <rindolf>  bavi: heh
+          <rindolf>  bavi: i can probably save even more lines by
+                     converting the Contents.pm files to YAML
+              <hio>  Why do people use Rust? Is it a form of stockholm
+                     syndrome?
+              <hio>  I mean, any child could see that this language is
+                     overcomplicated
+              <hio>  Yet they act like it's all fine
+          <rindolf>  hio: i feel that ponylang is more complicated than
+                     rust
+              <hio>  ponylang has a GC, how can it be more complicated
+              <hio>  just the weirdo decision from the Rust team to wrap
+                     lambda arguments with | args | is crazy
+              <hio>  they did that just to make parsing easier. Can you
+                     imagine? Wow
+          <rindolf>  hio: well, admitedly i didnt study rust too closely
+          <rindolf>  hio: ruby has that too
+              <hio>  They actually thought that making their parsing job
+                     slightly easier justifies making the language weirder
+                     and introducing new syntax that doesnt resemble
+                     function calls at all even though lambdas are
+                     basically exactly like functions
+          <rindolf>  hio: this night I reduced my codebase by close to a
+                     1,000 lines
+              <hio>  thats great bro, you should start a facebook blog
+          <rindolf>  hio: i have a facebook and stuff
+              <hio>  I'm talking about really important issues
+          <rindolf>  hio: my latest tweet sparked some interest there
+          <rindolf>  hio: you are obsessed w discussing various languages
+              <hio>  I have hopes for both ziglang and jailang. Odin seems
+                     okay too but it's really hard to keep track of a
+                     language that resides only in youtube videos
+              <hio>  rindolf, bad languages are the reason why software
+                     sucks so much
+              <hio>  literally if we only get one good language,
+                     everything else will be fixed within a matter of
+                     months to years
+          <rindolf>  hio: a lot of software apps i use are ok
+              <hio>  people are so thirsty for better languages, they
+                     jumped on Rust and Golang like crazy
+              <hio>  can you imagine? it just shows how bad we have it
+             <tttb>  hi
+          <rindolf>  tttb: hi, sup?
+              <hio>  jailang will be released this year, are you ready yet
+                     rindolf ?
+             <tttb>  rindolf: i want my interface in java to have
+                     attributes but they can't
+          <rindolf>  hio: should i be?
+          <rindolf>  tttb: ah
+             <tttb>  should i use an abstract class
+             <tttb>  or should i just give each concrete class the
+                     attributes and use an interface?
+          <rindolf>  tttb: you can also define accessors
+             <tttb>  i know, i'll use an abstract class for the attributes
+                     and an interface for the methods
+              <hio>  rindolf, what do you think? dont you want 0.2 sec
+                     compile times?
+             <tttb>  or is that dumb
+              <hio>  0.2 sec to compile an application that has c++
+                     features and c++ speed is incredible
+              <hio>  you should switch to it as soon as it's available
+             <bavi>  https://www.xkcd.com/303/ :D
+          <rindolf>  hio: sounds good - what will its licence be?
+          <rindolf>  bavi: :)
+          <rindolf>  bavi: i broke the travis build though :(
+             <bavi>  rindolf: oh no!
+             <bavi>  as soon as I got a passing build i disabled travis
+                     for that repo ;)
+          <rindolf>  bavi: i suspect it is because i didnt install
+                     uglify-es
+          <rindolf>  bavi: my projects are becoming chimeras
+              <hio>  rindolf, MIT
+              <hio>  ur welcome
+              <hio>  what language are you using now?
+          <rindolf>  perl, python, c, cmake, c++, website meta lang,
+                     javascript, ruby, gnu make, and more
+          <rindolf>  hio: i use more than one
+              <hio>  half of those are bad
+              <hio>  why use perl, ruby, make? dude
+          <rindolf>  hio: they are ok
+              <hio>  i just said that they arent okay at all
+          <rindolf>  hio: that was to bavi btw
+          <rindolf>  hio: you are entitled to my opinion
+             <tttb>  can someone please explain what the point of an
+                     interface is when an abstract class provides all its
+                     functionality?
+             <tttb>  in java
+          <rindolf>  hio: one reason is that i have a lot of legacy perl
+                     code and it needs to be maintained
+          <rindolf>  tttb: you can inherit from more than one interface
+              <hio>  just rewrite ur perl
+              <hio>  wait until jailang is released though
+             <tttb>  ok
+          <rindolf>  hio: heh
+             <bavi>  i read the first few chapeters of the gnu make manual
+                     the other day, i like how it's written
+          <rindolf>  hio: i will rewrite all my perl code into
+                     $FASHION_LANGUAGE by hiring Chuck Norris, who will
+                     complete it in an hour and charge me 10,000,000 USD
+          <rindolf>  bavi: :)
+          <rindolf>  bavi: gmake now integrated guile scheme
+    <Era_Scarecrow>  I didn't know chuck norris could code... i figured
+                     he'd just punch the computer and it would give him
+                     what he wanted...
+          <rindolf>  Era_Scarecrow: the computer just does what he wants
+          <rindolf>  Era_Scarecrow: by pure intimidation
+          <rindolf>  hio: i like the mit licence
+          <rindolf>  it is my go to licence for my own projects
+           <usr123>  rindolf: Hello. Could you please take a look at my
+                     code?
+          <rindolf>  usr123: it seems fine, but u may have off-by-one
+                     errors
+    <Era_Scarecrow>  rindolf & usr123> I'd have looked at it, but i don't
+                     use python, so i don't know.
+          <rindolf>  Era_Scarecrow: python is easy
+    <Era_Scarecrow>  perhaps, i'm not familiar with it, although it would
+                     mostly be syntax i'd have to get familiar with.
+          <rindolf>  Era_Scarecrow: someone once told me he was able to
+                     look at python code and immmediately be able to tweak
+                     it without knowing it
+          <rindolf>  Era_Scarecrow: i think he already knew perl 5, though
+ <FriesAndSriracha>  Any reason to use fish over zsh?
+          <rindolf>  FriesAndSriracha: i am still using bash
+    <Era_Scarecrow>  ditto, i also use bash... Depends on if there's a
+                     specific feature you need or not.
+          <rindolf>  FriesAndSriracha: i found zsh too incompatible w bash
+           <usr123>  rindolf: Well in that case, I'm just returning if
+                     today is 7 and food is less or else Im returning the
+                     first ele of the array. even if it iterates one more
+                     or less would it affect the output?
+ <FriesAndSriracha>  rindolf: I am still on Bash as well, I just wanna
+                     follow the bandwagon ;)
+          <rindolf>  FriesAndSriracha: ah
+ <FriesAndSriracha>  bandwagon == coolKids
+    <Era_Scarecrow>  Fries> why would you want to jump on a bandwagon? I
+                     don't see the point...
+ <FriesAndSriracha>  So that's why I was wondering if anyone here has used
+                     both fish and zsh and which one is better
+ <FriesAndSriracha>  Or the pros and cons of both
+ <FriesAndSriracha>  rindolf: also, what you mean by incompatible with
+                     bash?
+          <rindolf>  FriesAndSriracha: csh is the bestest!
+                     http://www.shlomifish.org/open-source/anti/csh/
+          <rindolf>  FriesAndSriracha: i think $var does not expand words
+                     by default
+        <SigSegOwl>  good morning everybody :)
+          <rindolf>  FriesAndSriracha: the only thing better than csh is
+                     CMD.EXE
+ <FriesAndSriracha>  I guess there's plugins for that
+          <rindolf>  FriesAndSriracha: j/k
+          <rindolf>  FriesAndSriracha: there is an option
+          <rindolf>  SigSegOwl: hoooooo
+           <usr123>  unable to ask questions on their forum as well. Seems
+                     like I don't have enough points. This is bad
+ <FriesAndSriracha>  I mean zsh seems to have a way bigger community than
+                     fish
+           <usr123>  is there a competitive programming channel on
+                     freenode?
+        <SigSegOwl>  why do hdmi to dvi cables only work one way ?
+        <SigSegOwl>  or even hdmi to displayport o.O ?
+          <rindolf>  SigSegOwl: physics possibly
+ <FriesAndSriracha>  Csh :P
+        <SigSegOwl>  let me ask it a little bit differently... why can't i
+                     connect a screen that has vga, dvi, dp to a pc that
+                     only has hdmi xD
+    <Era_Scarecrow>  SigSegOwl> Use a hammer... it will fit...
+        <SigSegOwl>  Era_Scarecrow: hammer the screen or the pc ?
+          <rindolf>  FriesAndSriracha: i am reminded of this too -
+                     http://www.shlomifish.org/humour/fortunes/show.cgi?id=more-advanced-than-CVS
+    <Era_Scarecrow>  SigSegOwl> Hammer the connection into one of your
+                     ports... so... sorta them all
+          <rindolf>  Era_Scarecrow: heh
+    <Era_Scarecrow>  http://rinkworks.com/stupid/cs_abuse.shtml
+ <FriesAndSriracha>  Is there any CLI centric channel on Freenode?
+    <Era_Scarecrow>  try joining #bash?
+ <FriesAndSriracha>  That's pretty counterproductive ;)
+    <Era_Scarecrow>  Although if you go to one of the linux rooms they
+                     might be helpful
+ <FriesAndSriracha>  Considering I am trying to move away from Bash
+        <SigSegOwl>  so there is no way to connect dvi or dp to hdmi ?
+ <FriesAndSriracha>  Ask in ##hardware ?
+    <Era_Scarecrow>  SigSegOwl> Without a converter, probably not...
+          <rindolf>  Era_Scarecrow: heh, funny link
+    <Era_Scarecrow>  rindolf> Go back one level and there's ALL TYPES of
+                     topics.. programming, hardware, scammers... techno
+                     mumbo jumbo no one else understands :P
+           <usr123>  Is there a competitive programming channel on
+                     freenode?
+          <rindolf>  usr123: you can discuss it here
+    <Era_Scarecrow>  usr123> Hmmm maybe... Can't get more competitive than
+                     say CRobots though
+          <rindolf>  usr123: problem is there are many CP sites
+        <SigSegOwl>  see ya later then :D heading to work...
+          <rindolf>  SigSegOwl: hooooo
+           <usr123>  Well. I did post my code. I just can't figure out the
+                     corner case I might be missing.
+              <l2y>  usr123: try #algorithms
+           <usr123>  l2y: Thanks. on it
+          <rindolf>  Era_Scarecrow: ah
+    <Era_Scarecrow>  I don't know what channels there are, because when i
+                     go to look over the list of channelse or search
+                     through them.... there's so many and my client isn't
+                     very good at searching channel lists, so hope you
+                     have the exact title of something...
+              <l2y>  Era_Scarecrow: this is easy. you just google "irc
+                     <yourtopic>", then find the first crawler, look at
+                     the number of members, and if it's legit, join
+    <Era_Scarecrow>  l2y> Maybe. I've also just joined rooms to see if
+                     they are empty or not :P
+    <Era_Scarecrow>  Here it's midnight... i should sleep soon
+          <rindolf>  Era_Scarecrow: i stayed up all night refactoring old
+                     CSS stylesheets
+    <Era_Scarecrow>  fun...
+          <rindolf>  Era_Scarecrow: i ended up reducing the codebase by
+                     close to a thousand lines
+ <FriesAndSriracha>  Sass!
+          <rindolf>  FriesAndSriracha: no sass yet
+    <Era_Scarecrow>  fun fun. I got a script for reducing the size of a
+                     differential data backup up and running
+          <rindolf>  FriesAndSriracha: i just consolidated the CSS
+                     directives
+ <FriesAndSriracha>  Sass changes lives :)
+          <rindolf>  Era_Scarecrow: great
+          <rindolf>  FriesAndSriracha: i like sass
+    <Era_Scarecrow>  yeah... the big pain in the butt was trying to get
+                     diff and patch to work on potentially differing
+                     newline types, without it replacing whole files just
+                     because it was \n instead of \r\n lines or whatever
+          <rindolf>  FriesAndSriracha: ah, are you a fan of the sriracha
+                     sauce?
+ <FriesAndSriracha>  rindolf: sure am ;)
+          <rindolf>  FriesAndSriracha: ah , i like it too
+          <rindolf>  Era_Scarecrow: i see
+ <FriesAndSriracha>  Mostly because if that Garlic
+ <FriesAndSriracha>  *of
+          <rindolf>  Era_Scarecrow: i use individual tarballs for backups
+          <rindolf>  Era_Scarecrow: i have a 1 tb ext hard disk
+          <rindolf>  Era_Scarecrow: and i exclude various large dirs that
+                     i dont need backed up
+    <Era_Scarecrow>  mhmm... i have a backup script that runs every 6
+                     hours taking files newer than my last backup and
+                     saving it, means the files are about 3Mb per backup
+                     per day. then when i get around to plugging in my
+                     other drive, just copy the backups and i'm golden.
+          <rindolf>  Era_Scarecrow: ah
+    <Era_Scarecrow>  but when i run my script, i can remove unnecessary
+                     inclusions cutting the size down to something like
+                     100k, and then with diff/patch, down to 60k per day
+ <FriesAndSriracha>  Well you can use rsync
+             <bavi>  gah... i was talking down the dark hallway and
+                     accidentally kicked/stepped-on the cat and one of her
+                     incisors went right into my heel
+             <bavi>  s/talking/walking :)
+          <rindolf>  bavi: :(
+ <FriesAndSriracha>  And that's why folks use your phone's LED
+    <Era_Scarecrow>  Fries> Not sure how i'd use it, as this is the only
+                     running computer in the house right now...
+             <bavi>  she is fine though :)
+          <rindolf>  bavi: ah
+   <SlashLife^work>  bavi: Ohhh, the ways in which cats can educate us
+                     about their ways ... =)
+ <FriesAndSriracha>  Era_Scarecrow: oh
+             <bavi>  now she has the zoomies
+          <rindolf>  bavi: you should have got a flourescentic cat
+   <SlashLife^work>  I'll totally get cats again when I have kids. *pull*
+                     - "Don't pull its tail!" - *pull* - "DON'T PULL ITS
+                     TAIL!" - *pull* -- *claw* -- *cry* - "I told you not
+                     to pull its tail!"
+             <bavi>  hah
+ <FriesAndSriracha>  http://theoatmeal.com/comics/cat_kill
+          <rindolf>  bavi: there was this manx kitten who was born with
+                     metallic green fur
+   <SlashLife^work>  rindolf: Heh. We had a cafe across a place I used to
+                     work to. They had a waitress who brought her big
+                     black dog in (looked like a golden retriever, except
+                     it was pitch black; are there pitch-black
+                     retrievers?) ... I suggested she could dye some
+                     flourescent racing stripes into its fur. :D
+          <rindolf>  bavi: i saw a photo of him in the newspaper
+   <SlashLife^work>  FriesAndSriracha: I actually still have to read that
+                     book. :S
+              <hio>  rindolf, what is a MUST HAVE feature for a
+                     programming language?
+             <bavi>  rindolf: that's cool :)
+ <FriesAndSriracha>  SlashLife^work: same situation here ;)
+             <bavi>  integers
+              <hio>  i personally really enjoy the automatic typing in
+                     typescript where a struct automatically gets a type
+                     if it fits the interface. I think it's called duck
+                     typing but not entirely sure
+   <SlashLife^work>  FriesAndSriracha: Also have it lying around already?
+                     x)
+              <hio>  i mean it makes perfect sense, if some data structure
+                     has the exact same fields as an interface that i
+                     defined then just let it have that type immediately
+              <hio>  it's not duck typing because you still have to cast
+                     in Typescript
+          <rindolf>  hio: see
+                     http://shlomif-tech.livejournal.com/57811.html
+ <FriesAndSriracha>  Any point in learning Golang now?
+          <rindolf>  FriesAndSriracha: to hack on golang projects
+              <hio>  rindolf, i dont subscribe to this middle of the road
+                     crap "everything sux, get over it" attitude. There is
+                     right and wrong in the world, period
+              <hio>  "You are damned either way, whatever you do." <--
+                     very stupid attitude to have
+   <SlashLife^work>  hio: And C++ is on the right side ... mostly. :D
+              <hio>  c++ is just about the worst possible language that
+                     can exist
+    <Era_Scarecrow>  My current languages of choice, include AHK and D...
+              <hio>  hit me with some new and exciting c++ features, I'm
+                     sure they are ridiculously complex and useless
+ <FriesAndSriracha>  Google is a LLC now?
+   <SlashLife^work>  hio: I need a toolbox that gets the job done, not a
+                     crate full of useless, but exciting, gimmicks.
+          <rindolf>  hio: what is better: English, Hebrew, French, German,
+                     Arabic, Spanish, Swahili, Japanese, Mandarin, ...
+              <hio>  German
+   <SlashLife^work>  I'll take a screwdriver over a fidget spinner every
+                     day.
+ <FriesAndSriracha>  Also another language I've been hearing about is
+                     Haskell
+              <hio>  Haskell is a toy language, people only use it when
+                     they want to appear smart
+ <FriesAndSriracha>  Can we do server side coding with it?
+   <SlashLife^work>  FriesAndSriracha: You can do server side coding with
+                     almost every language.
+   <SlashLife^work>  FriesAndSriracha: If it can do console I/O on any
+                     modern OS, it can do server side web.
+ <FriesAndSriracha>  SlashLife^work: I know that but is it a popular or
+                     niche thing , that's the question
+   <SlashLife^work>  FriesAndSriracha: Look up CGI. :D
+   <SlashLife^work>  FriesAndSriracha: I know people who use Haskell for
+                     web.
+              <hio>  i mean look at this thing in c++: "auto glambda =
+                     [](auto a, auto&& b) { return a < b; };".. what's
+                     with the random array []? What is the array here???
+          <rindolf>  hio: we are not talking in German, are we?
+   <SlashLife^work>  I don't think they based their whole server side
+                     stack on it, though ... but I actually don't know.
+              <hio>  rindolf, we dont live in a perfect world, do we?
+   <SlashLife^work>  hio: It's not an array. It's an empty capture.
+          <rindolf>  hio: no.
+              <hio>  great that we worked that out
+ <FriesAndSriracha>  So this means there's no big projects using Haskell?
+   <SlashLife^work>  hio: So you're complaining that [] can have three
+                     different meanings?
+              <hio>  yes
+   <SlashLife^work>  hio: Good luck with () then.
+              <hio>  () only has one meaning
+   <SlashLife^work>  It does?
+              <hio>  yes, it means group up
+          <rindolf>  hio: German has three genders, and some inanimate
+                     objects are male or female - like wtf?
+   <SlashLife^work>  int x = foo(); double y = (2.0/3.0); int z = (int)y;
+                     ... I was thinking of at least one more a moment ago.
+ <FriesAndSriracha>  Sorry guys, I was just a web developer, took a long
+                     break and now trying to get into coding again
+              <hio>  it still all means "group up".
+              <hio>  even the cast
+          <rindolf>  hio: and a damsel is neuter
+   <SlashLife^work>  hio: BS
+   <SlashLife^work>  hio: Oh, the [] always means "index"
+              <hio>  it never means that wow
+              <hio>  int[10] does not mean index
+          <rindolf>  FriesAndSriracha: what do you wish to do?
+ <FriesAndSriracha>  rindolf: mostly to learn some kinda language
+          <rindolf>  FriesAndSriracha: ah
+ <FriesAndSriracha>  I know, HTML and CSS, and shell scripting
+   <SlashLife^work>  Either that something can have indices (void
+                     foo(int[])), or that something *has* indices (int
+                     arr[32]), or that you want to access an index (int x
+                     = arr[3]), or which indices from the current scope
+                     you want to capture (auto lambda = [arr,&x](){ x =
+                     *arr; })
+          <rindolf>  FriesAndSriracha: ah
+ <FriesAndSriracha>  And can use git
+          <rindolf>  FriesAndSriracha: ah.
+ <FriesAndSriracha>  But that's about it it her than by basic
+                     understanding of JavaScript
+              <xqb>  hi helloz
+          <rindolf>  FriesAndSriracha: can you write fizz buzz?
+              <hio>  ok SlashLife^work, so it "accesses" variables inside
+                     the current scope as if the scope is an array. That's
+                     a complex way of seeing it but fine
+          <rindolf>  xqb: mew
+ <FriesAndSriracha>  s/her/other
+              <xqb>  bsd bsd bsd irc irc bsd
+                  *  xqb shoos rindolf
+              <xqb>  dem cats
+          <rindolf>  xqb: cats are damn cute
+ <FriesAndSriracha>  rindolf: oh Tom Scott made a video about it
+          <rindolf>  FriesAndSriracha: about what?
+ <FriesAndSriracha>  FizzBuzz I mean
+          <rindolf>  FriesAndSriracha: ah
+          <rindolf>  FriesAndSriracha: see
+                     https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ.mdwn#what-is-fizzbuzz
+ <FriesAndSriracha>  Whose GitHub page is this?
+ <FriesAndSriracha>  Lotsa nice info ;)
+          <rindolf>  FriesAndSriracha: someone i tutored was able to solve
+                     fizz buzz after the first few lessons
+          <rindolf>  FriesAndSriracha: i am shlomif on gh
+ <FriesAndSriracha>  Oh nice :)
+          <rindolf>  FriesAndSriracha: there were some other contributors
+                     to the faq
+          <rindolf>  FriesAndSriracha: and it may be somewhat opinionated
+ <FriesAndSriracha>  Thanks for this, I've been out of this whole things
+                     for so long
+          <rindolf>  FriesAndSriracha: thanks
+          <rindolf>  FriesAndSriracha: you're welcome
+ <FriesAndSriracha>  I think getting into Python would be a good idea
+          <rindolf>  FriesAndSriracha: i think so too
+          <rindolf>  FriesAndSriracha: python is easy to learn
+ <FriesAndSriracha>  rindolf: yep I am kinda stuck between what to learn
+                     tbh
+          <rindolf>  FriesAndSriracha: ah, i know that feeling
+ <FriesAndSriracha>  People are suggesting Python, Ruby, Go...
+        <vdamewood>  I vote for Python.
+              <xqb>  hi etc
+ <FriesAndSriracha>  and even JavaScript
+        <vdamewood>  High? i am not!
+ <FriesAndSriracha>  Node I mean
+         <squirrel>  oops wrong chan
+       <mozzarella>  I vote for ruby
+              <xqb>  :) /me hi5s vdamewood
+        <vdamewood>  FriesAndSriracha: What do you already know?
+          <rindolf>  FriesAndSriracha: it reminds me of the philosophical
+                     dog that stands in equal distance between two
+                     identical piles of food and ends up starving to death
+                  *  rindolf puts mozzarella on FriesAndSriracha and eats
+                     them both
+ <FriesAndSriracha>  I was a web developer, so no programming language,
+                     HTML, CASE, Shell scripting etc
+        <vdamewood>  rindolf: share!
+          <rindolf>  vdamewood: :)
+        <vdamewood>  CASE? (Typo of CSS?)
+ <FriesAndSriracha>  s/CASE/CSS
+ <FriesAndSriracha>  vdamewood: autocorrect actually
+              <xqb>  that's buridan donkey
+          <rindolf>  FriesAndSriracha: ah
+        <vdamewood>  Hey look, someone who doesn't think HTML is a
+                     programming language.
+ <FriesAndSriracha>  rindolf: I know how that dog feels ;)
+              <xqb>  it is a donkey
+          <rindolf>  vdamewood: writing HTML is kinda programming though
+                  *  vdamewood kicks the donkey.
+        <vdamewood>  It's time to kick ass!
+        <vdamewood>  rindolf: I don't believe it it as all.
+              <xqb>  heh
+          <rindolf>  FriesAndSriracha: :)
+ <FriesAndSriracha>  Oh and basic Unix tools, and Git
+ <FriesAndSriracha>  That's all I know
+          <rindolf>  FriesAndSriracha: ok, then learn python
+              <xqb>  +1 py
+ <FriesAndSriracha>  Seems reasonable
+        <vdamewood>  FriesAndSriracha: If you're looking for suggestions
+                     of real a real programming language to learn, go with
+                     Python. it has Django and Flask.
+        <vdamewood>  I prefer Django.
+          <rindolf>  and bottle
+ <FriesAndSriracha>  But Ruby has Rails and Sinatra too ;)
+        <vdamewood>  Ruby is also not Python.
+        <vdamewood>  Which is a point against Ruby.
+          <rindolf>  FriesAndSriracha: the ruby hype seems to have mostly
+                     passed away
+        <vdamewood>  Though, Python, Ruby, and Java are all fine languages
+                     for beginners. Python is just slightly better.
+ <FriesAndSriracha>  rindolf: I know people are hyping Golang now
+        <vdamewood>  Everything else is terrible for beginners.
+          <rindolf>  FriesAndSriracha: and rust
+        <vdamewood>  Golang is also on my terrible-for-beginners list.
+ <FriesAndSriracha>  And Kotlin maybe
+          <rindolf>  FriesAndSriracha: and node.js
+              <xqb>  when I was starting, I was looking up how the same
+                     program (was it hello world?) looks like in different
+                     languages
+              <xqb>  I found C#'s syntax to be the most appealing to me
+              <xqb>  so I went with C# :)
+          <rindolf>  xqb: ok
+        <vdamewood>  xqb: Probably. Hello world is fairly popular for
+                     language juxtaposition.
+          <rindolf>  the first language is always the hardest to learn
+ <FriesAndSriracha>  I can't really go with C#
+              <xqb>  !fgoogle juxtaposition
+ <FriesAndSriracha>  I doubt it runs on Linux
+          <rindolf>  FriesAndSriracha: it does
+              <xqb>  it does but not as expected
+              <xqb>  Mono is crap
+              <xqb>  and you can't do WPF
+          <rindolf>  FriesAndSriracha: even .NET core from Microsoft
+              <xqb>  and 100+ things
+ <FriesAndSriracha>  Python it is then ;)
+          <rindolf>  FriesAndSriracha: sure
+        <vdamewood>  xqb: justa- next to/besides. juxtoposition: to
+                     position next to/beside; to compare by placing side
+                     by side.
+              <l2y>  FriesAndSriracha: it runs on linux, and does so
+                     rather well as of today
+        <vdamewood>  s/justa/juxta/
+ <FriesAndSriracha>  l2y: I mostly wanna do Server site coding
+              <xqb>  thanks :)
+        <vdamewood>  Well, Juxtaposition means the act as a noun. The verb
+                     is juxtapose.
+ <FriesAndSriracha>  s/site/side
+ <FriesAndSriracha>  Thanks a lot rindolf again!
+              <l2y>  FriesAndSriracha: ok, whatever. just proving you
+                     wrong, so that you don't doubt anymore
+ <FriesAndSriracha>  Also thanks vdamewood
+        <vdamewood>  Bah, I didn't so anything significant.
+ <FriesAndSriracha>  l2y: oh I didn't know
+          <rindolf>  FriesAndSriracha: you're welcome
+ <FriesAndSriracha>  rindolf: I think you should also include Video
+                     tutorials in your Python resources
+        <vdamewood>  I want to teach some stuff now.
+                  *  xqb 'd like to know what is unit testing and how do I
+                     start writing tests and what's a good read for
+                     testing
+        <vdamewood>  xqb: Unit testing is when you write code that makes
+                     your other code works properly. For example, if you
+                     have a function called addtwo(x), you would write a
+                     functions like this: a = addtwo(3); if a == 5, return
+                     true; else return false;
+              <xqb>  what's a unit in my code? a function/method?
+              <xqb>  a .. line?
+              <xqb>  what
+        <vdamewood>  A separate program.
+        <vdamewood>  Well, it could also be a function or collection of
+                     functions.
+              <xqb>  I'm testing a separate program in my program?
+              <xqb>  why don't I test my program directly?
+       <mozzarella>  nigga
+        <vdamewood>  You're not testing your program; you're testing parts
+                     (units) of your program.
+       <mozzarella>  return a == 5
+        <vdamewood>  If I really wanted to go that fare: return addtwo(3)
+                     == 5
+        <vdamewood>  far*
+       <mozzarella>  well you should
+              <xqb>  assert addtwo(3) == 5
+              <xqb>  and then I run pytest in the background
+              <xqb>  and I've tested a unit?
+        <vdamewood>  xqb: That might work, but it doesn't look like PyTest
+                     is specifically for Unit testing.
+ <FriesAndSriracha>  rindolf: but great resources still, thanks
+          <rindolf>  FriesAndSriracha: you're welcome
+              <xqb>  I see
+              <xqb>  is TDD (Kent Beck) a good book?
+          <rindolf>  xqb: quite
+          <rindolf>  xqb: most of it is redundant
+              <xqb>  I know what you think rindolf, you're the one who
+                     recommended it :P
+          <rindolf>  xqb: ah
+       <PlanckWalk>  A "unit" is generally an internal API contract. Often
+                     a function or method.
+              <xqb>  what's an API contract
+          <rindolf>  xqb: i can recommend against a different one -
+                     https://mail.perl.org.il/pipermail/perl/2010-April/010909.html
+          <rindolf>  mozzarella: yes
+       <PlanckWalk>  A specification for how one part of a system can use
+                     another.
+              <xqb>  I see
+ <FriesAndSriracha>  Oh that reminds me of this site https://hackr.io/
+        <vdamewood>  xqb: Many unit-testing frameworks follow the design
+                     of a Java unit-testing framework called JUnit.
+                     Though, this isn't strictly required, it sure does
+                     help organize things.
+        <vdamewood>  xqb: https://docs.python.org/3/library/unittest.html
+          <rindolf>  FriesAndSriracha: you can submit a pull-req for it
+ <FriesAndSriracha>  rindolf: I have to find some good ones first though
+                     :)
+          <rindolf>  FriesAndSriracha: you can put the link to the site
+                     for all langs
+              <xqb>  vdamewood: I'll look at it, gtg, bbl, tyvm
+        <vdamewood>  Laters
+          <rindolf>  xqb: bye
+         <Jasparon>  Hello friends:
+          <rindolf>  Jasparon: meow
+         <Jasparon>  Do programmers care about logic gates, or do I need
+                     to study EE/CE?
+         <Jasparon>  rindolf: Long time no C
+          <rindolf>  Jasparon: we do
+         <Jasparon>  rindolf: Who is we?
+             <brwr>  Jasparon: programmers who work with logic gates care
+                     about logic gates :)
+ <FriesAndSriracha>  Gtg
+          <rindolf>  Jasparon: there are bitwise and logical operators
+         <Jasparon>  Uggggh....
+          <rindolf>  FriesAndSriracha: bye
+ <FriesAndSriracha>  rindolf: see ya
+         <Jasparon>  Suppose I want to get into how logic gates design
+                     works (theory), and I one day want to build custom
+                     circuits.
+          <rindolf>  Jasparon: i am a software dev who studied EE/CEish
+         <Jasparon>  Should I get an intro electronics book; or an intro
+                     circuits book?
+          <rindolf>  Jasparon: and graduated
+         <Jasparon>  Ok sure
+         <Jasparon>  :)
+          <rindolf>  Jasparon: well, not sure i can call what i studied CE
+         <Jasparon>  rindolf: Right.
+             <brwr>  Jasparon: IME its better to find a project that
+                     interests you and start working on it
+             <brwr>  YMMV
+          <rindolf>  Jasparon: it is technically EE proper, but calling me
+                     an elec engineer would be a stretch
+       <rts-sander>  IME?
+             <brwr>  I find books helpful for things like design patterns
+                     and best practices, but not for code
+         <Jasparon>  brwr: I know, but I want to learn how electronics
+                     work, and how computer electronics work
+             <brwr>  rts-sander: in my experience
+          <rindolf>  Jasparon: the technion is funny
+         <Jasparon>  rindolf: Maybe you're just a electronics-comptent
+                     programmer?
+       <rts-sander>  brwr: ah I see, I thought it was misspelled IMO
+             <brwr>  Jasparon: +1
+          <rindolf>  Jasparon: i am clueless around electronics
+         <Jasparon>  brwr: Ok neat
+         <Jasparon>  brwr: Well, would you reccommend I get: 1. Intro CE
+                     book. 2. Intro electronics. 3. Intro circuits? Which
+                     one?
+          <rindolf>  Jasparon: they never showed us how to replace a
+                     lightbulb
+          <rindolf>  Jasparon: wait a sec
+         <Jasparon>  rindolf: 0, becuase it's a hardware issue
+             <brwr>  Jasparon: i don’t know enough about electronics to
+                     make a recommendation. Sorry!
+             <FMan>  morning
+          <rindolf>  Jasparon:
+                     https://mitpress.mit.edu/books/computation-structures
+                     - this book is nice
+          <rindolf>  Jasparon: and there is also
+                     http://www.nand2tetris.org/
+             <brwr>  IRC on mobile is sadface
+             <brwr>  I get disconnected if I turn my screen off
+          <rindolf>  Jasparon: i suggest you start from a high level prog
+                     lang
+          <rindolf>  Jasparon: sth like python
+          <rindolf>  Jasparon: how good is your math?
+         <Jasparon>  rindolf: So, I know about formal logic enough to know
+                     things like De Morgen's, but I still need to take
+                     college algebra
+         <Jasparon>  Thanks for the books
+          <rindolf>  Jasparon: you're welcome
+         <Jasparon>  rindolf: Here is a good question:
+          <rindolf>  Jasparon: logic can get pretty complicated and
+                     impractical
+         <Jasparon>  Really?
+         <Jasparon>  What's a good place to build objects? I think main?
+          <rindolf>  Jasparon: at least the one that is under active
+                     research
+         <Jasparon>  What's under active research?
+          <rindolf>  Jasparon: you can also build them int he methods of
+                     other objects
+          <rindolf>  Jasparon: logic
+         <Jasparon>  correct. I think it's "not good" to create objects in
+                     the instance-scope?
+          <rindolf>  Jasparon: why not?
+         <Jasparon>  rindolf: I tried constructing an instance of my
+                     class, in the instance-level in Java; stackoverflow
+          <rindolf>  Jasparon: otherwise you'll have a cluttered main func
+         <Jasparon>  Makes sense
+          <rindolf>  Jasparon: ah
+          <rindolf>  Jasparon: you need to limit your recursion
+         <Jasparon>  rindolf: Right. But I was so confused because my
+                     constructor was empty.
+          <rindolf>  Jasparon: or use iterative tree recursion with a
+                     dedicated stack
+         <Jasparon>  Good idea
+        <mvaenskae>  hm, low level detail quesiton on C's memory
+                     allocation; if i request 200MB of memory via malloc
+                     will that be virtual-addressed memory or real memory
+                     locations?
+         <Jasparon>  rindolf: I should be going :)
+          <rindolf>  Jasparon: where?
+          <rindolf>  mvaenskae: hi
+          <rindolf>  mvaenskae: it depends where the program is running\
+         <Jasparon>  Heehee...
+         <Jasparon>  GTG :)
+        <mvaenskae>  rindolf: hm, in kernel mode it would then get the
+                     bare memory locations i take
+          <rindolf>  mvaenskae: possibly
+          <rindolf>  mvaenskae: kernel code does not have malloc() usually
+                  *  mvaenskae ponders on reworking the sorting algos to
+                     not work with explicit arrays but a struct of
+                     linked/doubly-linked lists...
+          <rindolf>  mvaenskae: at least the linux kernel doesnt
+        <mvaenskae>  hm, i could obviously adapt that to get the proper
+                     linux kernel function but it could still fail due to
+                     fragmentation in allocation a large enough section
+          <rindolf>  mvaenskae: heh
+        <mvaenskae>  but i just realized my approach doesn't scale to
+                     structs to pointers to the next element, only to
+                     arrays of structs
+              <l2y>  mvaenskae: is your allocations are not enormous,
+                     kernel won't move a page from virtual memory to disk,
+                     and virtual memory provides constant time access, so,
+                     why bother?
+              <l2y>  s/is/if/
+          <rindolf>  mvaenskae: small optimisations can add up to a lot,
+                     but if your program can afford to be sub-optimally
+                     slower, then so be it
+        <mvaenskae>  rindolf: i don't so much care for performance than
+                     for stability; people somewhat ok in C should be able
+                     to understand how I approached different sorting
+                     algos within the constraints of C in the most generic
+                     way and can use them for their own projects about as
+                     easily as importing my stuff
+          <rindolf>  mvaenskae: see
+                     https://en.wikibooks.org/wiki/Optimizing_Code_for_Speed/Factor_Optimizations#Are_%22Small%22_Optimizations_Desirable?
+          <rindolf>  mvaenskae: stability?
+        <mvaenskae>  if it comes to just speed and i have a fixed
+                     interface i would have just commenced; i just
+                     realized my approach is not the most generic one
+          <rindolf>  mvaenskae: if you want your program to behave then
+                     keep it out of the kernel
+           <Rashad>  Morning
+        <mvaenskae>  l2y: i was mostly thinking of the problems on
+                     fragmentation :)
+        <mvaenskae>  rindolf: why keep it out of the kernel?
+           <Rashad>  rindolf: sup?
+          <rindolf>  mvaenskae: because code running in kernel land can do
+                     untold damage\
+          <rindolf>  Rashad: i refactored some CSS stylesheets
+          <rindolf>  Rashad: shaved a thousand lines
+        <mvaenskae>  rindolf: well, it's the kernel :) i expect nothing
+                     less of the system than request a sacrifice to boot
+                     again if i break it ;)
+           <Rashad>  rindolf: Do you use CSS normalization libraries?
+           <Rashad>  rindolf: Wow!
+           <Rashad>  Nice
+          <rindolf>  Rashad: no
+       <rts-sander>  whitespace lines? :)
+          <rindolf>  Rashad: it is for my talks at
+                     http://www.shlomifish.org/lecture/
+          <rindolf>  Rashad: the quad-pres ones
+          <rindolf>  rts-sander: no
+              <l2y>  mvaenskae: again, what can you do about it? nothing.
+                     malloc already allocates a contiguous block of
+                     memory, if you are in a kernel space, which you
+                     should never be in, you don't have malloc. you are
+                     provided with an interface and are bound to what the
+                     interface reveals about itself
+           <Rashad>  rindolf: I don't know if you need this, but it's used
+                     by Twitter, Github and more:
+                     https://necolas.github.io/normalize.css/
+          <rindolf>  Rashad: i had done a lot of copying and tweaking
+        <mvaenskae>  l2y: i may to do kernel development ;) and i wanted
+                     to clarify the memory pages returned :) i assumed
+                     them to be VA but it's early in the morning and i
+                     wasn't fully awake to properly recall :)
+           <Rashad>  Neat
+          <rindolf>  Rashad: ah
+          <rindolf>  Rashad: it was bad
+           <Rashad>  I can imagine.
+          <rindolf>  Rashad: i had to consolidate my directives
+           <Rashad>  What directives?
+          <rindolf>  Rashad: the css ones
+           <Rashad>  You mean like :hover and stuff?
+           <Rashad>  Not sure I know what css directives are.
+           <Rashad>  The ones with the @?
+        <mvaenskae>  right now only userland and there i have now been
+                     verified how malloc works :) my aim is trying to
+                     eventually be able to write C code that is as generic
+                     as possible
+          <rindolf>  Rashad: see
+                     https://github.com/shlomif/shlomi-fish-homepage/commits/master
+          <rindolf>  Rashad: no
+          <rindolf>  Rashad: i mean regular rules like b { color: red; }
+           <Rashad>  Ah.
+           <Rashad>  That's a lot of commits :D
+          <rindolf>  Rashad: yes
+          <rindolf>  Rashad: the site dates back to 1997ish
+           <Rashad>  Wow.
+          <rindolf>  Rashad: but i used svn->hg->git for it relatively
+                     later
+           <Rashad>  What's that?
+          <rindolf>  Rashad: first i used svn
+          <rindolf>  Rashad: then moved to hg
+          <rindolf>  and finally git
+           <Rashad>  Ah those are versioning systems?
+          <rindolf>  Rashad: yes
+           <Rashad>  I see I see.
+       <rts-sander>  looks like you finally did git gud
+          <rindolf>  rts-sander: the main reason why i switched it to
+                     github was travis-ci
+          <rindolf>  rts-sander: well, and hg does not seem to become more
+                     popular
+       <rts-sander>  never heard of hg
+          <rindolf>  rts-sander: heh
+       <rts-sander>  rindolf: but do you like git itself more than the
+                     other systems?
+          <rindolf>  rts-sander: it isnt too bad, but has its share of
+                     quirks
+          <rindolf>  rts-sander: not sure
+          <rindolf>  rts-sander: i still kinda miss the simplicity of the
+                     svn model. i dont feel i understand git
+            <velco>  Good morning, ladies and gentlemen.
+           <Rashad>  git is too complicated the only thing I use is push
+                     and pull
+           <Rashad>  morning velco
+       <rts-sander>  I've gotten decently proficient in git
+            <vendu>  yo :)
+       <rts-sander>  rindolf: do you also have experience with version
+                     control software in team settings or just solo
+                     projects?
+            <velco>  git is love, git is life
+          <rindolf>  rts-sander: also in teams
+            <velco>  (that said, I was pretty happy with Mercurial too)
+            <vendu>  rts-sander, i haven't :)
+       <rts-sander>  svn broke more often than not when I tried it with
+                     other people
+            <velco>  one does not have to understand git
+          <rindolf>  rts-sander: git rebase can be a bitch too
+            <velco>  one needs to know just enough of it, ib order to
+                     accommodate their workflow
+          <rindolf>  velco: well, git threw me off quite a lot
+       <rts-sander>  if you have a lot of conflicts yeah
+          <rindolf>  velco: good thing there is #git here
+       <rts-sander>  git is advanced but there's no simplicity layer
+       <rts-sander>  users are thrown right into the deep
+           <Rashad>  Yeah.
+          <rindolf>  velco: https://xkcd.com/1597/
+            <velco>  rindolf, without clicking it, I know what it is :D
+          <rindolf>  velco: :)
+            <velco>  but just clone/checkout/push/pull/branch/rebase are
+                     sufficient to 99.937% if what I need to happen
+            <velco>  s/if/of/
+            <velco>  cherry-pick too
+          <rindolf>  velco: commit
+            <velco>  haha, yeah
+            <velco>  log
+            <velco>  diff
+                  *  rindolf deletes velco 's git-commit script
+          <rindolf>  welcome to hell
+                  *  velco restores git worktree from the backup
+          <rindolf>  lets do a pull req on git's git to remove git-commit
+          <rindolf>  velco: git bisect is also useful
+       <rts-sander>  lol I actually did that when I was a git noob
+           <merijn>  rts-sander: The simplicity layer of git is "Just use
+                     Mercurial"
+       <rts-sander>  back then the team I worked with worked on Windows
+                     and we had problems with file name case sensitivity
+          <rindolf>  merijn: hg threw me off too
+           <merijn>  rindolf: How so?
+       <rts-sander>  merijn: meh once you learn git it's good
+          <rindolf>  merijn: dont remember
+          <rindolf>  merijn: and i hate its heads misfeature
+           <wwwwww>  is it generally correct to say that jump instructions
+                     modify the program counter the same way an add
+                     instruction might modify a normal register?
+           <merijn>  rts-sander: Yeah, but why would I bother when I
+                     already knows Mercurial and it's so much simpler to
+                     learn? :)
+       <rts-sander>  merijn: good point, there's no reason to learn
+                     something more complex when you already have
+                     something that works
+       <rts-sander>  that's why I'm not going through the effort of
+                     learning Haskell :D
+           <merijn>  I don't think git is even that much more complex than
+                     mercurial
+          <rindolf>  rts-sander: heh
+           <merijn>  It just has really shit UI/UX
+       <rts-sander>  UI? heh I just use the cmd line
+          <rindolf>  merijn: https://en.wikipedia.org/wiki/Worse_is_better
+                     perhaps
+          <rindolf>  rts-sander: cmd line is ui too
+           <merijn>  rts-sander: I'm referring to the cmd line
+           <merijn>  UI is UI, graphical or not
+         <loginoob>  Is it really true that to learn some language, try to
+                     build something that one have no idea how to start
+         <loginoob>  in that language
+          <rindolf>  loginoob: i never did that
+          <rindolf>  loginoob: perhaps try to contribute to an existing
+                     codebase
+       <rts-sander>  ah, I assumed UI = GUI
+       <rts-sander>  yeah I agree it's confusing at times
+       <rts-sander>  for example git checkout -- path, git checkout
+                     branchname, git checkout -b newbranch all do
+                     something completely different
+          <rindolf>  rts-sander: also see
+                     http://www.shlomifish.org/humour/fortunes/show.cgi?id=djb-on-cmd-interfaces
+           <merijn>  rts-sander: I think this summaries it accurately:
+                     http://stevelosh.com/media/images/blog/2010/01/mercurial-vs-git.jpg
+          <rindolf>  merijn: heh
+         <loginoob>  git is easy until you fuck up
+           <merijn>  loginoob: Then you just google and copy&paste cryptic
+                     lines from blogposts until either all your data is
+                     gone or it's fixed :p
+       <rts-sander>  oh hg = mercurial lol
+   <SlashLife^work>  GAHHH! OCD!! >_<"
+         <loginoob>  true
+           <merijn>  rts-sander: Because nobody wants to type a command as
+                     long as "mercurial" :p
+         <loginoob>  merry: You are a haskeller right?
+         <loginoob>  shit
+   <SlashLife^work>  I have a directory, an archive and an executable, all
+                     by the name of "qt-" in subsequent lines on the same
+                     terminal. "ls" colored them blue, red and green
+                     respectively ...
+         <loginoob>  merijn:
+   <SlashLife^work>  ... which means they do not perfectly line up because
+                     they use different subpixels.
+   <SlashLife^work>  ... which annoys the hell out of me.
+           <merijn>  loginoob: I program in Haskell among other things,
+                     yes :p
+   <SlashLife^work>  GAAAAAHHHH!!!!
+   <SlashLife^work>  Cannot ... unsee ... ;_;
+           <merijn>  SlashLife^work: Your life could be worse
+       <rts-sander>  SlashLife^work: you could probably remove the colors
+                     from ls
+               <jp>  env TERM=dumb ls
+               <jp>  sight has been unseen
+                  *  vendu writes a bullshit generator for git commit
+                     comments =)
+   <SlashLife^work>  merijn: Well, I guess it confirms my 20/10 vision.
+                  *  redstarcomrade has quit (Read error: Connection reset
+                     by peer)
+          <Jeremeh>  vendu: http://sebpearce.com/bullshit/
+   <SlashLife^work>  rts-sander: That won't help me now that I *know*
+                     they'd be offset when in color. :|
+            <vendu>  bbs lunch :)
+           <merijn>  SlashLife^work: Could have all your experimental
+                     results stored on a cluster fileshare with a deadline
+                     tomorrow only to realise the cluster is down for
+                     maintenance until late today >.>
+   <SlashLife^work>  merijn: Yup. Maintenance is until Friday. And they
+                     moved the deadline from next Monday to yesterday.
+   <SlashLife^work>  (On last Friday afternoon.)
+   <SlashLife^work>  That would so be happening if I was still working at
+                     my previous job. >_>
+
+    -- ##programming, Freenode
+%
+        <rindolf>  xoryo: hi
+        <rindolf>  xoryo: i got a hair cut
+           <adsc>  rindolf: you cut off your dreadlocks?
+        <rindolf>  adsc: i didnt have ones
+           <adsc>  what? you cut off your imaginary dreadlocks? I hope you
+                   didn't have to pay for that
+        <rindolf>  adsc: heh
+           <adsc>  I'll never cut off my imaginary mohawk
+                *  rindolf cuts off adsc 's imaginary mohawk
+                *  rindolf is an imaginary bastard
+                *  adsc accuses rindolf of imaginary cruelty and files a
+                   case at the international court of human rights in The
+                   Hague
+           <adsc>  CRIMES AGAINST IMAGINATION
+        <rindolf>  adsc: the imaginary one?
+           <adsc>  no, your crime is real
+ <SlashLife^work>  *imaginary court of human rights in The Utopia
+        <rindolf>  adsc: imaginary real?
+           <adsc>  yeah, it's complex
+        <rindolf>  adsc: nice
+        <rindolf>  better than imaginary integer
+           <adsc>  the subject of the crime is imaginary, but the crime
+                   itself is real
+                *  rindolf flees to an imaginary haven
+                *  adsc plots rindolf on the gaussian plane
+           <adsc>  there you are
+                *  rindolf conspires against the plot
+          <exio4>  liste: finnish people are over-represented on IRC
+          <vendu>  rts-sander, let me find the rules for everyone
+            <xqb>  Finnish people invented IRC :P
+          <exio4>  maybe some irc channel is selling alcohol???
+          <exio4>  xqb: i know :p
+          <liste>  though most finns hang out in IRCnet
+           <adsc>  vendu: I've wanted to make a console based cracking
+                   game in forever, but I'm always too lazy
+           <FMan>  Finns invented getting drunk
+        <rindolf>  FMan: they did not
+        <rindolf>  FMan: the jewish bible describes noah getting drunk
+          <exio4>  rindolf: it's a joke, finns are known to get extremely
+                   drunk
+        <rindolf>  exio4: yes
+ <SlashLife^work>  rindolf: Now you know why he got stuck on a mountain.
+            <xqb>  people were getting drunk and high way before any bible
+          <exio4>  that, too
+        <rindolf>  xqb: true
+ <SlashLife^work>  rindolf: That's how people got from paradise to
+                   Finland. :D
+          <wedr_>  Finland is the End of Land. :/
+        <rindolf>  SlashLife^work: :)
+          <exio4>  it's the north pole, they're santa's buddies
+        <rindolf>  there is nor way out of there
+          <wedr_>  Oh, how Sweden of you. :/
+        <rindolf>  wedr_: :)
+ <SlashLife^work>  Nah, that's not sweed en actually even quite mean. :(
+            <xqb>  sweeden weeden
+          <vendu>  https://boardgamegeek.com/boardgame/21506/new-mastermind
+           <FMan>  this is paradise:
+                   https://www.memecenter.com/fun/146294/Meanwhile-in-finland
+          <vendu>  adsc, console mastermind would be quick
+          <vendu>  to program
+            <xqb>  FMan: what, sunbathing?
+            <xqb>  yeah
+          <liste>  code 8 hours, relax 8 hours (including working out
+                   etc), sleep 8 hours
+          <wedr_>  liste: No time to eat. :(
+          <liste>  maybe it's contained in relaxing
+        <snake2k>  liste++
+          <liste>  and partly coding :)
+        <snake2k>  Eating is for humans, we're all perl scripts here.
+     <weeirc8089>  snake2k++
+                *  Tsoulus_ has quit (Ping timeout: 256 seconds)
+        <rindolf>  snake2k: heh
+        <snake2k>  I have a feeling rindolf has the freenode FAQ links on
+                   a open text file all the time lmao
+          <wedr_>  So... relax is actually just sleep + bath/shower + play
+                   + walk dog + caring baby + make breakfast/lunch/dinner
+                   + pay bills + do tax returns + get mad and argue with
+                   wife + cry?
+        <snake2k>  weeirc8089, >_<
+            <xqb>  snake2k, me too
+         <merijn>  wedr_: Cuddle cat!
+        <snake2k>  wedr_, oh yes! the emotional drama is my favorite! :P
+        <rindolf>  snake2k: i am a superintelligent nand gate
+          <wedr_>  Ah, a typical human day
+        <snake2k>  rindolf, self aware nand gates?! >_>
+        <snake2k>  we're doomed!
+         <sd5869>  rindolf: nandgate :P
+        <rindolf>  exec_: what does gcc -E say?
+     <Sornaensis>  it says you’re a HERETIC
+           <aawe>  what does `rm -rf ./*; rustup install nightly; cargo
+                   init .` say?
+        <rindolf>  aawe: how about no?
+        <snake2k>  lol
+           <aawe>  RIR
+        <rindolf>  aawe: what does `sudo rm -fr /* # Sayonara, asshole!`
+                   say?
+           <aawe>  you forgot --no-preserve-root
+        <rindolf>  aawe: note that it may take a while to run.
+        <rindolf>  aawe: w /*?
+           <aawe>  it would probably be faster if rm was written in rust
+        <rindolf>  aawe: then: 1. Rewrite rm in rust. 2. Benchmark both
+                   versions
+        <rindolf>  on /* of course
+    <Nowyouseeme>  What's the motivation to come to a IRC like this?
+           <adsc>  to chat with other fellow programmers
+        <rindolf>  Nowyouseeme: to get help?
+        <rindolf>  Nowyouseeme: to help others?
+        <rindolf>  Nowyouseeme: to debate?
+           <adsc>  no help, only panda memes pls
+    <Nowyouseeme>  To help others!
+        <rindolf>  adsc: can you help me find panda memes?
+    <Nowyouseeme>  only very nice people would think that
+           <aawe>  I want memes too
+      <hexingbao>  Nowyouseeme to see different culture
+        <snake2k>  birkoff, a simple linear search algorithm if you're not
+                   gonna sort it
+           <vesc>  Birkoff: If you are sorthing you can do it quicker than
+                   N.
+        <snake2k>  birkoff, you'd be better off implemented a fast sorting
+                   algorithm and picking the first (or last) value off the
+                   array.
+        <birkoff>  vesc interesting. how ? im not sorting though.
+            <day>  snake2k: sorting is faster than N?
+           <vesc>  I agree with snake2k
+        <snake2k>  day, if it's a massive array, then yes
+            <day>  but how can you sort without having to look at each
+                   element?
+     <rts-sander>  wtf kind of shit advice is that
+        <snake2k>  day, the time complexity of checking each N to the next
+                   can scale larger depending on array size. But a highly
+                   optimized sort can cut the time down.
+     <rts-sander>  sort the entire array just to get one value?
+            <day>  snake2k: but then it wouldnt be O(n) anymore would it?
+        <snake2k>  I'm not saying to use a basic sorting algorithm because
+                   that's pointless lmao
+           <vesc>  rts-sander: what would you do?
+        <snake2k>  you'd be better off with just a linear search
+     <rts-sander>  vesc, loop through and remember the highest encountered
+                   number
+            <day>  yeah
+        <rindolf>  snake2k: sort cannot be better than o(n)
+        <rindolf>  snake2k: see https://en.wikipedia.org/wiki/Timsort
+     <rts-sander>  unless the array is already sorted, then it's O(1) :)
+           <vesc>  rts-sander: the best you could get is O(n) I know a
+                   sort cand be done better than that.
+           <vesc>  can*
+        <rindolf>  snake2k: and it is O(N*log(N)) worst case
+     <rts-sander>  vesc, how can sorting an entire array possibly be
+                   faster than finding the largest value?
+        <rindolf>  rts-sander: you need to know that is the case
+           <vesc>  because you need to know what the largest value is
+        <snake2k>  rindolf, I see
+        <snake2k>  Let's go ape shit and do parallel processing on 4
+                   threads 4 O(N/4)s
+        <snake2k>  lmao
+        <rindolf>  flipchan: hi
+       <flipchan>  hey rindolf
+       <flipchan>  whats up
+        <rindolf>  flipchan: i got a haircut today
+        <rindolf>  flipchan: and looked into contributing to tslint, but
+                   they have 65 open pull reqs
+                *  snake2k
+                   (snake2k@gateway/vpn/privateinternetaccess/snake2k) has
+                   left ("Leaving")
+                *  snake2k
+                   (snake2k@gateway/vpn/privateinternetaccess/snake2k) has
+                   joined
+        <snake2k>  closed out ##programming by mistake >_>
+       <flipchan>  rindolf: cant choice one?
+        <rindolf>  flipchan: what?
+       <flipchan>  oh i read wrong thought u wrote 65 open issues
+        <rindolf>  flipchan: ah
+     <rts-sander>  how you're going to contribute?
+     <rts-sander>  by adding some more pull requests? :D
+        <rindolf>  rts-sander: heh
+        <rindolf>  rts-sander: https://xkcd.com/927/
+        <rindolf>  well, not quite the same
+        <rindolf>  snake2k: admit it - you did it on purpose. :-P
+        <rindolf>  snake2k: :)
+        <snake2k>  rindolf, lmao no I pressed ^W to close a firefox tab
+                   but I had my IRC client selected :P
+        <rindolf>  snake2k: ah, it happens to me too
+
+    -- ##programming, Freenode
+%
+    <G3nka1>  Hello I am finding fib number for a large series, here is my
+              code https://pastebin.com/Eu5J4r5y but I get the following
+              error
+ <AbleBacon>  man this python looks like greek to me. i'm so out of touch
+   <rindolf>  G3nka1: hi
+   <rindolf>  G3nka1: this is an inaccurate method
+   <rindolf>  G3nka1: perhaps try using matrix exp
+    <G3nka1>  Hi rindolf
+    <G3nka1>  oh
+    <G3nka1>  matrix exp?
+   <rindolf>  G3nka1: yes
+   <rindolf>  G3nka1: or just use the a,b = b, a+b algo
+    <G3nka1>  But rindolf it will take longer that way, and stack
+              overflows because of multiple recursions
+   <rindolf>  G3nka1: what?
+   <rindolf>  G3nka1: why?
+    <GeDaMo>  You don't have to do it recursively
+   <rindolf>  G3nka1: do it iteratively
+    <G3nka1>  rindolf, using yield
+    <G3nka1>  ?
+   <rindolf>  G3nka1: that is an option
+   <rindolf>  G3nka1: wait a sec
+    <G3nka1>  alright
+   <rindolf>  G3nka1: see
+              https://github.com/shlomif/shlomif-perl-snippets/blob/master/fibonacci-iterative.py
+ <AbleBacon>  good lord... you need an enormous license statement for that
+              snippet?
+   <rindolf>  AbleBacon: yes
+     <iodev>  AbleBacon, LOL!!!
+ <AbleBacon>  "i used this snippet in my production software and it
+              totally destroyed everything and now i'm gonna sue"
+     <iodev>  rindolf, this is illegal!
+     <iodev>  you can't copyright fibonacci!
+    <G3nka1>  rindolf, yup I also had written something similar
+              https://paste.pound-python.org/show/WnXeO2U2BwuzHRQ8k8e2/
+     <iodev>  you can only copyright a unique idea, fibonacci-iterative.py
+              is like copyrighting the stool :D
+   <rindolf>  iodev: i copyright the code and it is expat
+ <AbleBacon>  that's not similar... it doesn't have an elaborate license
+              explicitly stated in the code file
+     <iodev>  rindolf, well, i can do whatever I want with it, fibo is
+              public domain, you can't MIT it, if I wanna use it in
+              proprietary software, I can
+ <AbleBacon>  it's a good thing you didn't write something similar,
+              because that shit is already copyrighted
+   <rindolf>  iodev: go ahead
+     <iodev>  because it's not really original, so not copyrighted, so you
+              can't sue
+   <rindolf>  iodev: mit allows that
+ <AbleBacon>  did he just implicitly award you a license to use
+              fibbonacci?
+   <rindolf>  iodev: i wont sue you
+     <iodev>  The above copyright notice and this permission notice shall
+              be
+     <iodev>  included in all copies or substantial portions of the
+              Software.
+     <iodev>  no, even if I don't do this, you can't sue me rindolf
+ <AbleBacon>  "i used this fibonacci code as the random number generator
+              for my library and my security has been cracked. i'm totally
+              suing"
+     <iodev>  rindolf, there, I broke your license :D
+              http://dpaste.com/1NWZFH0
+   <rindolf>  G3nka1: fibgen and F are identical
+     <iodev>  and I dare you to sue me! rindolf make me rich, sue me :D
+              I'll win
+ <Trashlord>  heh
+   <rindolf>  iodev: i'm cool with that
+     <iodev>  or get the MIT to sue me, even better :D
+ <Trashlord>  it didn't occur to me that I should use something like b =
+              a, a = a+b
+ <Trashlord>  I always do it like result = a+b, b = a, a = result
+     <iodev>  rindolf, I'm joking pal, don't be angry okay
+   <rindolf>  iodev:
+              http://fc-solve.shlomifish.org/faq.html#abuse_of_fc_solve
+ <Trashlord>  I need a course in how to not over complicated software
+   <rindolf>  iodev: i'm laughing
+   <rindolf>  iodev: that is ok
+ <AbleBacon>  i mean, an iterative approach is what you use when
+              generating fibonacci numbers on paper
+    <G3nka1>  I know rindolf
+     <iodev>  rindolf, anyway, you see, before you MIT/GPL something you
+              must having something Original, that is the copyrighted
+              thing :D
+     <iodev>  if anyone can make it, just like anyone can make a stool, no
+              patent, no copyright is given, because you're not the author
+              of anything, rindolf
+ <AbleBacon>  fibonacci isn't around to say that it's not original
+ <AbleBacon>  that mofo is 6 feet under somewhere in italy
+    <GeDaMo>  fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
+     <iodev>  I'm an amateur lawyer, rindolf :-)
+     <iodev>  I like to learn legalese :D
+ <AbleBacon>  i've seen a couple of episodes of law & order and i can
+              confirm he's correct
+ <AbleBacon>  this case just needs a bombshell for the thrill factor
+ <AbleBacon>  fibonacci's great-great-great-great-grandson comes in as a
+              surprise witness
+ <AbleBacon>  and testifies that fibonacci stole the formula
+     <iodev>  AbleBacon, yes, soap opera
+     <iodev>  and in 20 years, he confesses on his death bead to have
+              stolen the formula from an orphan
+     <iodev>  and asks him for forgiveness through an email, and gets a
+              "NOO!"
+     <iodev>  and then he dies, crying :D
+ <AbleBacon>  :-(
+     <iodev>  AbleBacon, don't cry, it sells
+     <iodev>  or it seems like he died, in about 200 episodes he wakes up
+              out of a comma on a hospital bed!
+     <iodev>  when everyone has forgetten that he was dead, and the soap
+              opera contradicts itself :-)
+   <rindolf>  heh
+   <rindolf>  LOL
+     <iodev>  rindolf, you are sworen to tell the truth and nothing but
+              the truth, don't soap operas contradict themselves?
+   <rindolf>  iodev: see
+              http://linuxmafia.com/faq/Licensing_and_Law/public-domain.html
+     <iodev>  LOL!!! linuxmafia
+     <iodev>  rindolf, a site againsts linux, unbelivable!
+   <rindolf>  iodev: it isnt against linux
+
+    -- ##programming, Freenode
+%
+   <rindolf>  yay! I solved my long time nemesis
+              https://projecteuler.net/problem=261
+   <rindolf>  it required some maths analysis
+ <vdamewood>  rindolf: Yay.
+     <Gamah>  yay maths
+           *  vdamewood is a math addict
+     <Gamah>  breaking rad
+ <vdamewood>  I live in sin
+ <Batholith>  anyone else love tan salons?
+     <wedr_>  where's punishment
+ <Batholith>  PUNishment
+ <vdamewood>  Batholith: They cos too much
+     <wedr_>  FUNishment
+  <jrslepak>  . o O ( these jokes are sadly derivative )
+ <vdamewood>  jrslepak: We have yet to reach the limit
+  <jrslepak>  oh well, bad puns are integral to the IRC experience
+     <wedr_>  Yeah, where's the sigma when you needed it.
+     <Gamah>  next to the pi
+     <Gamah>  which really is the root of all evil
+ <Trashlord>  I once met a guy who had both an American and South African
+              nationalities. He was a South African-American.
+     <Gamah>  swing and a miss
+ <vdamewood>  Trashlord: That's not a math pun. Ye'r outta here
+ <Trashlord>  oh. I thought we were doing general puns
+ <Trashlord>  about anything
+ <vdamewood>  Nope. Bad math puns.
+ <Trashlord>  oh well
+ <Trashlord>  then I'm going to eat oatmeal. Goodbye
+ <Batholith>  a *real* party pooper
+ <vdamewood>  imagine that
+ <vdamewood>  This is a complex topic.
+ <Batholith>  okay that was such a long shot that I should feel bad
+ <Trashlord>  yeah, it wasn't a natural math pun
+ <Trashlord>  hey
+ <Trashlord>  is that even a pun?
+ <vdamewood>  this just makes me feel number and number.
+ <Trashlord>  hmmm yeah, it could be
+ <Batholith>  vdamewood: you're acute tea pi
+ <vdamewood>  Aww, thanks.
+     <Gamah>  that incremented quickly
+ <Batholith>  there's a fine line between a numerator and a denominator.
+ <Batholith>  only a fraction of people will find that funny
+     <d3x0r>  hah
+     <Gamah>  A wild exponential function appeared! You used
+              DIFFERENTIATE!
+     <Gamah>  It's not very effective...
+ <Batholith>  do you guys speak sine language?
+ <vdamewood>  Batholith: 5/4 of the population don't understand fractions.
+     <Gamah>  i'll do algebra... i'll do trig... i'll even do
+              statistics... but graphing is where i draw the line.
+ <Batholith>  my friend called me average. he can be so mean
+     <Gamah>  he was probably just in a bad mode
+     <Gamah>  i'm gonna have to save this log for later
+ <Batholith>  hope you can save it in linear time
+   <rindolf>  heh, heh
+     <Gamah>  Batholith: that joke didn't really add up
+ <Batholith>  I knooow, it was a little odd
+   <rindolf>  https://www.youtube.com/watch?v=BipvGD-LCjU
+   <rindolf>  Batholith: heh
+     <Gamah>  √((-shit)^2)
+     <Gamah>  shit just got real
+   <rindolf>  Gamah: heh
+     <exio4>  Gamah: sqrt((-i)^2) is not real
+
+    -- ##programming, Freenode
+%
+ <rts-sander>  as in suddenly you'll start getting empty responses
+       <adsc>  an api that has 1 request per minute limit is nearly
+               useless
+ <rts-sander>  well it's not a limit but it's recommended
+      <wedr_>  fetch(url).then((r)=> return r.ok ? r.json() :
+               r.text()).then((json) => doStuff(json));
+      <wedr_>  Pretty much
+   <solidfox>  then
+   <solidfox>  that's new to me.
+   <qoxncyha>  wedr_: that will break for !r.ok
+      <Tywin>  Ugh, reddit's still written in python. No wonder it's slow
+               as hell.
+   <qoxncyha>  i usually do `.then(r => { if (!r.ok) { throw r; } return
+               r.json() })`
+      <wedr_>  oh
+   <solidfox>  I write my websites in C
+      <wedr_>  You should write in WebASM
+      <wedr_>  :D
+      <velco>  s/Web//
+   <solidfox>  nah man. I mean the backend
+      <wedr_>  oh
+       <adsc>  soon you will be able to write the frontend in C, too
+    <rindolf>  solidfox: my websites are mostly static html
+   <solidfox>  sweet. I can render my interface myself instead of using
+               css
+      <Tywin>  Is C web-scale? Do all the cool kids use it?
+    <rindolf>  Tywin: /dev/null is web scale
+   <solidfox>  rindolf, ah. so you don't use any programming?
+    <rindolf>  Tywin: it has sharding
+    <rindolf>  solidfox: i do
+      <Tywin>  rindolf, does /dev/null also have native non-blocking
+               sharding?
+      <Tywin>  :D
+    <rindolf>  solidfox: i use static site gens
+    <rindolf>  solidfox: and there is client-side js
+    <rindolf>  Tywin:
+               http://shlomifishswiki.branchable.com/slash-dev-null_is_WebScale/
+   <solidfox>  rindolf, ah I see
+   <solidfox>  I think I remember now. aren't your static site generators
+               written in perl?
+      <Tywin>  rindolf, how can I get this /dev/null? What do I have to
+               type in my 5000$ Mac?
+    <rindolf>  solidfox: see http://www.shlomifish.org/meta/site-source/
+    <rindolf>  solidfox: not entirely
+    <rindolf>  Tywin: just paypal me 100 bitcoins
+      <wedr_>  Paypal supports bitcoins?
+      <wedr_>  Or that's a joke?
+    <rindolf>  wedr_: a joke
+      <wedr_>  ok
+      <wedr_>  Otherwise, my co-workers going to cash all in on Paypal
+      <wedr_>  They have a strut of bitcoins
+      <wedr_>  Hoping to get back into the green
+    <rindolf>  wedr_: he can pay me 1,000,000 usd instead
+    <rindolf>  to get the coveted /dev/null
+      <wedr_>  Wait until we hit 2030, when USD is probably
+               hyperinflating.
+   <solidfox>  wedr_, that ain't gonna happen
+   <solidfox>  wedr_, we can barely maintain current inflation rates
+      <wedr_>  Hence it's a joke
+    <arahael>  rindolf: not entirely a joke, unless it is extremely
+               widespread. there are quite a few results for 'paypal
+               bitcoin'
+    <rindolf>  arahael: i 'd imagine
+    <arahael>  rindolf: the more promising sites seem to be old though,
+               eg, a pcworld article from 2015. i suspect that they may
+               have considered it in the past. (but i havent read it. )
+      <wedr_>  or extremely fiticious and click-baity
+    <rindolf>  solidfox:
+               https://github.com/shlomif/shlomi-fish-homepage/blob/master/.travis.yml
+               - this is the build process
+ <rts-sander>  for a mere 999,000 usd I'll even spin up /dev/null as a
+               service for you
+ <rts-sander>  which exists already apparently:
+               https://devnull-as-a-service.com/
+      <Tywin>  rts-sander, it's expensive as hell, so it must be good. I'm
+               talking with my management right now about buying some
+               /dev/null.
+        <xi->  rts-sander: dispose of your data safely and efficiently
+               with /dev/null!
+    <rindolf>  Tywin: heh
+        <xi->  now for only 150$ per month on a 5 year contract!
+ <rts-sander>  I legit think there's non-technical business people you
+               could sell this to
+    <rindolf>  rts-sander: see
+               http://www.shlomifish.org/humour/fortunes/show.cgi?id=mongodb-vs-dev-null
+ <rts-sander>  rindolf, this hans guy is thorough
+    <rindolf>  rts-sander:
+               http://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-paid-version-of-cpan
+ <rts-sander>  rindolf, it's true though if you look at what some
+               companies pay for enterprise software
+    <rindolf>  rts-sander: enterprise!
+    <rindolf>  to boldly code what many have coded before
+    <rindolf>  lol
+ <rts-sander>  not like many of us are going through uncharted territory,
+               we at least have the decency to not pretend otherwise
+    <rindolf>  rts-sander: enterprise software!
+               https://fc-solve.blogspot.co.il/2010/03/01-april-2010-freecell-solver.html
+ <rts-sander>  rindolf, consistent usage of the trademark symbol
+ <rts-sander>  if you miss it once your intellectual property might get
+               stolen!
+ <rts-sander>  "Eh, what the hell?" lol
+    <rindolf>  rts-sander: heh. That is True™
+
+    -- ##programming, Freenode
+%
+      <GeDaMo>  Turbo Pascal :P
+     <rindolf>  GeDaMo: where?
+     <Aruseus>  many modern language features are slow to compile. rust
+                has that problem too
+     <InPhase>  Fast compilation, fast development, fast runtime. Choose
+                2.
+     <rindolf>  InPhase: heh
+     <rindolf>  InPhase: 2 or less
+      <GeDaMo>  rindolf: that was to beaky's "instant compile speeds"
+     <rindolf>  GeDaMo: ah
+     <InPhase>  There's a fundamental reason one ends up with that
+                tradeoff of choosing 2. Turning complicated ideas into
+                fast instructions is complicated. And that complexity has
+                to eventually be processed somewhere, either in the head
+                of the programmer, by the compiler, or as a runtime cost.
+     <rindolf>  InPhase: interesting
+         <_W_>  most slow compilers are so, not because it is necessary,
+                but simply because making it fast hasn't been a priority
+         <_W_>  s/so/slow
+     <InPhase>  _W_: Well the major C++ compiler designers, and the C++
+                language committee, reportedly spent effort trying to
+                significantly speed up compilation in recent years. But I
+                think we can see there were not many meaningful results
+                from those efforts. They've had trouble finding ways that
+                don't majorly break the features that make the C++ runtime
+                fast.
+        <xeno>  if I don't learn how to read a file line by line in Swift,
+                this one will also be slow, memory consuming or unstable
+                ;/
+        <xeno>  :/
+         <_W_>  well C++ compilation is already relatively fast, so it
+                makes sense that there wouldn't be a lot to gain
+       <jeaye>  There have been huge results in the reduction of TMP
+                compilation speeds, thanks to pressure from the clang/llvm
+                world.
+       <jeaye>  Templates, of course, being the biggest practical slowdown
+                in C++ compilation, that's a big win.
+     <rindolf>  jeaye: what is TMP?
+       <jeaye>  rindolf: Template MetaProgramming
+         <_W_>  I'd go so far as to say that there's more of a correlation
+                between how young a language is and how slow its
+                compilation is, than between complexity of language and
+                how slow the compilation is
+     <rindolf>  jeaye: ah
+   <SlashLife>  jeaye: And to be fair, I don't think it was obvious 20-25
+                years ago how big TMP would become.
+     <rindolf>  _W_: some languages started off with fast compilers
+         <_W_>  yes, it's not a hard rule by any means
+     <rindolf>  _W_: and gcc got slower -
+                https://github.com/shlomif/fc-solve/blob/master/fc-solve/docs/gcc-2.95.txt
+        <gehn>  fast in terms of time to compile? or fast in terms of the
+                performance of the resulting executable?
+         <_W_>  gehn: time spent in compilation was what was being
+                discussed
+         <_W_>  (and contrasted up against speed of development and speed
+                of execution)
+        <gehn>  ah
+        <xeno>  would guess most languages started off with fast compilers
+                that got slower
+         <_W_>  probably, at least up to some level of complexity and
+                features
+       <velco>  speed of development is subjective, its place is not at
+                all with the other too
+       <velco>  two*
+        <gehn>  compile time is certainly something that impacts dev time
+        <gehn>  at least in my experience
+        <gehn>  I like C++, but I don't love everything about it. it would
+                be nice if we had significantly faster C++ compile times
+       <velco>  in my experience, it does impact time taken only when not
+                writing code
+        <gehn>  well, testing the code written is a pretty important and
+                continuous process of my development
+        <gehn>  I have unit tests, but those don't cover everything
+        <gehn>  and GUIs are often more difficult to test at all
+        <gehn>  especially difficult to test things like the result of a
+                render operation on an opengl context
+        <gehn>  so, needing to wait a significant amount of time (upwards
+                of a minute or several) just to test some fairly simple
+                change can spiral time-to-dev costs
+     <rindolf>  gehn: yes
+     <rindolf>  gehn: using ccache has changed my life
+       <velco>  what percentage of this time is spent compiling? and what
+                is spent analysing the issue, coming up with a solution,
+                implementing the solution, writing a test, code review,
+                running the test?
+        <gehn>  rindolf, is that different from how a Makefile or whatever
+                (or a cmake generated project) should be able to detect
+                which files need compile and which don't?
+        <gehn>  velco, like I said, it's not always feasible to write a
+                test for everything
+     <rindolf>  gehn: sometimes it is
+        <gehn>  I don't have an answer as to exact percentage, but on many
+                days I suspect I spend almost 50% of my total time waiting
+                for compiles
+     <rindolf>  gehn: if you did make clean for example
+       <velco>  gehn: Sure. Why do you feel compelled to tell this to me?
+        <gehn>  that might be an overestimate, but it's not far away
+     <Aruseus>  gehn, if you have a file b that depends on a. if you
+                change a, then you'll need to recompile b even if you
+                didn't change it at all. so probably not everything will
+                change
+        <gehn>  velco, were you not asking the percentage question as a
+                response to what I had said?
+     <rindolf>  obxkcd: https://www.xkcd.com/303/
+             *  goiko_ has quit (Ping timeout: 264 seconds)
+        <gehn>  unit tests help a lot
+             *  Mutex7 (~Mutex7@S010620e52a28896a.wp.shawcable.net) has
+                joined
+       <velco>  gehn: yes, and if you don't write test, my list
+                potentially incomplete list of things allows for a 0
+                percent
+        <gehn>  because they compile much faster as each unit is typically
+                decoupled from the entire app
+             *  goiko__ (~goiko@pD95836BC.dip0.t-ipconnect.de) has joined
+             *  geste__ (~geste@pd95b0b70.dip0.t-ipconnect.de) has joined
+       <velco>  gehn: sound like you need to rethink your workflow
+        <gehn>  velco, sorry I don't understand what you just said
+        <gehn>  velco, maybe, but I'm not sure what to change about said
+                workflow
+       <velco>  gehn: I have not put a restriction of non-zero time on any
+                perticular item in my list, so I don't understand why do
+                you need to tell me some of these may take zero time
+        <gehn>  so, it's great to write unit tests, and I write a lot of
+                them, but when doing more GUI centric integration centric
+                work - a workflow centered around unit tests isn't viable
+        <gehn>  velco, I seriously still don't understand what you're
+                saying?
+        <gehn>  when did I say anything about zero time?
+     <rindolf>  gehn: there is also https://en.wikipedia.org/wiki/Distcc
+        <gehn>  velco, yes, what about that statement?
+       <velco>  I have found that a a simple change incurs less than 2
+                minutes of building of a large c++ project, most of it
+                spent in linking
+        <gehn>  2 minutes is still kind of a lot
+        <gehn>  I tend to not write tons of code before recompiling and
+                testing
+        <gehn>  so I might spend anywhere from 30s to 5 minutes on a few
+                lines, and then I usually want to test again before moving
+                on
+        <gehn>  with unit tests where compilation and runtime is usually <
+                20-30s that's mostly not an issue
+        <gehn>  but when compile times start to rise above the
+                minute-or-several mark, then this begins to become more of
+                a problematic issue
+       <velco>  why run compilation and test so often?
+        <gehn>  I think the answer to that should be fairly clear to many
+                if not most devs
+       <velco>  I run it when I have written a committable amount of code
+ <exio4_noznc>  velco: fail early
+        <gehn>  the more lines of code you write the more chance that
+                you've made a mistake, and the further you go without
+                checking your work, the more likely it is you'll end up in
+                a very difficult to debug situation that consumes more
+                time than it should
+       <velco>  exio4_noznc: it looks to me that some fail even before
+                starting :P
+       <gde33>  shouldn't make mistakes
+        <gehn>  linting helps with that a lot
+        <gehn>  but still doesn't prevent logic or runtime errors
+       <velco>  gehn: that does not come form my experience; it is very
+                rare I have an error in each line I write
+        <gehn>  so I guess velco is a near god-like perfect programmer
+       <velco>  in fact, most are correct; hence, testign them in
+                isolation proves pointless
+        <gehn>  for the rest of us mortals however...
+        <gehn>  I don't test lines in isolation
+
+    -- ##programming, Freenode
+%
+    <DnzAtWrk>  wow, I need to go on a quest for coffee
+     <rindolf>  Coffee Quest
+   <Mangy_Dog>  The Legend of the Bitter bean
+     <rindolf>  Mangy_Dog: heh
+   <Mangy_Dog>  :>
+   <Mangy_Dog>  i had a second mug of a rather strong coffee
+   <Mangy_Dog>  i should not have any more
+     <rindolf>  Mangy_Dog: i dont drink coffee
+   <Mangy_Dog>  :o
+   <Mangy_Dog>  tea?
+     <rindolf>  Mangy_Dog: i also refrain from caffeinated beverages
+   <Mangy_Dog>  :o
+   <Mangy_Dog>  heathen
+     <rindolf>  Mangy_Dog: fruit tea
+   <Mangy_Dog>  and you call yourself a programmer :p
+     <rindolf>  Mangy_Dog: heh, yes - i call myself a programmer
+ <amigojapan_>  rindolf: there are many stereotypes about programmers
+                which dont awlays apply
+     <rindolf>  amigojapan_: right
+     <rindolf>  amigojapan_: some programmers are dog people
+     <rindolf>  amigojapan_: and some go to bed early
+ <amigojapan_>  rindolf: hehehe, I bet that is quite common
+     <rindolf>  Mangy_Dog: woof
+   <Mangy_Dog>  bark
+   <Mangy_Dog>  aww sorry to hear it
+     <rindolf>  Mangy_Dog: roar
+             *  Mangy_Dog bark nbark bark
+     <rindolf>  Mangy_Dog: meow
+             *  Mangy_Dog heaedtilts
+     <rindolf>  we should start a zoo
+   <Mangy_Dog>  imma confused doggo
+     <rindolf>  Peyam: https://abstrusegoose.com/249
+     <rindolf>  Mangy_Dog: there are no dogs on the internet!
+   <Mangy_Dog>  but
+   <Mangy_Dog>  imma dog
+     <rindolf>  Mangy_Dog: :)
+       <liste>  nobody on the internet knows you're a dog
+       <liste>  unless you explicitly tell it
+   <Mangy_Dog>  heh
+       <liste>  https://www.openparenthesis.org/wp-content/uploads/2008/07/idog.jpg
+             *  moriarty barks
+     <rindolf>  Mangy_Dog:
+                http://www.shlomifish.org/humour/fortunes/show.cgi?id=dogs-on-the-Internet
+             *  moriarty starts dry-humping Mangy_Dog
+   <Mangy_Dog>  :o
+             *  Mangy_Dog tries to shake moriarty off
+             *  moriarty holds steadily on like a cool skateboarder
+    <moriarty>  :D
+             *  biberu prepares an ad for puppies
+       <liste>  an ad targeted for puppies?
+   <Mangy_Dog>  but im a male doggo
+       <liste>  now that's some next-level marketing stuff
+       <Awoca>  Hip hop dogs.
+    <moriarty>  Mangy_Dog, that's ok, we'd just pretend this is prison
+    <moriarty>  ;)
+   <Mangy_Dog>  :o
+   <Mangy_Dog>  :o
+      <biberu>  liste: targeted at chinese restaurateurs
+   <Mangy_Dog>  oh im gay btw... but i dont make puppies
+     <rindolf>  Mangy_Dog: ah
+   <Lil_Smurf>  TV for dogs
+     <rindolf>  Mangy_Dog: a gay male dog?
+   <Mangy_Dog>  ber arks
+     <rindolf>  on the internet!
+     <rindolf>  Mangy_Dog: and you drink coffee
+   <Mangy_Dog>  yep
+     <rindolf>  Mangy_Dog: you are a wonder dog
+   <Mangy_Dog>  yay
+     <rindolf>  Mangy_Dog: do you conspire to take over the world?
+   <Mangy_Dog>  naaa
+     <rindolf>  heh
+   <Mangy_Dog>  the big muscly wolves and tigers are set to take over the
+                world
+
+    -- ##programming, Freenode
+%
+    <rindolf>  hmmm,,,, Trashlord no longer has +v
+  <vdamewood>  He must have left the channel for a second or something.
+    <rindolf>  Trashlord: welcome to the commoner class
+    <navkthx>  Trashcommoner
+ <rts-sander>  filthy peasant
+    <rindolf>  navkthx: heh
+    <rindolf>  pleb
+    <navkthx>  ^^
+            *  rindolf is joking
+ <rts-sander>  I'm not, I'm 100% serious
+    <navkthx>  as a heart-attack
+    <arahael>  "let them eat cake".
+    <rindolf>  rts-sander: heh
+    <rindolf>  arahael: btw, this phrase predates
+               https://en.wikipedia.org/wiki/Marie_Antoinette
+    <rindolf>  Trashlord: how do you feel wo +v?
+      <jeaye>  Trashlord: how do you feel w +ov?
+  <Trashlord>  rindolf: feels weird after 4 months. But I wasn't voiced
+               because I'm special, but rather because of a spammer.
+               Multiple people were voiced and my bouncer just happened to
+               be stable so I remained voiced the whole time
+   <solidfox>  what is w +ov and wo +v
+    <rindolf>  Trashlord: ah
+  <Trashlord>  jeaye: if I was +o it would have been easier, because some
+               people thought I was channel staff. I started getting
+               private messages asking why X is banned, etc
+    <rindolf>  solidfox: without voice
+   <solidfox>  so w +ov must be with op and voice
+    <rindolf>  Trashlord: did you see us joking about it earlier?
+      <jeaye>  solidfox: Mine's just wordplay on rindolf's.
+   <solidfox>  jeaye, oh ok lol
+  <Trashlord>  rindolf: don't think that I did
+    <rindolf>  Trashlord: ah
+    <rindolf>  Trashlord: scroll up
+    <rindolf>  Trashlord: sup?
+  <Trashlord>  rindolf: to what time?
+  <Trashlord>  rindolf: I'm trying to bake pitas again
+    <rindolf>  Trashlord: ah
+  <Trashlord>  I might have not been here when that conversation took
+               place
+  <Trashlord>  if it was more than 2 hours ago
+    <rindolf>  Trashlord: we mentioned your nick
+    <rindolf>  Trashlord: i can paste it
+  <Trashlord>  rindolf: alright, paste
+     <tbejos>  rindolf: you do a lot of programming on graphics and video
+               systems right?
+    <rindolf>  Trashlord:
+               http://www.shlomifish.org/Files/files/text/irc.log.txt
+    <rindolf>  tbejos: possibly - nothing too much low level
+     <tbejos>  rindolf: well this project might be of interest to you
+               https://github.com/gnif/LookingGlass
+     <tbejos>  it is a little low level tbh
+   <solidfox>  rindolf, the rules say no loggers, does that apply to
+               excerpts?
+  <Trashlord>  rindolf: ah
+  <Trashlord>  well, I lost my voice because my bouncer got disconnected
+  <Trashlord>  ¯\_(ツ)_/¯
+    <rindolf>  solidfox: i think not
+   <solidfox>  we need a +v bot
+   <solidfox>  to enable +v
+   <solidfox>  on anyone who asks
+    <rindolf>  solidfox: we used to have Archer
+   <solidfox>  rindolf, archer was a person
+    <rindolf>  Trashlord: bad bouncer
+  <Trashlord>  rindolf: it was on for 4 months
+   <solidfox>  and he only let certain people have +v :<
+    <rindolf>  Trashlord: fire them
+  <Trashlord>  my longest connection streak ever
+  <Trashlord>  rindolf: it's from a friend
+  <Trashlord>  hosted on one of his servers
+    <rindolf>  solidfox: it was also a bot
+   <solidfox>  rindolf, ah I see
+   <solidfox>  rindolf, I was trying bot commands and he replied "tisk
+               tisk tisk" lol
+   <solidfox>  it surprised me
+       <POJO>  but "hello world!" will not get me there, even in a loop
+   <solidfox>  well not really algorithms, that might be going a bit
+               overboard
+    <rindolf>  solidfox: i have some selected convos from here on my site
+   <solidfox>  rindolf, that is probably ok
+   <solidfox>  i was just curious
+    <rindolf>  Trashlord: ah
+    <rindolf>  Trashlord: fire your friend
+  <Trashlord>  rindolf: heh
+  <Trashlord>  rindolf: the bouncer is good
+  <Trashlord>  rindolf: and I'm getting it for free
+    <rindolf>  Trashlord: ok
+  <Trashlord>  not gonna complain
+
+    -- ##programming, Freenode
+%
+        <mrig>  often wondered why a list of objects is called a vector in
+                C++ too, seems some how related.
+   <vdamewood>  mrig: Because cartesean vectors are just a list of values
+                in math.
+        <mrig>  right yes.
+       <velco>  that's he orifinal mathematical definition of vector:
+                tuple of scalarsd
+   <vdamewood>  mrig: So the term was borrowed in the old days by some.
+                Some others uses 'array' for the term.
+   <vdamewood>  C++ has a std::vector type because of this legacy
+        <mrig>  and the array gets conflated with matrices too.
+    <DnzAtWrk>  isn't a vector like a direction, compared to a coordinate
+        <mrig>  ok
+     <deniska>  I mean, a matrix is just a vector of vectors :P
+   <vdamewood>  DnzAtWrk: It can be, yes.
+     <deniska>  DnzAtWrk: a vector can represent both a direction, and a
+                coordinate
+    <DnzAtWrk>  I tried learning what tensors are the other day
+    <DnzAtWrk>  seems like people can't agree on definitons of these
+                things
+       <velco>  both a direction and a position
+   <vdamewood>  Isn't he they guy with the floating disc?
+     <deniska>  vector is just a clever name for "a bunch of numbers" :)
+        <mrig>  deniska: well it is kinda the axis rather than that value
+                no?
+   <vdamewood>  Tensor's Floating Disc?
+       <liste>  vectors have length in addition to a direction
+        <xeno>  DnzAtWrk: when you did, did you go the math route, or did
+                you try to follow some CS thing?
+     <deniska>  mrig: a coordinate is a pair of numbers, a vector is a
+                pair of numbers, they are essentially the same thing
+    <DnzAtWrk>  Both
+     <deniska>  (a 2d vector I should say)
+    <DnzAtWrk>  and I still barely get it
+       <liste>  a vector stemming from origin can represent a coordinate
+                pair
+   <vdamewood>  A 2d number sounds complex.
+  <rts-sander>  a vector can represent just about anything
+  <rts-sander>  when given enough dimensions
+             *  vdamewood uses a vector to represent rts-sander's mom
+     <deniska>  a vector can represent your face
+     <deniska>  and your mom
+  <rts-sander>  oh sheit
+   <vdamewood>  I've already got a vector for you mom.
+  <rts-sander>  vdamewood, I'd do the same for you but even my 32GB of ram
+                couldn't fit your mum
+       <velco>  ur mom is infinite field of scalars
+             *  vdamewood bows to rts-sander
+    <mobile_c>  ur mom is worth 33 GB 0.0
+    <DnzAtWrk>  seems fine
+    <DnzAtWrk>  your mom has a high generality
+    <mobile_c>  XD
+     <`slikts>  is that a way of saying fat
+   <vdamewood>  My band is like 999 MB. No gigs yet.
+       <gde33>  higher langaugeas (basic) soh much fun!
+    <mobile_c>  gde33: as in Visual Basic?
+    <DnzAtWrk>  naw I'll just use nbasic
+       <gde33>  mobile_c: as in all higher languages are basic
+    <mobile_c>  gde33: oki
+             *  vdamewood makes a new programming language called SIMPLE
+     <rindolf>  vdamewood: heh
+     <rindolf>  vdamewood: call it "easy"
+             *  vdamewood makes another programming language called EZ
+             *  inhahe makes an esolang called Complicated
+       <liste>  inhahe: that'd be Malbolge :)
+   <vdamewood>  Now I'm making a backup of my backup.
+             *  gde33 wants to make a language called Terrorism
+ <dostoyevsky>  Ponzi scheme is still the most popular
+       <gde33>  should be hackers, then you can say you are using hackers
+   <vdamewood>  A language should be called 'Yo mom', So books can be
+                titled "Programming with Yo Mom"
+     <deniska>  Yo mom for beginners
+       <gde33>  embeded yo mom
+   <vdamewood>  Yo Mom in 24 Hours
+      <inhahe>  Debugging Yo Mom
+     <deniska>  Head first in yo mom
+   <vdamewood>  Yo Mom, the Hard Way
+       <gde33>  chapter 1: objects in yo mom
+
+    -- ##programming, Freenode
+%
+  <bytefire>  that stuff goes over my head
+      <ph88>  over my head as well :P
+  <bytefire>  may be half inch above your head and 50 feet above mine :)
+   <rindolf>  bytefire: what barbaric measurements
+   <rindolf>  bytefire: quick - how many inches are in a mile?
+ <vdamewood>  all of them
+  <jrslepak>  . o O ( how many barrels in an acre-foot? )
+   <rindolf>  vdamewood: i guess the capital of Ohio is "O" then
+      <adsc>  how many fathoms in a furlong?
+  <bytefire>  rindolf: there are more than 2 inches in a mile
+  <jrslepak>  of course, none of this is as dumb as having 112 pounds in a
+              hundredweight
+   <rindolf>  bytefire: so 3?
+      <mrig>  to many to fathom!
+    <Inline>  if in doubt use your ellbows
+    <Inline>  lol
+  <bytefire>  rindolf: well... there are 3 inches in a mile. there are
+              other inches in a mile as well.
+    <Inline>  one bow and one bow bowbow
+      <mrig>  Yes that is how you get to the front of the Que in France.
+    <Inline>  wowow
+   <rindolf>  bytefire: heh
+  <bytefire>  :D
+    <Inline>  bow wow au
+    <Inline>  lol
+      <mrig>  A foot is a fair measure of spacetime :P
+   <rindolf>  bytefire: i'll take the first 20 inches in the mile
+ <vdamewood>  Speaking of spacetime, how meany meters are in a second?
+ <vdamewood>  many*
+  <bytefire>  lol
+    <Inline>  naaa all you need is a clock and an inch stick to measure
+              spacetime
+    <Inline>  lol
+      <wedr>  clock is just an invention
+      <wedr>  all you need is a stick
+      <mrig>  an 1/12th of is naturally a sensefull measure of nought!
+           *  vdamewood sticks to the invention.
+           *  wedr invented sticks
+   <rindolf>  vdamewood: i wondered that as well
+ <vdamewood>  rindolf: I have no way to prove it, but I always figured
+              that there were c*s meters in a second.
+      <mrig>  if a nautical mile is genuinely 60 minutes, how much is an
+              inch in time?
+      <mrig>  :P
+      <wedr>  mrig: a liter.
+      <mrig>  ah" that is 1/12th an ah'
+    <Inline>  as big as the sailor
+ <vdamewood>  rindolf: That is, the time it takes light to travel a
+              certain distance is that distance in time.
+    <Inline>  loll
+      <mrig>  or is that vis versa?
+   <rindolf>  vdamewood: ah
+    <Inline>  tailor the sailor without failure
+           *  Inline sings
+    <Inline>  lol
+           *  mrig fades into a black hole and emerges upon a brand new
+              time line.
+      <mrig>  shiny!
+      <wedr>  wtf, you invented a stick
+      <wedr>  now we have to measure how long the new timeline is.
+      <wedr>  You monster.
 
     -- ##programming, Freenode

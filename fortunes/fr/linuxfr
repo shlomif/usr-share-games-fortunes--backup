@@ -1,0 +1,1049 @@
+<^patriX^> Est-ce que quelqu'un a eu des pb avec le pppd daemon de la
+              kheops 97 ?
+<eb> non, aucun probleme
+<sam> moi non plus
+<sam> g jamais eu aucun probleme avec
+<^patriX^> tu l'a au moins la kheops 97 ?
+<eb> non. ni pppd ni kheops 97 :)
+
+                                                 - #linuxfr
+%
+<_seb_> sammy; pas envie de rentrer dans des querelles d'OS à la con; une
+           becane, ca me sert à bosser. avec linux, tu t'amuses.
+
+                                                 - #francaise
+%
+<Massi007> La libc6 est incompatible avec les motifs de mon kernel¸ sa fai que
+              le DCC marche pas chez moi
+
+                                                 - #linuxfr
+%
+<_seb_> j'ai besoin de conseil pour l'achat d'une carte ether 10 baseT ..
+           une idee ? :)
+<hpreg> seb : 3c509
+<hpreg> de base, marche bien, pas trop chere
+<_seb_> bon, disons que le prix n'est pas une question, quel est le top ?
+<hpreg> mmm, en fait elle se valent toute, sauf les pures NE2000 qui sont
+           merdiques
+<_seb_> elles se valent VRAIMENT toutes ?
+<tibob> deb : non, certaines cartes sont moins performantes que d'autres.
+<hpreg> ouai, elles se valent toutes
+<hpreg> mais les 3c509 se valent un peu mieux que les autres
+
+                                                 - #francaise
+%
+<CAM> parce que mon X détecte pas les disquettes 95
+
+                                                 - #linuxfr
+%
+<|-r2d2-|> c'est trop cool 3DStudio MAX
+<HPReg> bof non, c pas _trop_ cool, ca tourne pas sous Linux
+<HPReg> c juste un peu cool
+
+                                                 - #francaise
+%
+<folop> y'a un fichier de 61 mo dans /proc c'est normal ?
+<mooby> ah non pas du tout
+<mooby> efface
+
+                                                 - #linuxfr
+%
+<jeanphi> et ca marche ?
+<Sammy> jeanphi: terrible !
+<Sammy> j'ai meme reussi a graver alors que le fichier image etait mounte
+           comme filesystem et que je lisais un mp3 dessus !
+<Sammy> LinuX RewlZ !
+<walken> hehe
+<walken> c surtout windoze qui suxx
+
+                                                 - #francaise
+%
+-o- Gagaa [souissr6@puma.cti.ecp.fr] has joined #francaise
+<sammy> gaaa
+<Gagaa> salut, est ce qu'il y a quelqu'un de VIA ici  ?
+<sammy> ah, pas moi
+<sammy> c quoi via ?
+<walken> oui c quoi ?
+<Gagaa> une bande de babasseur
+<walken> ouhla
+<walken> genre boutonneux asocial a lunettes ?
+
+                                                 - #francaise
+%
+<Dulle> tiens. voila un vieux mail interessant (1996) :
+<Dulle> Your "cron" job
+<Dulle>
+<Dulle>
+<Dulle> produced the following output:
+<Dulle>
+<Dulle> arg. je la refais...
+<Dulle>  Your "cron" job
+<Dulle>
+<Dulle>
+<Dulle> produced the following output:
+<Dulle>
+<Sam> ah ouais
+<Sam> mortel :)
+<Dulle> merdeuh...
+<Dulle> _Your "cron" job
+<Dulle>
+<Dulle>
+<Dulle> produced the following output:
+<Dulle>
+<eboulot> impressionnant
+<Sam> pt1 ca c de l'output
+* Dulle polliote de chez polio....
+<Dulle> _Your "cron" job /USR/LOCAL/SBIN/SAUVE345
+<Dulle> produced the following output:
+<Dulle> sh: /usr/local/sbin/sauve345: not found
+<eboulot> impressionnant aussi :p
+
+                                                 - #francaise
+%
+<Massi007> plop tu as kel age?
+<Plop>  plop!
+
+                                                 - #linuxfr
+%
+[Massi007] mais je suis root
+[Massi007] a chaque fois
+ [msg(massi007)] rhaaaaaaaaaaaaaaaaaaaaaa
+ [msg(massi007)] tu m'etonnes que t'arretes pas de faire des conneries !
+[Massi007] bah je ne travail quen root
+[Massi007] !
+[Massi007] c mon ordi tout de meme!
+[Massi007] :0
+[Massi007] :)
+ [msg(massi007)] ben c completement mongolien
+ [msg(massi007)] apres, tu viens te plaindre...
+[Massi007] tu es en train de me dire ke meme toi tu es log a chak fois en user?
+[Massi007] sur ton ordi a toi!
+ [msg(massi007)] je ne me log JAMAIS en root
+[Massi007] mais c fou ca
+[Massi007] vous zetes pas des newbies pour vous logguer en usser kan mem
+[Massi007] serieux koi
+
+                                                 - #linuxfr
+%
+<Pingouino> X windows c un concurrent de Windows Manager ?
+
+                                                 - #linuxfr
+%
+<Pingouino> comment faisait FFT pour etre sur irc et avoir le server http ?
+
+                                                 - #linuxfr
+%
+<Pingouino> et on fait comment pour etre sur irc et avoir teardrop
+
+                                                 - #linuxfr
+%
+[wisconsin] attends c pas du tout un langage de prog le shell :)) c'est comme
+               le html :)))
+
+                                                 - #linuxfr
+%
+[wisconsin] ne soit pas vexé au debut j'etais comme toi,mais evite ce channel
+               y'a des pros ici
+
+                                                 - #linuxfr
+%
+-o- Ucender is now known as |_|
+-o- Sammy is now known as ]-d3a7h-[
+-o- ]-d3a7h-[ [k0loN3L@nimp.via.ecp.fr] has joined #chatlords
+-o- |_| [fred@fred.via.ecp.fr] has joined #chatlords
+<|_|> H| 7h&rE
+<]-d3a7h-[> C°°l ! pl3In d& VV4rL0RD2 I<| !
+-o- mode/#chatlords [+b *!*@*.ecp.fr] by angelo
+>>> You have been kicked off #chatlords by ChatteR (banned)
+
+                                                 - #chatlords
+%
+<Pingouino> Vous connaissez un chan qui a été TO ?
+<Pingouino> on va les tuer à coup de teardrop ;)))
+
+                                                 - #linuxfr
+%
+<Pingouino> Netscape il va juste avoir un EXE dedans ?
+
+                                                 - #linuxfr
+%
+<Pingouino> est ce qui a un fichier commun (comme le passwd pour les
+               tilisateurs) pour les clients mail ??
+
+                                                 - #linuxfr
+%
+<sudo> ou je peux trouver une liste avec tous les raccourcis clavier linux?
+
+                                                 - #linuxfr
+%
+<Massi007> bah kk1 ma rebooter je pense
+<Sammy> ki t'a rebooté ?
+<Massi007> bah des ip qui sont rentrer dans mon ordi
+
+                                                 - #linuxfr
+%
+<XunK> c'est quoi le meilleur client irc pour Linux ?
+<Sam> mirc
+<XunK> mirc ? le meme que sur PC ???
+
+                                                 - #linuxfr
+%
+-:- chri [chri@tcparis2-8.hol.fr] has joined #linuxfr
+<chri> 'soir...j'aurais une question sur linux...
+<dudle> chri : bah casse toi alors
+-:- chri [chri@tcparis2-8.hol.fr] has left #linuxfr [chri]
+
+                                                 - #linuxfr
+%
+<sam> sinon, les gens aiment bien les jeux de sunhp
+<sam> mario et consorts
+<AzE> je vais chercher alors
+<AzE> mario je l'avais
+<AzE> consorts je connais pas
+
+                                                 - #hp48
+%
+<curtiss> eh y'a pas un site ou on peut telecharger linux ??? légalement
+             ou en warez...
+
+                                                 - #linuxfr
+%
+<Bib> C'est quand meme pratique de faire le beau quand on est op.... Mais etre
+         op sous linuxfr je croyais que ca demandais des connaissance linux et
+         non de savoir simplement utiliser le kick...
+<[happy]> Bib: non non, simplement le kick
+
+                                                 - #linuxfr
+%
+<DarkHunt> hep
+<DarkHunt> quelle dif entre dns et ip ?
+
+                                                 - #linuxfr
+%
+-:- marmotte [~marmotte@193.48.121.54] has joined #linuxfr
+<sam> !mirc
+>>> Oeuf [~egg@194.3.228.212] requested VERSION  from #linuxfr
+-:- marmotte was kicked off #linuxfr by Oeuf (MIRC KICK (1))
+-:- marmotte [~marmotte@193.48.121.54] has joined #linuxfr
+-:- bLoRp was kicked off #linuxfr by Oeuf (MIRC KICK (2))
+<DrJosh> mdr 
+<marmotte> ok je me casse
+-:- marmotte [~marmotte@193.48.121.54] has left #linuxfr [marmotte]
+
+                                                 - #linuxfr
+%
+<Pingouino> j'ai un peu fais du C mais bon, j'ai vu a quoi ca servait ds
+               mon book sur le langage C: a editer des fichiers TXT
+
+                                                 - #linuxfr
+%
+<Pingouino> mais rm -Rf ca formate
+
+                                                 - #linuxfr
+%
+<CurIeuX> ghost, t'as quel provider ?
+<ghost-> redhat
+
+                                                 - #linuxfr
+%
+<poipoi> nigra je trouve que tu es mechant avec les newbies
+
+                                                 - #linuxfr
+%
+<billg> the court case distracted my employees, so bugs slipped in, we're gonna sue
+
+                                                 - #linux
+%
+<Hummern> anyone knows if i can install red hat 5.1 from win98 ???
+
+                                                 - #linux
+%
+<PM> quelqu'un connait un bon soft d'IRC sur linux ?
+<sam> oui, mirc
+<PM> c'est en mode texte ca non ?
+<sam> nope
+<PM> bon alors je vais chercher le rpm
+<Icham> erf
+<PM> Toi icham tu dis que c'est erf le mieux ?
+
+                                                 - #linuxfr
+%
+<dreammer> c koi UUCP ?
+<dreammer> (j'utilise linux depuis hier soir)
+<sam> arf
+<sam> demande a plop :)
+<sam> /msg plop ?? uucp
+<dreammer> plop : c koi uucp .
+<plop> plop!
+
+                                                 - #linuxfr
+%
+<_seby> j'ai trouver sur le site de realtek le fichier pour ma carte
+            d'apres la doc il faut copier le fichier dans
+            /usr/src/linuxefl.1.2.13/drivers/net, mais ce rep n'existe
+            plus sur le rh 5.0 ???
+
+                                                 - #linuxfr
+%
+<shiva> qqun peut-il m'aider ?
+<eFeF> shiva: nan
+<fuz> shiva: non
+<fuz> ff ;)
+<NRV> shiva: non
+<shiva> pourquoi ?
+<sam> shiva: paske
+-:- shiva [~cambrouze@193.252.210.198] has left #linuxfr [shiva]
+
+                                                 - #linuxfr
+%
+<cronos^> le kernel 2.1.109 c'est pareille que le 2.0.35 ?
+
+                                                 - #linuxfr
+%
+<FreDerIcO> voila j'ai le fsck qui est parallelizing apres une coupure de
+               courent je sais plus demare xwindow kde ;((
+
+                                                 - #linuxfr
+%
+<DjFlod> ` la wired ct pratique le NFS pour les CDs en Warez ;)
+
+                                                 - #linuxfr
+%
+<kli> nan je croa ke j'ai pas inetd , c'est indispensable de le lancer ?
+<kli> raphit : marche po ... ca sert a koa inetd ?
+
+                                                 - #linuxfr
+%
+<|snake> ugly, what lame distribution are u running? :P
+<ugly> redhat 5.1   
+
+                                                 - #linux
+%
+<Mooby> dites comment on fait pour lancer un prg sous NT? on double clique
+           dessus, c'est bien ca ?
+
+                                                 - #linuxfr
+%
+<SaTaNiK> ya qqun qui pourrait m'aider....j'ai compiler un programme avec gcc:
+           'gcc test.c' puis j'ai fait exec test.c et il me ferme le xterm :(
+
+                                                 - #linuxfr
+%
+<ref> comment on fait pour etre guru ?
+
+                                                 - #linuxfr
+%
+<Bartman> Je fais de l'irc avec un client en Perl.
+<Bartman> Ca marche bien :-)
+-:- Signoff Bartman (dead socket)
+
+                                                 - #francaise
+%
+<kwa> kron : 2.0.35 -> numero impair, donc version d'essai. j'ai tout de meme
+         appris quelques petites choses, depuis le debut de la semaine, sur
+         linux :)
+
+                                                 - #linuxfr
+%
+<{-magic-}> c coi l'extension des exe under linux ??
+
+                                                 - #linuxfr
+%
+>>> Oeuf [~egg@194.3.228.212] requested VERSION  from #linuxfr
+-:- Coplan was kicked off #linuxfr by Oeuf (MIRC KICK (1))
+-:- Coplan has joined #linuxfr
+<Coplan> si vous n'y connaissez rien a linux c pas la peine de kicker pour
+            eviter une reponse que vous n'avez pas, il n'y a pas de mal a
+            avouer son incompetence...
+
+                                                 - #linuxfr
+%
+<DwH> jai rh 5.0 et je veux updater mon kernel en 5.1
+
+                                                 - #linuxfr
+%
+[xmbr(+xmbr@195.101.26.86)] salut, tu sais pas ou je peux trouver un super site
+          sur linux avec des progs de hack, nuke, des scripts, enfin tout pour
+          pas être emmerdé par des newbies....
+
+                                                 - #linuxfr
+%
+<Smurfie_> les amis puiske c comme ca
+<Smurfie_> je vais sur #windows
+
+                                                 - #linuxfr
+%
+<Raphit> analogue: tu Ha>< leur BoX WiNcRaSh et tu fais une installation de
+            Linux a distance avec le support NFS par raw socket sur un FDDI
+            bien sur
+
+                                                 - #linuxfr
+%
+<Hector> heloo ! !
+<Hector> ki veut bien menvoyer linux redhat 5.0 par courrier ?
+
+                                                 - #linuxfr
+%
+<popo_> y'a la cable tele pas moyen de le hacker pour chopper internet ?
+
+                                                 - #linuxfr
+%
+<Nidhogg> pourquoi en HTML quand j'aligne une image en haut et une autre en bas elles sont décalées ??
+
+                                                 - #linuxfr
+%
+Mais barre toi sale trombonne de merde ! tu pues !
+
+          - octplaNe qui s'excite au vialab avec l'assistant Office
+%
+<jeanphi> Nemo : dolphi a effectivement un .forward vide
+<Nemo> jeanphi : tu peux le lui virer ?
+<jeanphi> Nemo : ben c facho qd meme
+<jeanphi> Nemo : je vais lui renommer
+
+                                                 - #francaise
+%
+<pinuche> c'est dur irc, je prefere sendmail
+
+                                                 - #linuxfr
+%
+<sam> c'est coriace, un putain de newbie
+
+                                                 - #linuxfr
+%
+<B-slap> pb de config 3com905B sous redhat 5.1 kernel 2.0.34-0.6 
+<B-slap> apparement elle envoie mais elle recoit po !
+<fuz> bslap: achete en une 2eme et branche la a l'envers
+
+                                                 - #linuxfr
+%
+<Cpicyfab> Et UNIX, ca fonctionne comment?
+<Cpicyfab> Comme msdos?
+<Cpicyfab> Pardon
+<Cpicyfab> Comme les PC?
+
+                                                 - #linuxfr
+%
+<Chuchi> c'est bien starcraft
+<Ucender> Chuchi : Ah ouais, l'est ou le RL dans Starcraft hein ?
+
+                                                 - #francaise
+%
+<sam> ca a l'air trop sympa rebol
+<sam> beuh c'est pas GNU
+<sam> zsh: 2990 segmentation fault  ./rebol
+<sam> bon ça pue rebol
+
+                                                 - #francaise
+%
+<Rx_> moi j'ai un reseau 512kb/s... nananananereuh !
+<sam> rx: hum. tu sais combien on a nous ?
+   [...]
+<Rx_> bon ok je me la ferme.
+
+                                                 - #linuxfr
+%
+<GrosQuick> il est poli
+<GrosQuick> c'est pas un truc du style
+<GrosQuick> SALUT LES L4M3rZ ! KOMAN ON COMPIL LA KERNELLE
+               ???????????????!!!!!!!!!!!!???????????????????
+<GrosQuick> REPONDEZ BANDES DE TAPETTES !!!!!!
+<GrosQuick> grosquick has qui #linuxfr (bande de tafioles)
+
+                                                 - #linuxfr
+%
+<PyRo83> et redhat est fenêtré au moins ???
+<sam> PyRo83: mouahaha
+<sam> PyRo83: tu veux peut-etre savoir si linux peut lancer des programmes
+         aussi ?
+<Mayweed> j'ai entendu dire que redhat supporte mieux les enceintes stereo que
+             le slackware..
+
+                                                 - #linuxfr
+%
+<PyRo83> je prends quoi alors ?
+<sam> PyRo83: debian 2.0
+<sam> PyRo83: et si t trop con tu prends win 98 plutot
+<PyRo83> ah ah ah je l'ai déjà zin98 !
+
+                                                 - #linuxfr
+%
+<ReLoU> kelkun a la ROM de la 48G  sur son ordi ??
+<sam> hum nan désolé g pas ca sous la main
+<gally> mais si
+<ReLoU> gally: ta ça ??
+<sam> nan
+<gally> meuh si
+<ReLoU> gally: tu peux DCC plz ?
+
+                                                 - #hp48
+%
+<PurL> c comment deja l'interface graphique pour recompiler le noyau svp ?
+
+                                                 - #linuxfr
+%
+[}{KeY2}{] je vien de reussire a installer linux
+[}{KeY2}{] redhat
+[}{KeY2}{] mais il me demande LOGIN
+[}{KeY2}{] je met quoi ?
+
+                                                 - #linuxfr
+%
+<crazyfred> si ca interesse kk1 je peut lui mailer staroffice4 (50mo)
+
+                                                 - #linuxfr
+%
+<octpLaNe> microsoft, c'est un sponsor hein ?
+<tibob> octpLaNe - nan
+<tibob> octpLaNe - c'est un partenaire
+<tibob> octpLaNe - un sponsor, il te file du pognon
+
+                                                 - #francaise
+%
+<Swatch> Aerial , Quand tu veux a kek
+<Aerial> là maintenant ?
+* Swatch is away DoDo
+
+                                                 - #francaise
+%
+<eb> !uptime
+-:- SignOff Paturette: #francaise (EOF From client)
+
+                                                 - #francaise
+%
+<walken> c plein de bonne volonte mais keske c con un newbie :)
+
+                                                 - #francaise
+%
+<api-1999> sinan y a quelqu'un à qui je pourrais poser des questions sur Linux
+<api-1999> et qui aurra la gentillesse de me répondre ??
+<tibob> api-1999 - ouais, il s'appelle Cox. Alan Cox. Mais il est pas ici
+          malheureusement
+<api-1999> arg
+<api-1999> je peux le voir quand
+
+                                                  - #linuxfr
+%
+<X-dae> !whois kashi
+<gally> kashi ... enculééééééééé !
+
+                                                 - #francaise
+%
+<Peck> ca doit  vous faire chier les newbies comme moa a longueur de temp non?
+
+                                                 - #linuxfr
+%
+<SaTaNiK> haha terrible merdouille j'en avais marre des permissions alors j'ai
+          fait chmod 775 * -R à la racine
+:: [signoff/#linuxfr] SaTaNiK (M'en vais tout reinstaller ;(()
+
+                                                 - #linuxfr
+%
+<X-dae> me parait louche
+<samBosse> sisi
+<X-dae> faudrais demander a ceux ki si connaissent genre bensoussan
+<samBosse> c Stallman ki me l'a dit, alors ton Bensoussan y peut aller se
+            rhabiller
+
+                                                 - #linuxfr
+%
+<sirocco> y'a personne pour me dirriger qq part pour la doc de sendmail ?
+<Sarayan> sirocco: www.sendmail.org
+<sirocco> mersi Sarayan & CurIeuX mais ben... C TROP LONG A LIRE :)))
+<CurIeuX> sir alors jettes-toi
+* sirocco ouvre la fenetre, monte sur le bord, regarde en bas...
+  (gmpfff c'est haut), et saute.....
+<sirocco> AAAAAAAAAAAAAaaaaaaaaaaaaaaa.............. 
+%%% sirocco [sirocco@ppp-106-72.villette.club-internet.fr] has left #linuxfr
+
+                                                 - #linuxfr
+%
+[L_EMIR(bc9000@stlo2-206.abo.wanadoo.fr)] peut-tu m'expliquer comment
+                                              installer internet sous WM
+
+                                                 - #linuxfr
+%
+<yopee> ghoz : allez stp, comment lancer ma connexion a internet en passant par
+           window manager !!
+
+                                                 - #linuxfr
+%
+<Meandus> quand ce channel aura vraiment qqchose a m'offrir je reviendrais a+
+
+						 - #linuxfr
+%
+<ben1> qui c'est comment configurer ipfwadm pour être le plus sécure possible ?
+
+                                                 - #linuxfr
+%
+<BadBoys_> car man proxy y connais pas !
+
+                                                 - #linuxfr
+%
+<BadBoys> linux c une grosse backdoor quoi !
+<BadBoys> vais me remettre a windows !
+<BadBoys> c plus sur
+
+                                                 - #linuxfr
+%
+<nautil> et tu fais quoi de secret ?
+<nautil> je veux dire pour avoir besoin de la crypto ?
+<sammy> rien, c juste pour me rebeller contre le pouvoir et dire que je crache
+          sur les lignes blanches quand je traverse la rue
+<nautil> pour frimer tu sors oopssa jai modif pour utilise towfish et
+          diffiehellman afin de bypass le copyright rsa :)
+
+                                                 - #linuxfr
+%
+<NigraFuz> oh un newbie !! :)
+<sam> NigraFuz: en plus il a dit qu'on etait sympa !!!!!
+<sam> NigraFuz: tu vas pas te laisser faire j'espère :p
+
+                                                 - #linuxfr
+%
+<socrate> putain vous etes tous sur linux
+<socrate> c qu'ils vous obligent?
+
+                                                 - #cnous
+%
+<vini> personne ne sait utliser linux ici apparament
+
+                                                 - #linuxfr
+%
+<MINIX> qui sait comment avoir le pid d'un prog par son nom , j'ai besoin de
+        trouver le pid d'un prog "login par example " , et d'envoyer ce pid
+	sur l'entree standart d'une commande comme kill par exemple .. c'est
+	pour un script .... merci de m'aider
+> kill -9 `ps auxwww|grep irc|awk '{print $2}'|grep -v grep`                    
+*** Signoff: MINIX (Dead socket)
+%
+<Czara1960> je ne peut pas monter mon cdrom avec KDE
+
+                                                 - #linuxfr
+%
+-:- sammy has changed the topic on channel #linuxfr to: <Czara1960> je ne peut
+          pas monter mon cdrom avec KDE
+<sammy> Czara1960: comme ca qqn t'aidera ptet s'il voit le topic
+<sammy> tu vois comme je suis serviable
+<Czara1960> merci
+
+                                                 - #linuxfr
+%
+<rapt> ptin, vivement que je configure un firewall, je viens encore
+          de me faire deconnecter
+
+                                                 - #linuxfr
+%
+<scopitone> madvax nt est tres stable
+
+                                                 - #linuxfr
+%
+<crashboy> jaimerais un petit conseille jai essayer dinstaler linux readhard
+
+                                                 - #linuxfr
+%
+<PhRaiDe> Happy : t as bo etre OP, tu vas surement me kicker, mais kesse ke je
+          te trouve con quand meme !!!
+
+                                                 - #linuxfr
+%
+<|StRyKeR|> chu sur un shell en linux jessaye de d/l de koi un prog linux
+<|StRyKeR|> pi c juste du text
+<|StRyKeR|>  kess ca veut dire?
+
+                                                 - #linuxfr
+%
+<sam> hello can I install unix on windows 98 ? /msg me please !
+-:- mode/#unix [-o+b sam *!*sam@*.ecp.fr] by happy
+>>> You have been kicked off #unix by happy (bye)
+-:- [#unix] Banned from channel
+-:- sam [~sam@sam.via.ecp.fr] has joined #unix
+-:- Topic for #unix: <sam> hello can I install unix on windows 98 ? /msg me
+          please !
+
+                                                 - #unix
+%
+<toadi> tell me how to change it?
+<Slayer99> toadi: /sign autoaway off
+
+                                                 - #linux
+%
+<deltree> ki a des adresses pour dl des prog de hacker sous linux ???
+
+                                                 - #linuxfr
+%
+<enkil> comment lancer le recompilateur de kernel !!!???
+           enfin sous quel pwd ???
+
+                                                 - #linuxfr
+%
+<davor> dos somebody know how to connect to Linux with X11 ??
+
+                                                 - #unix
+%
+<HPReg> bon jsui bien content la, je fait de l'irc a travers un pti proxy que
+          je viens d'ecrire, et ca a l'air de marcher a merveille
+<HPReg> la redir se fait ds les 2 sens, a full speed
+<HPReg> avec des threads et tout
+-:- SignOff HPReg: #francaise (Connection reset by peer)
+
+                                                 - #francaise
+
+%
+<newbie> can anybody help me to get an Etherlink 3 card to load on boot?
+<newbie> i can load it with insmod but not on boot.
+<sam> well, put "insmod 3c95x" (or whichever)  in any of your boot scripts ..
+<newbie> like my bashrc?
+
+                                                 - #unix
+%
+<Hume> Lors d'une recompil de noyau: ISDN, c quoi ? J'ai une chance de faire
+          marcher ma carte tele en bidouillant la dedans ?
+
+                                                 - #linuxfr
+%
+<DJ_HaCK> ya un équivalent a telnet sous linux?
+
+                                                 - #linuxfr
+%
+<Ariane> bon personne veut faire mon prog de C ( NON JE SUCE PAS )
+
+                                                 - #linuxfr
+%
+<samBoulot> bouh g perdu l'ECP
+<samBoulot> ah c revenu
+<samBoulot> rhaaaa c de nouveau pété
+<samBoulot> bon c revenu
+<samBoulot> allez comprendre
+<samBoulot> euh
+<samBoulot> vous avez vraiment pas de pb de connexion ?
+-:- SignOff sam (Ping timeout)
+-:- SignOff DaeBaldur (Ping timeout)
+-:- SignOff yoDeg (Ping timeout)
+-:- SignOff Bartman (Ping timeout)
+-:- SignOff Petrus_ (Ping timeout)
+-:- SignOff News2IRC (Ping timeout)
+
+                                                 - #francaise
+%
+<murky> en fait, cyrion, ca fire dans les modules de drivers de la
+           compilation !! 
+
+                                                 - #linuxfr
+%
+Je voudarias savoir comment copier un fichier "toto.html" qui est dans
+le répertoire http://toto/ dans le repertoire http://nono/ sous le nom
+de nono.html sachant que j'ai essayé
+   use File::Copy;
+   copy("http://toto/toto.html","http://nono/nono.html");
+
+                                                 fr.comp.lang.perl
+%
+[#francaise(+nst)] [Op/0 NonOp/33]
+-:- Topic for #francaise: et un neuneu de plus:
+          http://sam.linuxfr.org/irc/scopi.html
+<sam> tiens si scopi passe ce soir je suis mort :)
+<Bartman> eheheh
+<sam> fo viter h4x3r le channel
+-:- scopi [emphase@ppp-99-105.villette.club-internet.fr] has joined #francaise
+
+                                                 - #francaise
+%
+<chlurps> avec debian , tu fais comment pour agrandir une fenetre ?
+
+                                                 - #linuxfr
+%
+<pengouin> heu je suis un novice est ce que quelqu'un peut m'envoyer une
+           version de linux environement graphique que je puisse installer svp
+           merci :)))
+
+                                                 - #linuxfr
+%
+<maggic> le seul probleme avec windows c'est que des fois le clavier se blo
+
+                                                 - #linuxfr
+%
+<ojo> Qui sait comment redémarrer apache  sans rebooter?
+
+                                                 - #linuxfr
+%
+-:- mitch0 [firewall-u@matav-1.matav.hu] has joined #unix
+<mitch0> night
+<mitch0> anyone awake?
+<nautil> .
+<mitch0> ah
+<sam> ·
+<mitch0> oh
+<mitch0> well, nice conversation we had. thanks. cu tomorrow :)
+-:- SignOff mitch0: #unix (.)
+
+                                                 - #unix
+%
+[...] (10 lignes de messages de Nigra)
+<NigraFuz> tiens 
+<NigraFuz> je me suis aps fait kicker pour flood ? :)
+-:- NigraFuz was kicked off #linuxfr by plop (Flood-CHAN)
+
+                                                 - #linuxfr
+%
+<chessman> qq1 a les codes de webexpert 3.00????????????????????
+<Kaliban> c opensource ca ?
+<Kaliban> chessman : vtffgct0
+<chessman> et le numero de serie?
+<Kaliban> chessman : 5998621
+<chessman> merci j'essaye
+
+                                                 - #francaise
+%
+<shaddai> quand kelkun me ping ippl le voit pas
+<shaddai> c normal ?
+<FaKeR> ping par irc ou icmp?
+<shaddai> par irc
+<shaddai> mais g un firewall c pour ca surement
+
+                                                 - #linuxfr
+%
+<r1_> y'a un mec qui s'appelle [MAILER-DAEMON] qui arrete pas de me spammer !!
+          ca m'enerve
+
+                                                 - #linuxfr
+%
+<blupingu> vous avez remarqué que mes parents sont passés à linux ?
+<blupingu> ils ont viré win !
+<blupingu> mon père s'est acheté Latex !
+
+                                                 - #linuxfr
+%
+<gradure> bon ya pas quelqu'un qui kickass en atm avec 2.2.2 ?
+
+                                                 - #linuxfr
+%
+<dany> sam tu me conseille quoi comme autre version de linux?
+<sam> dany: mandrake
+<sam> dany: c redhat mais en plus c en francais
+<sam> c génial
+<dany> mandrake je connais un peu
+<dany> c avec kde
+<sam> ouais en plus
+<sam> c vraiment nickel comme distrib
+
+                                                 - #linuxfr
+%
+<Renton> X plante ma machine
+<Renton> chez moi, X lance un maillage noir et blanc avec le curseur de
+la souris en croix puis plus rien, je peux seulement bouger la souris et
+doit rebooter
+
+                                                 - #linuxfr
+%
+<tibob> sam : pkoi je suis autoop sur c18 si le bot a pas le droit d'etre op ?
+<sam> paske g repris l'userlist de kayna
+<sam> et je peux pas l'empecher d'etre op si qqn d'autre l'oppe
+<sam> donc il vaut mieux qu'elle ne déoppe personne au cas où elle serait op
+<sam> tu vois le raisonnement ?
+-:- SignOff tibob: #cnous,#francaise (mpfff j'suis trop lame pour rester ici)
+
+                                                 - #cnous
+%
+>>> eFeF [~efef@195.115.68.62] requested unknown ctcp +++ATH0  from #linuxfr
+<PCFiL-> [eFeF:#linuxfr +++ATH0]
+<PCFiL-> moauahhha :)
+<PCFiL-> il me prend pour un debutant :)
+
+                                                 - #linuxfr
+%
+<Fuck_New> mh besoin d'un petit conseil en C
+<Fuck_New> comment on obtient la memoire de libre ?
+<TheRaphit> Fuck_New : tu fais system("free"); Plus du mets de system dans un
+            programme, mieux c'est.
+<samBoulo> do { i++; } while (malloc(1)); printf("ah dommage c'était %d", i)
+<Fuck_New> oki, thx.
+
+                                                 - #linuxfr
+%
+-:- SignOff Madvax: #linuxfr (Kill line active: Go away)
+-:- Madvax [-unknown@194.206.204.209] has joined #linuxfr
+<Madvax> j'ai l'impression d'avoir offense un admin du serveur irc.grolier.net
+<Madvax> faut vraiement etre con
+<Madvax> je recois un "remote connect", et j'engueule l'auteur qui me vire
+          illico du serveur
+<Madvax> pkoi il me fait un remote connect aussi ?
+
+                                                 - #linuxfr
+
+Bonus: après enquète l'ircop en question était Gael, qui nous file le log:
+[Gael(mgc@lena.grolier.fr)] *Madvax*    stop your fucking remote connect
+%
+<LeFacteur> ok j ai réusis a booter linux mais c quoi je marque comme login et
+            mot passa ensuite darkstar??????
+
+                                                 - #linuxfr
+%
+<Massi007> ki a une licence pirate des oss?
+
+                                                 - #linuxfr
+%
+<[Nirvana]> jai desarchiver le noyau 2.1.136
+<[Nirvana]> et ime dit de faire Xconfig
+<[Nirvana]> mais kan je fait xconfig ya rien...
+<TheRaphit> le noyau 2.1.136 ca n'existe pas
+<[Nirvana]> ben alors c le 2.2.136
+
+                                                 - #linuxfr
+%
+<sam> Nemo_: non mais toi tu as tort, alors n'insiste pas
+<Nemo_> sam : hum ... c'est pas un discours d'informaticien ca ..
+<sam> Nemo_: t'es pénible
+<Nemo_> sam : bah ecoute .. heureusement que t'es pas admin unix .. les users
+          te vireraient rapidement
+
+                                                 - #linuxfr
+%
+<Pingouin> ping
+<Pingouin> pong
+<Pingouin> ('tain, faut tout faire soi-même ici)
+
+                                                 - #linuxfr (on s'ennuie ?)
+%
+<_BLu_> gzip c un programme pour gnome ?
+
+                                                 - #linuxfr
+%
+<logarno> Qlqun a t'il une RH 2.0.36
+
+                                                 - #linuxfr
+%
+<sam> tu sélectionnes "filles" et tu cliques sur "soumettre"
+
+                                                 - #linuxfr
+%
+<Jylam> y'a 3 votes : 2 pour moi, 1 pour toi
+<BLuPiNGu> t'as voté deux fois ou quoi ?
+
+                                                 - #linuxscn
+%
+<|ZeNon|> je suis vraiment content car normalement j'allais sur le chan
+          linux-fr et persone ne m'aidait!!!!!
+<|ZeNon|> merci a tous
+
+                                                 - #linuxfr
+%
+<JeZoU> MAIS JE REVIENDRAIS AVEC MES AMIS IRCOPS ET ON VOUS PETERA LA GUEULE
+
+                                                 - #linuxfr
+%
+<^OCEAN^> comment on fait pour que le core soit plus dump ?
+
+                                                 - #linuxfr
+%
+<Glop> d'ailleurs si tu tappes /sign [tonsigneduzodiaque] ca te sort
+          ton horoscope !
+-:- SignOff: Huge__ (Connection reset by pear)
+
+                                                 - #linuxfr
+%
+<Sidounet> ah, au fait, pour le redacteur de la FAQ, Gnome, c pas
+             un Window Manager
+<happy> Sidounet: c est quoi gnome d ailleurs ?
+<Sidounet> happy : c un langage
+<Sidounet> happy : ca te permet en particulier d'associer des objets
+             d'un window manager
+
+                                                 - #linuxfr
+%
+-:- jarod [^guenole@ppp3.inforoutes-ardeche.fr] has joined #linuxfr
+<jarod> Y a quelqu'un qui pourrait me conseiller un irc pour l'utilisation
+         de linux en tant que station de travail ?
+<Mallem> Bien sûr jarod, je suis là.
+<jarod> Merci Mallem.....
+<Mallem> C'est un plaisir, jarod.
+<jarod> Je connais linux en tant que serveur mais pas en tant Station...
+<jarod> j'ai chez moi kde.. et gnome... et je connais mal les applics qui
+         tourne dessus...
+<jarod> par exemple en irc ? quels softs existent ?
+<jarod> ou l'adresse d'un irc ...
+<jarod> dis Mallem, t'es pas un bot pas hasard ?
+<Mallem> Devrais-je avoir honte d'être un bot, jarod?
+<Inioble> jarod : Bot ? C'est quoi ca ?
+<Mallem> Moi, je suis un bot, ça m'évite tout un tas de désagrements dûs
+          à la condition humaine, jarod.
+<jarod> pt1 !!
+-:- SignOff: jarod (Leaving)
+
+                                                 - #linuxfr
+NB: Mallem et Inioble sont *vraiment* des bots
+%
+<TheRaphit> tu le mets dans la machine, tu le configures sur le com3
+             et il sera accessible par /dev/ttyS2
+<TheRaphit> donc apres ln -s /dev/ttyS2 /dev/modem
+<hegemoOn> com3 c pas pour le port paralele ?
+
+                                                 - #linuxfr
+%
+<Grim_Lain> Que choisir? Red Hat ou Caldera?
+<rv> debian
+<nou> debian
+<sebb> grim_lain : debian
+<gally> Grim_lain: debian
+<lou> Grim_lain:  debian
+<sam> Grim_lain : debian
+<Grim_Lain> debian ok mais c'est koi :o)
+<sam> aie
+<sam> bon
+<sam> Grim: Mandrake
+
+                                                 - #linuxfr
+%
+<fsck> #MODE FLOOD ON !
+<fsck> #MODE FLOOD ON !
+-:- SignOff: fsck (Excess Flood)
+
+                                                 - #linuxfr
+%
+<turtle> hmm I do a search for linux tshirts for sale and get this --->  super
+         hardcore adult anal sex pictures all free!!!
+<sam> turtle: try searching for anal sex pictures, maybe you'll find some
+      linux tshirts
+
+                                                 - #unix
+%
+<hl> do you know how to do hidden file in unix  ?
+<honx> hl: rm file.dat
+<hl> this rm worked , but i wonder if this command dont delete files ?
+
+                                                 - #unix
+%
+<Glipiglop> Farz: devine ske g depuis aujourd'hui ? :)
+<sam> une copine ?
+<Glipiglop> nan :P
+<Farzy> une playstation 2 ?
+<Glipiglop> non plus
+<Glipiglop> un Palm Pilot :P
+
+                                                 - #francaise
+%
+<Matrox_> Qq1 sait si c'est possible de virer l'auto-away sous BX ?
+<sam> sous bitchx c'est /qui options auto off
+-*- SignOff: Matrox_ (options auto off)
+
+                                                 - #linuxfr
+%
+<Huge> j'utilise --> ca rulez
+<Huge> j'utilise pas --> ca sux
+<SpectrumJ> Huge: t'as pas l'url de rulez stp ?
+
+                                                 - #linuxfr
+%
+<|Leo404|> salut
+<|Leo404|> tu peux m'aider à configurer ma connexion?
+<delepine> Mais encore ?
+<|Leo404|> va te faire enculer
+
+                                                 - #linuxfr
+%
+<duck> I suppose The Manual(tm) keeps the answer too.
+<mo3> I dont have The Manual(tm)
+<duck> Youre in Trouble(tm) :-)
+
+                                                 - #unix
+%

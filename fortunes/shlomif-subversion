@@ -24,7 +24,7 @@ Matt Mackall on OFTC.net #offtopic.
 P.S: Matt Mackall has eventually projected Mercurial, which is a version
 control system, and an alternative to BitKeeper.
 
-    -- Matt Mackal
+    -- Matt Mackall
 %
 Sometimes I think Microsoft has more internal code than code it sells to the
 outside.
@@ -69,7 +69,7 @@ Shlomi Fish
    <jackr>  hehe
          *  rindolf hopes he's not starting a flamewar
    <clkao>  btw, freebsd svn port maintainer was complaining about unable
-            to do --with-swig specifying only perl or pythong bindings to
+            to do --with-swig specifying only perl or python bindings to
             build..
          *  cmpilato notes that the topic of this channel is Subversion.
    <clkao>  (so he refused to include the option for building either
@@ -101,7 +101,7 @@ Shlomi Fish
              network layers.
   <sussman>  that's fantastic.
  <josander>  how is this compared to http, svn-ssh and cvs: svn co
-             floppy:// ? Have anyome measured this?
+             floppy:// ? Has anyone measured this?
   <ghudson>  floppy://?
   <sussman>  hehehe
  <josander>  yes, the floppy network. -:)
@@ -119,7 +119,7 @@ Shlomi Fish
 %
   <kfogel>  ghudson: there was a three hour difference, so people would
             have noticed the warnings
-  <kfogel>  but yes, that's the only dfiference
+  <kfogel>  but yes, that's the only difference
   <kfogel>  i.e., you could theoretically test with the current test
             tarball
  <ghudson>  Yeah, not important for my purposes, is what I meant.
@@ -148,7 +148,7 @@ Shlomi Fish
 %
   <rooneg>  weird, mine and jack's come out way too fast with this
             player... but the others all work fine.
-  <rooneg>  and after hearing them all, i have two thinigs to say: first,
+  <rooneg>  and after hearing them all, i have two things to say: first,
             it must be really amusing hearing that stuff randomly
             throughout the day in the office, and two, cmike spent far too
             long on his ;-)
@@ -201,12 +201,12 @@ Shlomi Fish
          *  rindolf wonders why so many people are whispering
  <sussman>  shhhhh!
          *  rindolf shouts "Stop the whispering insanity!"
-         *  theoddbot whispers "Whats up with that rindolf guy ?"
+         *  theoddbot whispers "What’s up with that rindolf guy ?"
          *  sussman says, "when did we all get trapped in a MUD"?
 
     -- #svn, Freenode
 %
-   <jackr>  clkao: I have a 1.25Tb CVS repo that I'm afraid they'll ask me
+   <jackr>  clkao: I have a 1.25TB CVS repo that I'm afraid they'll ask me
             to convert
  <sussman>  fear!
    <jackr>  ... and loathing!
@@ -215,7 +215,7 @@ Shlomi Fish
  <sussman>  indeed.
    <jackr>  It would probably go into several SVN repos (there are no
             boundaries inside CVS, so it's not necessarily 1::1). But
-            individual pieces are often much bigger than 10.5g
+            individual pieces are often much bigger than 10.5GB
  <sussman>  fear, indeed.
          *  sussman covers his eyes, ears, and mouth.
  <sussman>  "there's no problem here"
@@ -224,7 +224,7 @@ Shlomi Fish
 %
   <rindolf>  Hmmmppf... sussman is not here?
   <rindolf>  What is #svn without sussman?
-  <rindolf>  It's like a cat without a mustache!
+  <rindolf>  It's like a cat without a moustache!
  <dionisos>  :-)
      <fitz>  heh
  <dionisos>  maybe we need a stand-in-sussman..!
@@ -435,7 +435,7 @@ Shlomi Fish
     <rindolf>  a scape-goat!
     <rindolf>  sussman: you'll be the ideal scape-goat for the murder of
                ayita.
-    <sussman>  I think you'de be good at the 'werewolf' game
+    <sussman>  I think you'd be good at the 'werewolf' game
     <rindolf>  "You know it would be the easiest thing to blame it on
                Nanny."
     <rindolf>  "Let's do it then."
@@ -445,7 +445,7 @@ Shlomi Fish
    <rindolf>  sussman: don't say the BK-word...
      <clkao>  dude, no one mentioned bk until you did
    <rindolf>  clkao: <sussman> just like most of the decentralized SCMs,
-              like arch, bitkeeper, etc.
+              like arch, BitKeeper, etc.
    <rindolf>  "We are the knights who say "BitKeeper"."
  <danderson>  "We are NO LONGER the knights who say "BitKeeper". We are
               the knights who say "git git git cogito Linus!".
@@ -458,7 +458,7 @@ Shlomi Fish
    <rindolf>  "I don't know!"
            *  rindolf falls into the chasm
  <danderson>  "How come you know so much about delta algorithms? - Well,
-              you have to know these things when you're a commiter."
+              you have to know these things when you're a committer."
 
     -- #svn, Freenode
 %
@@ -502,7 +502,7 @@ that a few changes will turn one to the other.
 %
 <<<
 
-Regarding keyword substituion: It turns out that Linus thinks it's a
+Regarding keyword substitution: It turns out that Linus thinks it's a
 horrible idea: http://kerneltrap.org/mailarchive/git/2006/10/9/223932
 
 >>>
@@ -523,7 +523,7 @@ What a lame excuse.
     -- Oron Peled
     -- Post to the Haifa Linux Club mailing list ( http://hamakor.org.il/pipermail/haifux/2008-February/000164.html )
 %
-bzr is slower than Subversion in combination with Sourceforge.
+bzr is slower than Subversion in combination with SourceForge.
 
 [Dazjorz](http://dazjorz.com/) (17-September-2009)
 

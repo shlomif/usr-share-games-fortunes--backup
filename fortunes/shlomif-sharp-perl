@@ -7323,3 +7323,87 @@ opener and a pound of sesame seeds?”
 
     -- The true meaning of truthfulness.
     -- #perl, Freenode
+%
+    <rindolf>  Hi all. So today I learned that: 1. Math::BigInt is much
+               slower than native 64-bits even with the 'GMP' backend
+               (which I already knew, but I had it in legacy code). and -
+               2. `length $n - 1` evals to `length ($n - 1)` which was
+               surprising.
+ <simcop2387>  deparse: length $n - 1
+    <perlbot>  simcop2387: length( ( $n - 1 ) );
+    <rindolf>  simcop2387: :)
+ <simcop2387>  eval: prototype(\&CORE::length)
+    <perlbot>  simcop2387: _
+ <simcop2387>  huh, i'm not sure i'd have expected that either
+       <anno>  -1 + length $n; # if you hate parens
+   <integral>  "named unary operators" are below + - . but above ==, &,
+               etc
+ <gordonfish>  "2. `length $n - 1` evals to `length ($n - 1)` which was
+               surprising." ; Are you sure? I would think it's prototype
+               would lock it to taking just one arg
+   <integral>  deparse: length $n - 1 > 5
+    <perlbot>  integral: ( length( ( $n - 1 ) ) > 5 );
+       <ttkp>  mmm parents
+ <simcop2387>  gordonfish: the deparse above shows it
+       <ttkp>  er "parens"
+ <gordonfish>  wth
+ <simcop2387>  rindolf: it seems that with #2 you're in good company
+   <integral>  gordonfish: it should be a "named unary operator" in the
+               perlop precedence table
+    <rindolf>  simcop2387: i guess
+   <integral>  deparse: sin 5 > 0.5
+    <perlbot>  integral: Can't locate object method "object_2svref" via
+               package "B::SPECIAL" at
+               /home/ryan/perl5/perlbrew/perls/perlbot-blead-2018-06-10_16794/lib/5.28.0/B/Deparse.pm
+               line 5418.
+   <integral>  deparse: sin $n - 1 > 0.5
+    <perlbot>  integral: ( sin( ( $n - 1 ) ) > "0.5" );
+       <xenu>  gordonfish: that's not how prototypes work
+ <simcop2387>  integral++ # wtf did that break for
+       <xenu>  gordonfish: they affect commas
+   <integral>  simcop2387: optimiser compiles to a constant (guess)
+ <simcop2387>  integral: ah could be
+ <simcop2387>  also, that build is from 6-10? that's not good
+       <xenu>  deparse: sub penis($) { }; penis 1, 2;
+    <perlbot>  xenu: sub penis { ( $) } ( penis(1), 2 );
+       <xenu>  deparse: sub penis($) { }; penis 1 + 2;
+    <perlbot>  xenu: sub penis { ( $) } penis(3);
+       <xenu>  deparse: sub penis { }; penis 1, 2;
+    <perlbot>  xenu: sub penis { } penis( 1, 2 );
+       <xenu>  wait, why did old prototype syntax work? isn't perlbot
+               enabling signatures?
+ <simcop2387>  xenu: not in deparse
+ <gordonfish>  sweval: no feature 'signatures'; sub len1(_) { length shift
+               } sub len2($) { length shift } [ [len1 'foo' - 1], [len2
+               'foo' - 1], [length 'foo' - 1] ];
+    <perlbot>  gordonfish: Argument "foo" isn't numeric in subtraction (-)
+               at (IRC) line 1. Argument "foo" isn't numeric in
+               subtraction (-) at (IRC) line 1. Argument "foo" isn't
+               numeric in subtraction (-) at (IRC) line 1. [[2],[2],[2]]
+       <xenu>  >wait
+       <xenu>  er
+       <xenu>  wait
+       <xenu>  >sub penis { ( $) }
+       <xenu>  wut
+ <simcop2387>  xenu: likely something horribly broken with how i end up
+               mangling the B::Deparse output to make it work the way it
+               does. with the new eval server i don't need to do that
+               since i can safely exec things differently but i haven't
+               changed it yet
+    <rindolf>  simcop2387: length($n - 1) is usually not what i want
+    <rindolf>  and length($n)-1 is useful for substr
+    <rindolf>  like in for loops
+ <simcop2387>  that's one reason that i try not to be in the habit of not
+               using parens for most perl functions. it's easy enough to
+               get bit by issues with commas even without thinking about
+               cases like that
+       <xenu>  yeah, but special casing just one operator would be a bad
+               design decision
+ <simcop2387>  xenu: agreed. just because it's surprising doesn't mean
+               it's wrong
+    <rindolf>  simcop2387: yeah
+   <integral>  perl's probably unique in having two different precendence
+               levels for function calls and the lexer can't tell them
+               apart without extra info
+
+    -- #perl, Freenode

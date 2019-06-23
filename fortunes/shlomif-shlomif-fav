@@ -269,7 +269,7 @@ Kernel ownership claims.
     -- Linus Torvalds
     -- Post to the Linux Kernel Mailing List ( http://www.ussg.iu.edu/hypermail/linux/kernel/0312.2/1241.html )
 %
-Baby making is owned by SCO. Linus's mother never payed royalities.
+Baby making is owned by SCO. Linus's mother never paid royalties.
 
 Also, having a name is a SCO trade secret. By giving Linus a name, they again
 ask for being fined.
@@ -312,9 +312,9 @@ Eric S. Raymond in "How To Become a Hacker"
     <rindolf>  strestout1: SVG is a vector graphics format.
     <rindolf>  strestout1: GIMP manipulates bitmaps.
  <strestout1>  Yes rindolf, I know.
- <strestout1>  I just thought itd be nice to have one app for everything
-               instead of having to use inkscape for svg and gimp for
-               everything else.
+ <strestout1>  I just thought it would be nice to have one app for
+               everything instead of having to use inkscape for svg and
+               gimp for everything else.
     <UnNamed>  It could do 3d too.
    <schumaml>  And Audio processing…
     <UnNamed>  And Audio mixing…
@@ -512,11 +512,11 @@ Excerpt from "Come Together" by the Beatles.
     -- The Beatles
     -- Come Together ( http://en.wikipedia.org/wiki/Come_Together )
 %
-Isolde: Any museum has a certain Americana factor. But the Smithosnian… This
+Isolde: Any museum has a certain Americana factor. But the Smithsonian… This
 is the one place you can find the very essence of America, distilled.
 
 Millie: Ooh.. do they let you drink it, and then take on mutant American
-superpowers, and then go around unilaterlly dispensing frontier-style justice
+superpowers, and then go around unilaterally dispensing frontier-style justice
 in the name of "Freedom"?
 
 Isolde: No, not usually.
@@ -567,7 +567,7 @@ comment](http://it.slashdot.org/comments.pl?sid=185216&cid=15286781)
  <deadchip>  "Affirmative."
  <deadchip>  "Computer: Please dress character 'sxpert' in a clown's
              costume."
- <deadchip>  "Specify paramters."
+ <deadchip>  "Specify parameters."
  <deadchip>  "Mid-20th-century Earth, Balkan area."
  <deadchip>  "Processing. Character alteration complete."
  <deadchip>  sxpert: bah
@@ -668,8 +668,8 @@ Stevie-O on the Acme::NewMath POD document.
 
 Absolutely not. Perl supports defunct operating systems, buggy operating
 systems, commercial operating systems, and poorly marketed operating systems.
-It would be inappropropriate to drop SCO just because it happens to be all of
-the above.
+It would be inappropriate to drop SCO just because it happens to be all of the
+above.
 
     -- Kurt Starsinic
     -- advocacy@perl.org Email ( http://www.mail-archive.com/advocacy%40perl.org/msg01815.html )
@@ -863,8 +863,8 @@ Linus Torvalds announcing the 2.6.19 Linux kernel.
     -- Linus Torvalds
     -- Email Message ( http://lwn.net/Articles/211904/ )
 %
- <castoff>  merlyn: is it true that array itteration is better performance
-            wise than hash itteration?
+ <castoff>  merlyn: is it true that array iteration is better performance
+            wise than hash iteration?
          *  avar would guess that array iter is faster than hash iter
   <merlyn>  what is "hash iter"?
   <merlyn>  with "each()"?
@@ -1129,7 +1129,7 @@ Oh no, here we go again..
 "Doesn't matter - personally I think the Linux kernel isn't all that - I use
 BSD"
 
-"Screw Linus -- he was wrong about Bitkeeper and Tivo so he's wrong about MS &
+"Screw Linus -- he was wrong about BitKeeper and Tivo so he's wrong about MS &
 Novell"
 
 "Yeah, well at least he's not a convicted monopolist"
@@ -1176,7 +1176,7 @@ comment](http://linux.slashdot.org/comments.pl?sid=267393&cid=20200075)
              pre-approved for about $13 billion worth of home loans
    <talexb>  Oops, sorry jagerman .. I'm already faxing this lady my Power
              of Attorney!!!
-   <talexb>  fwiiles, Oh, that'll buy you a nice semi in Toronto.
+   <talexb>  fwiles, Oh, that'll buy you a nice semi in Toronto.
  <jagerman>  talexb: Oh, I'm way ahead of you then. I'm flying there to
              meet with "government officials."
  <jagerman>  I'm paying for it myself, of course, since I'll be rich once
@@ -1285,7 +1285,7 @@ liedra in [a blog post](http://liedra.livejournal.com/21176.html).
           *  LeoNerd grins "I have a whole stack of them waiting here.."
   <defc0n->  C jokes are worse, a la if (malloc(sizeof(yourmom_t)) ==
              NULL) printf("error: mom too fat\n");
- <idiotben>  joke? hell thats good logic! =P Your
+ <idiotben>  joke? hell that’s good logic! =P Your
  <idiotben>  Your momma so fat, the bitch needs PAE to fit in memory w/o
              using up swap
  <idiotben>  yo momma so fat, your dad has to run RHEL4's "hugemem" kernel
@@ -1398,7 +1398,7 @@ Excerpt from Spaceballs
     -- %s on %s
     -- #perl, Freenode
 %
-Slasdhot Response to "BBC Creates 'Perl on Rails'":
+Slashdot Response to "BBC Creates 'Perl on Rails'":
 
 This is proof that there is a conspiracy to make up absurd programming
 shenanigans to sell overpriced door stoppers! Coming soon…
@@ -1453,8 +1453,8 @@ http://www.perl.com/pub/a/2007/12/06/soto-11.html?page=3
     <sili>  I can cook some stuff.
  <phroggy>  jdv79: yeah, that nixes the deal. I have that problem too.
    <jdv79>  its a start
-    <ew73>  "Here's my recipie for mushroom stir-fry. And HERE's the
-            source for my nutritional database system."
+    <ew73>  "Here's my recipe for mushroom stir-fry. And HERE's the source
+            for my nutritional database system."
  <phroggy>  haha
      <jim>  ew73: so when you load the data model, do you get the recipe
             free?
@@ -1895,7 +1895,7 @@ they've been selling us for years.
                    modules!)
            <iank>  apeiron: "oh, but you're a dumbass"
            <iank>  "carry on then"
- <simcop2387-lab>  iank! i know i'll call it Ruby on Rails!
+ <simcop2387-lab>  iank! I know I'll call it Ruby on Rails!
        <integral>  well, it'd be different if CPAN and CPANPLUS really
                    were convenient.
             <x86>  POSIX::strptime is not a core module either
@@ -2101,8 +2101,8 @@ Let a thousand flowers bloom!
              MAKE A STARTUP!!!11!!"
   <awwaiid>  it drops my cool-concept impressedness of github like 100
              points
- <jrockway>  that's the rails mentailty
- <jrockway>  "i have an idea, so i'm going to make a company"
+ <jrockway>  that's the rails mentality
+ <jrockway>  "I have an idea, so I'm going to make a company"
  <jrockway>  compared to the perl version, "i have an idea, so I'm going
              to write a module"
   <awwaiid>  is that why we're all poor?
@@ -2148,7 +2148,7 @@ This mono-syllabic review brought to you by the letter 'W' and the number '7'
  <pkrumins>  true
  <pkrumins>  the more tree traversal algorithms a kit knows, the sneakier
              the kit is
-          *  f00li5h visits every node, traveling on the minium weighted
+          *  f00li5h visits every node, travelling on the minimum weighted
              edges
  <pkrumins>  sneaky kit
 
@@ -2314,7 +2314,7 @@ The common good before the private good.
      <mauke>  no, what are you actually trying to do?
         <ik>  sQuEE: what is the point of doing the thing that you are
               doing?
-     <sQuEE>  no, thats just a testing example
+     <sQuEE>  no, that’s just a testing example
      <sQuEE>  im trying to assign $regex what i captured from a previous
               match using qr// , eval { $regex = qr/$2/ };
      <sQuEE>  im not sure what im doing wrong
@@ -2463,7 +2463,7 @@ thoughts expressed there. Or simply leave.
 I did all I could to stop it, but it just wasn't possible. pgTAP 0.20 has
 somehow made its way from my Subversion server and infiltrated the PostgreSQL
 community. Can nothing be done to stop this menace? Its use leads to cleaner,
-more stable, and more-safely refctored code. This insanity must be stopped!
+more stable, and more-safely refactored code. This insanity must be stopped!
 Please review the following list of its added vileness since 0.19 to determine
 how you can stop the terrible, terrible influence on your PostgreSQL
 unit-testing practices that is pgTAP: …
@@ -2709,11 +2709,11 @@ death with a loaded Uzi.
     -- "Re: grep on keys of associative array s-l-o-w. Why?" (comp.lang.perl Usenet post) ( http://groups.google.com/group/comp.lang.perl/msg/3f6752f53590c106?pli=1 )
 %
 I keep hearing and reading this nice proverb *if it ain't broke, don't fix
-it*. The latest apperance was in response to [Shlomi
+it*. The latest appearance was in response to [Shlomi
 Fish](http://community.livejournal.com/shlomif_tech/37969.html) suggesting
 that some Ancient Perl code should be replaced by Modern Perl code.
 
-I am not saying that every pices of code should be rewritten every 6 months,
+I am not saying that every piece of code should be rewritten every 6 months,
 but in my understanding that sentence actually translates to *let's wait till
 it breaks and then panic*.
 
@@ -2758,7 +2758,7 @@ done in less than O(N!).
 -- vanguard on Freenode's ##programming
 
     -- vanguard
-    -- FreeNode's ##programming
+    -- Freenode's ##programming
 %
                 *  Juliet|Awesome should publish her short stories
    <cmptrgeekken>  can #so get a discount, juju?
@@ -2883,11 +2883,11 @@ twitter account so you can tweet karma :-).
 >>>
 
 You might be on to something here! But the 140 char limit would really stifle
-my creativity when it comes to comments. I'd rather create facebook pages for
+my creativity when it comes to comments. I'd rather create Facebook pages for
 every package - that way we could add karma by “liking” a package.
 
 We could even take it a step farther and use this for marketing. Just imagine
-- “Play farmville with glibc next wednesday and learn about the great new
+- “Play farmville with glibc next Wednesday and learn about the great new
 features!”, “gdb has shared a picture with you”, “NetworkManager wants to be
 your friend”. Oh the possibilities …
 
@@ -3347,7 +3347,7 @@ I lead [ ? ] it, it become too greasy.
 
 I can't do a thing with it.
 
-Vince Noir: Listen, there are hair products - straightners, finishing gel.
+Vince Noir: Listen, there are hair products - straighteners, finishing gel.
 
 Ape of Death: Finishing gel? What is finishing gel?
 
@@ -3373,7 +3373,7 @@ Hit it!
     -- The Mighty Boosh
     -- The Mighty Boosh - “The Ape of Death” Scene ( https://www.youtube.com/watch?v=O8cDbj8mLKg )
 %
- <Shammah>  anytime I see people talk about "Big O" as if it's some magic
+ <Shammah>  any time I see people talk about "Big O" as if it's some magic
             voodoo I cringe hard
  <Shammah>  > I have worked +7 years as a programmer and still don't know
             what Big O is
@@ -3385,14 +3385,14 @@ Hit it!
             algorithms concepts) is a key concept to making programs go
             fast.
  <Shammah>  shit like that
- <Shammah>  rustle smy jimmies so hard
+ <Shammah>  rustles my jimmies so hard
  <Shammah>  my poor jimmies
    <k-hos>  non stop jimmies vibration
   <_bryan>  the cloud is more annoying
   <_bryan>  aka the internet renamed
  <Shammah>  A series of tubes 3.0
   <_bryan>  my old company launched a cloud marketing campaign on the
-            clous
+            cloud
   <_bryan>  not a single customer of mine knew or cared
  <Shammah>  In particular, "Big O" (and its related data structures and
             algorithms concepts) is a key concept to making programs go
@@ -3552,7 +3552,7 @@ yourself.
     -- Various Writers
     -- Not Another Teen Movie ( http://en.wikipedia.org/wiki/Not_another_teen_movie )
 %
-Reportedly, SANE (= “Scannar Access Now Easy”) was called that way in part so
+Reportedly, SANE (= “Scanner Access Now Easy”) was called that way in part so
 one can say “TWAIN is not SANE!”.
 
     -- Via an Israeli FOSS Enthusiast.
@@ -3619,11 +3619,11 @@ If there are two different ways of doing something, PSD will do both, in
 different places. It will then make up three more ways no sane human would
 think of, and do those too. PSD makes inconsistency an art form. Why, for
 instance, did it suddenly decide that *these* particular chunks should be
-aligned to four bytes, and that this alignement should *not* be included in
-the size? Other chunks in other places are either unaligned, or aligned with
-the alignment included in the size. Here, though, it is not included. Either
-one of these three behaviours would be fine. A sane format would pick one.
-PSD, of course, uses all three, and more.
+aligned to four bytes, and that this alignment should *not* be included in the
+size? Other chunks in other places are either unaligned, or aligned with the
+alignment included in the size. Here, though, it is not included. Either one
+of these three behaviours would be fine. A sane format would pick one. PSD, of
+course, uses all three, and more.
 
 Trying to get data out of a PSD file is like trying to find something in the
 attic of your eccentric old uncle who died in a freak freshwater shark attack
@@ -3727,3 +3727,9 @@ I achieved my fast times by multitudes of 1% reductions.
 
     -- Bill Raymond
     -- Post to the Freecell Solver mailing list ( https://groups.yahoo.com/neo/groups/fc-solve-discuss/conversations/messages/222 )
+%
+I shall explain: *Monologue*: one person talking to himself ; *Dialogue*: like
+Monologue - two people talking to themselves.
+
+    -- Shaike Ophir
+    -- The English Teacher ( https://www.youtube.com/watch?v=2bpVrKm9QCc )

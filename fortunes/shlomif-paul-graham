@@ -2,9 +2,6 @@ The people I’ve met who do great work… generally feel that they’re stupid 
 lazy, that their brain only works properly one day out of ten, and that it’s
 only a matter of time until they’re found out.
 
-Paul Graham
-[“Great Hackers” (later edited out)](http://xrl.us/ho9c)
-
     -- Paul Graham
     -- “Great Hackers” (old Version) ( http://web.archive.org/web/20040728182546/http://www.paulgraham.com/gh.html )
 %
@@ -239,7 +236,7 @@ popularity of a programming language. To become popular, a programming
 language has to be the scripting language of a popular system. Fortran and
 Cobol were the scripting languages of early IBM mainframes. C was the
 scripting language of Unix, and so, later, was Perl. Tcl is the scripting
-language of Tk. Java and Javascript are intended to be the scripting languages
+language of Tk. Java and JavaScript are intended to be the scripting languages
 of web browsers.
 
 Lisp is not a massively popular language because it is not the scripting
@@ -440,7 +437,7 @@ about. Better stick to the standard cartoon version that the Civil War was
 about slavery; people would be confused otherwise; plus you can show a lot of
 strength and diversity. When finally completed twelve years later, the book
 would be a 900-page pastiche of existing popular novels—roughly Gone with the
-Wind plus Roots. But its bulk and celebrity would make it a bestseller for a
+Wind plus Roots. But its bulk and celebrity would make it a best-seller for a
 few months, until blown out of the water by a talk-show host’s autobiography.
 The book would be made into a movie and thereupon forgotten, except by the
 more waspish sort of reviewers, among whom it would be a byword for bogusness
@@ -527,3 +524,55 @@ probably simply because they don't spend so much on their military.
 
     -- Paul Graham
     -- “Re: What You Can’t Say ( http://www.paulgraham.com/resay.html )
+%
+I think the most important of the new principles business has to learn is that
+people work a lot harder on stuff they like. Well, that's news to no one. So
+how can I claim business has to learn it? When I say business doesn't know
+this, I mean the structure of business doesn't reflect it.
+
+Business still reflects an older model, exemplified by the French word for
+working: /travailler/. It has an English cousin, travail, and what it means is
+torture.
+
+This turns out not to be the last word on work, however. As societies get
+richer, they learn something about work that's a lot like what they learn
+about diet. We know now that the healthiest diet is the one our peasant
+ancestors were forced to eat because they were poor. Like rich food, idleness
+only seems desirable when you don't get enough of it. I think we were designed
+to work, just as we were designed to eat a certain amount of fiber, and we
+feel bad if we don't.
+
+There's a name for people who work for the love of it: amateurs. The word now
+has such bad connotations that we forget its etymology, though it's staring us
+in the face. "Amateur" was originally rather a complimentary word. But the
+thing to be in the twentieth century was professional, which amateurs, by
+definition, are not.
+
+That's why the business world was so surprised by one lesson from open source:
+that people working for love often surpass those working for money. Users
+don't switch from Explorer to Firefox because they want to hack the source.
+They switch because it's a better browser.
+
+It's not that Microsoft isn't trying. They know controlling the browser is one
+of the keys to retaining their monopoly. The problem is the same they face in
+operating systems: they can't pay people enough to build something better than
+a group of inspired hackers will build for free.
+
+I suspect professionalism was always overrated-- not just in the literal sense
+of working for money, but also connotations like formality and detachment.
+Inconceivable as it would have seemed in, say, 1970, I think professionalism
+was largely a fashion, driven by conditions that happened to exist in the
+twentieth century.
+
+    -- Paul Graham
+    -- “What Business Can Learn from Open Source” ( http://www.paulgraham.com/opensource.html )
+%
+By conventional standards, Jobs and Wozniak were marginal people too.
+Obviously they were smart, but they can't have looked good on paper. They were
+at the time a pair of college dropouts with about three years of school
+between them, and hippies to boot. Their previous business experience
+consisted of making "blue boxes" to hack into the phone system, a business
+with the rare distinction of being both illegal and unprofitable.
+
+    -- Paul Graham
+    -- “The Power of the Marginal” ( http://www.paulgraham.com/marginal.html )
