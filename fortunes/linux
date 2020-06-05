@@ -706,7 +706,7 @@ admiration (apple polishing mode off).
 %
 > What does ELF stand for (in respect to Linux?)
 ELF is the first rock group that Ronnie James Dio performed with back in
-the early 1970's.  In constrast, a.out is a misspelling	 of the French word
+the early 1970's.  In contrast, a.out is a misspelling of the French word
 for the month of August.  What the two have in common is beyond me, but
 Linux users seem to use the two words together.
 	-- seen on c.o.l.misc
@@ -848,7 +848,7 @@ The easiest way to get the root password is to become system admin.
 The good thing about standards is that there are so many to choose from.
 	-- Andrew S. Tanenbaum
 %
-The primary difference [...] is that the Java programm will reliably and
+The primary difference [...] is that the Java program will reliably and
 obviously crash, whereas the C Program will do something obscure
 	-- Java Language Tutorial
 %
@@ -863,14 +863,14 @@ here an Oops, there an Oops, everywhere an Oops-Oops.
 Also another major deciding factor is availability of source code.
 It just gives everybody a warm fuzzy feeling knowing that there is
 source code available to the product you are using.  It allows everybody
-to improve on the product and fix bugs etc. sooner that the author(s)
+to improve on the product and fix bugs etc. sooner than the author(s)
 would get the time/chance to.
 	-- Atif Khan
 %
 > Also another major deciding factor is availability of source code.
 > It just gives everybody a warm fuzzy feeling knowing that there is
 > source code available to the product you are using.  It allows everybody
-> to improve on the product and fix bugs etc. sooner that the author(s)
+> to improve on the product and fix bugs etc. sooner than the author(s)
 > would get the time/chance to.
 
 I think this is one the really BIG reasons for the snowball/onslaught
@@ -983,7 +983,7 @@ P:      Linus Torvalds
 S:      Buried alive in email
 	-- from /usr/src/linux/MAINTAINERS
 %
-         Why use Windows when you can have air conditioning?
+         Why use Windows, when you can have air conditioning?
          Why use Windows, when you can leave through the door?
 	-- Konrad Blum
 %
@@ -1191,9 +1191,6 @@ mark
 %
 Sorry.  I just realized this sentance makes no sense :)
 	-- Ian Main
-%
-Netscape is not a newsreader, and probably never shall be.
-	-- Tom Christiansen
 %
 Stopping Apache webserver...sleeping...starting again...
 apache: dl-version.c:189:

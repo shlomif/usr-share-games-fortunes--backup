@@ -1619,7 +1619,7 @@ Lisp", and "Intended Audience :: Emacs Users", "Operating System :: GNU", and
 a public web-service to keep them up-to-date.)
 
     -- Shlomi Fish
-    -- Functional Spec for the CPAN Classification Proposal ( https://bitbucket.org/shlomif/cpan-module-classification/src/534271da741d/docs/functional-spec-for-CPAN-Classification-Proposal.txt )
+    -- Functional Spec for the CPAN Classification Proposal ( https://github.com/shlomif/CPAN-Module-Classification/blob/master/docs/functional-spec-for-CPAN-Classification-Proposal.txt )
 %
 After several weeks of having the editor on CPAN, Richard has received many
 patches, and wrote a lot of code on his own. Now Emacs is not only an editor
@@ -1637,7 +1637,7 @@ He then tests the distribution again, and uploads the new distribution to the
 CPAN.
 
     -- Shlomi Fish
-    -- Functional Spec for the CPAN Classification Proposal ( https://bitbucket.org/shlomif/cpan-module-classification/src/534271da741d/docs/functional-spec-for-CPAN-Classification-Proposal.txt )
+    -- Functional Spec for the CPAN Classification Proposal ( https://github.com/shlomif/CPAN-Module-Classification/blob/master/docs/functional-spec-for-CPAN-Classification-Proposal.txt )
 %
 Bill Gates, CEO of Microsoft decides to use Richard Stallman’s Emacs as the
 basis of his company’s state-of-the-art product Microsoft Editing Macros™
@@ -1653,7 +1653,7 @@ Eventually, enough people like Bill tag and categorise Emacs, and it gains
 more classification.
 
     -- Shlomi Fish
-    -- Functional Spec for the CPAN Classification Proposal ( https://bitbucket.org/shlomif/cpan-module-classification/src/534271da741d/docs/functional-spec-for-CPAN-Classification-Proposal.txt )
+    -- Functional Spec for the CPAN Classification Proposal ( https://github.com/shlomif/CPAN-Module-Classification/blob/master/docs/functional-spec-for-CPAN-Classification-Proposal.txt )
 %
    <rindolf>  "Who's the idiot that wrote this code?"
    <rindolf>  That's what many people say when looking at their old code.
@@ -1666,7 +1666,7 @@ more classification.
    <rindolf>  jkauffman: they seem a bit cheesy now.
  <jkauffman>  yes, you're onto such better things now that you can fully
               appreciate The Gilmore Girls
-   <rindolf>  jkauffman: you can never really appreciate The Gilmore Girls
+   <rindolf>  jkauffman: you can never truly appreciate The Gilmore Girls
               until you've watched it in the original Klingon.
 
     -- Looking Back at Your Old Habits
@@ -2528,7 +2528,7 @@ Chandler: Well, cartoon characters usually have a difficulty seeing through
 disguises.
 
     -- Shlomi Fish
-    -- The One with the Fountainhead (Part 1) ( http://www.shlomifish.org/humour/TOWTF/ )
+    -- The One with the Fountainhead (Part 1) ( http://www.shlomifish.org/humour/TOneW-the-Fountainhead/ )
 %
 Ross: You’ve already read it (= the Fountainhead)?
 
@@ -2548,7 +2548,7 @@ Chandler: Must have been one of the most stimulating nights of your life.
 Joey: Not quite as much as the next night.
 
     -- Shlomi Fish
-    -- The One with the Fountainhead (Part 1) ( http://www.shlomifish.org/humour/TOWTF/ )
+    -- The One with the Fountainhead (Part 1) ( http://www.shlomifish.org/humour/TOneW-the-Fountainhead/ )
 %
 Joey: Hey, know what we can do, so I can get prepared for the audition? Let’s
 role-play our own version of "The Fountainhead".
@@ -2579,7 +2579,7 @@ Joey: Yeah, but it was still good enough in the 60’s right? OK: our own
 version of "The Fountainhead" - here’s what I think it should look like
 
     -- Shlomi Fish
-    -- The One with the Fountainhead (Part 1) ( http://www.shlomifish.org/humour/TOWTF/ )
+    -- The One with the Fountainhead (Part 1) ( http://www.shlomifish.org/humour/TOneW-the-Fountainhead/ )
 %
 Voice: Earth - the initial frontier. Somewhere in the depths of space, on a
 remote planet you know as Earth, came up a relatively uncommon phenomenon:
@@ -5324,7 +5324,7 @@ in the Israeli phone directory.
 
 Selina: Yes, I can imagine that.
 
-Actually, judging by recent happenings, learning Hebrew may be the least my
+Actually, judging by recent happenings, learning Hebrew may be the least of my
 problems.
 
 Mosheh Ben-Amram: Anything you’d like to talk about?
@@ -5739,7 +5739,7 @@ HP-UX is not a UNIX, and AIX is even less than that.
       <rindolf>  archmint: in Israel, even the kiosk vendors and taxi cab
                  drivers know English.
       <rindolf>  archmint: heh, thanks for the gesture.
-      <rindolf>  archmint: you will also be able to read the Jwwish Bible
+      <rindolf>  archmint: you will also be able to read the Jewish Bible
                  and stuff.
       <rindolf>  in Hebrew.
      <archmint>  ראה כמה טוב אני כבר
@@ -6259,3 +6259,419 @@ people do not use them there even when they need to.
 
     -- Meir Kriheli
     -- Quote
+%
+ <rindolf>  fijal: i've ran it 100 times now - same results - as expected
+   <fijal>  rindolf: what's "same result" anyway?
+   <fijal>  I meant specifically 100 times in the same process and ignore
+            the first few (warmup)
+ <rindolf>  fijal: ah
+ <rindolf>  fijal: i ran it from the shell
+   <fijal>  warmup has much higher variability
+   <fijal>  yeah that does nothing - you are measuring essentially the
+            equivalent of "how long does it take to run gcc"
+ <rindolf>  fijal: thing is there are caches
+   <fijal>  which is both very unpredictable
+   <fijal>  then you have to clean the caches
+ <rindolf>  fijal: ok
+ <rindolf>  fijal: well, whatever - i've got better things to do
+ <rindolf>  fijal: like handling
+            https://bitbucket.org/blog/sunsetting-mercurial-support-in-bitbucket
+   <fijal>  heh
+   <fijal>  well, then I don't understand what is your problem to be
+            honest - why did you come to ask questions here in the first
+            place?
+   <fijal>  I'm happy to help and explore how things work and explain why
+            you are getting strangely seeming results, but if you are not
+            willing to play along than you are just wasting my time here
+ <rindolf>  fijal: ok, this was a minor annoyance that seemed noteworthy
+            but not too critical
+         *  mattip will try to remember "I've got better things to do"
+            response for the next time rindolf asks for help
+ <rindolf>  mattip: heh, good burn
+ <rindolf>  "pypy ran 'rm -fr ~' due to a bug" "i've got better things to
+            do than to fix it"
+ <rindolf>  joking aside - i really like pypy - so thanks all
+ <rindolf>  on #perl6 we were joking that the reason it is so fast is due
+            to alicorn magic
+ <rindolf>  fijal: well maybe i'll try
+ <rindolf>  fijal: https://paste.debian.net/1096980/ - a bit better after
+            removing
+ <rindolf>  fijal: is my approach sound?
+   <ronan>  rindolf: the difference between the two is most probably below
+            the noise level
+ <rindolf>  ronan: yes
+   <ronan>  rindolf: check out https://dl.acm.org/citation.cfm?id=3133876
+ <rindolf>  ronan: open access - nice
+ <rindolf>  bye all, killing xfce for benchmarking something else (not
+            pypy) and sorry if i was rude
+
+    -- #gamedev, Freenode
+%
+ <rindolf>  I had the craziest idea
+   <paddy>  sell all computers?
+ <rindolf>  I'm going to announce that if and when I ever accumulate at
+            least 10 million USD / 10 million EUR / or 10 million ILS -
+            whatever fiat coin is worth more at the point in my PayPal
+            account I'll make the entire individual cultural works
+            residing at my site (at present) CC-by except for those that I
+            consider private / personal or those that were not original
+            text and copied from elsewhere. I may not be as rich as J. K.
+            Rowling used to be (before
+ <rindolf>  she donated most of her > 1,000,000,000 USD to charity - good
+            for her) but with good marketing I may be settled for life.
+            And I'll set all my current (not future ones naturally)
+            children free and enjoy the rip offs, parodies, YouTube
+            productions and maybe even ARR Hollywood films with a credit
+            "Based on the Story [ $NAME ] [ URL ] by Shlomi Fish
+            https://www.shlomifish.org/" at the credits for the rest of my
+            life
+ <rindolf>  paddy: my computers are not worth a lot and they contain a
+            small amount of passwords I wish to keep secret
+ <rindolf>  AFAIK it can be bill gates donating the whole 10 million or a
+            million 10 dollar donations
+  <jxself>  Okay so it'll basically never happen then. :)
+ <rindolf>  I'll title the blog post "Prolific writer sells his entire
+            works portfolio for the whole world for a shitload of money"
+ <rindolf>  jxself: never say never
+ <rindolf>  </James Bond>
+  <jxself>  I just did.
+ <rindolf>  jxself: you lost
+  <jxself>  Let me know when you get your ten million.
+  <bheron>  rindolf: Donate 1 million to the GNUstep foundation I'm about
+            to form... help us dominate the world. ;)
+ <rindolf>  bheron: forget it
+  <bheron>  LOL
+ <rindolf>  bheron: waste of money
+  <bheron>  :)
+ <rindolf>  I may donate to the Free Software Foundation
+  <bheron>  Hey man!!! World domination is a good thing. :)
+   <ggoes>  fund the hurd!
+  <bheron>  Once we control the world, all will be good... I promise. :D
+  <bheron>  YIKES! Hurd.
+ <rindolf>  bheron: you wont get it even with a milliard dollars
+ <rindolf>  bheron: and I'm not willing to donate a cent
+  <bheron>  I know. Hey, as long as it works for me and others... I'm
+            happy.
+ <rindolf>  bheron: got to prioritize
+  <bheron>  rindolf: And we were getting along so nicely last time! ;)
+ <rindolf>  btw my text here is CC-by-nc-sa for now
+ <rindolf>  bheron: maybe twit https://twitter.com/Taylorswift13 - I think
+            she is rich and she probably has a smart phone or more and I
+            like many of her songs so she may be interested
+ <rindolf>  don't know how much taxes I'll have to pay
+ <rindolf>  I think Israel is not as bad as Britain was when
+            https://en.wikipedia.org/wiki/Taxman was written
+ <rindolf>  nice song btw
+  <bheron>  rindolf: Probably worse.
+ <rindolf>  I like the Beatles too
+ <rindolf>  bheron: what? no!
+ <rindolf>  bheron: anyway I'll pay all the taxes from however I got just
+            to stay on the safe side
+ <rindolf>  don't want any trouble
+  <bheron>  rindolf: you forgot that Taylor Swift shares her last name
+            with a cockamamie language produced by apple for people who
+            are too fucking stupid to comprehend Objective-C. ;)
+ <rindolf>  health >>> money
+  <bheron>  I mean Objective-C is verbose and self documenting yet many
+            people (who have the nerve to call themselves real
+            programmers) can't handle it. ;)
+  <bheron>  (hehe)
+ <rindolf>  bheron: great - ad hominem
+  <bheron>  No...l
+ <rindolf>  bheron: maybe she'll sue apple for trademark damages
+ <rindolf>  and win
+  <bheron>  I hope so.
+ <rindolf>  bheron: ask her
+  <bheron>  you know... the swift guys wrote me about when GNUstep will
+            support swift...
+  <bheron>  I told them "Once your language syntax and structure stops
+            changing radically every release, we will support it..."
+  <bheron>  it hasn't freaking stopped yet. :)
+  <bheron>  I once used it on a project for AMGEN.
+  <bheron>  I had to literally rewrite the application EVERY TIME THEY
+            RELEASED an update.
+  <bheron>  It's actually not terribly hard to make it happen... there is
+            a bit of code in the swift open source code which would allow
+            it to happen.... it would be, maybe, about 2 weeks of work.
+  <bheron>  rindolf: and you're right, it is an "ad hominem" attack with
+            respect to what I said about certain programmers and Objective
+            C... but the way I see it some people don't know assembly...
+            is it the fault of the language or are they simply too dim to
+            get it?
+  <bheron>  (most likely the latter)
+ <rindolf>  bheron: you need to charge more
+  <bheron>  for?
+ <rindolf>  bheron: if it's swift pay me 100,000 USD / year
+  <bheron>  Oh… well for that job with AMGEN I charged $85 USD/hour.
+ <rindolf>  bheron: peanuts
+  <bheron>  which works out to about, estimating... 144,000?
+ <rindolf>  bheron: aren't you living in .us?
+  <bheron>  Yes
+  <bheron>  That's a decent living.
+  <bheron>  better than decent.
+ <rindolf>  you can charge 300 USD / hour for swift
+  <bheron>  Hah... I have never met a developer who made that much per
+            hour in my life.
+  <bheron>  rindolf: have you ever contracted in the US?
+ <rindolf>  bheron: prices send signals -
+            https://www.shlomifish.org/humour/fortunes/joel-on-software.html#joel-camels-rubber-duckies-11
+ <rindolf>  bheron: I'm sure there are
+ <rindolf>  bheron: Bill Gates won't get out of bed for 300 USD/hour
+ <rindolf>  as an example
+  <bheron>  https://www.google.com/search?q=average+per+hour+income+of+developers&oq=average+per+hour+income+of+developers&aqs=chrome..69i57j33.9671j1j0&sourceid=chrome&ie=UTF-8
+ <rindolf>  bheron: think big
+  <bheron>  Heh.
+  <bheron>  Think myself out of every contract I could get. ;)
+  <bheron>  the only way I'll make that is if I make my own apps... which
+            I am trying to do.
+  <bheron>  But you are correct on one thing... I need to think bigger.
+  <bheron>  Because this contracting crap just isn't doing it.
+ <rindolf>  bheron: in the book the princess bride a sword craftsman whose
+            secret better craftsman was killed by the 6 fingered man
+            charged more and more for his now pretty bad results and the
+            more he charged the greater the demand was
+ <rindolf>  bheron: have you read my link?
+  <bheron>  Yes.
+ <rindolf>  I'm pretty sure Taylor Swift's time is worth more than 300
+            USD/hour
+  <bheron>  It doesn't justify charging 185% over the national average
+            when I'm already on the top end of the bell curve.
+  <bheron>  That's called "Pricing yourself out of a job"
+  <bheron>  I get what you're saying, I simply disagree.
+ <rindolf>  if you offer her 900 USD for a three hour concert she won't
+            bother replying
+  <bheron>  I've known developers who charged 100 per hour.... when the
+            company needed to downsize, those guys were the first to go.
+ <rindolf>  bheron: ah
+ <rindolf>  bheron: why do you need donations anyway?
+  <bheron>  The lesson is... keep your prices reasonable. A little
+            painful, but not too hard to swallow. :)
+     <jmd>  $100 per hour is not a over the average these days.
+  <bheron>  rindolf: Joking. :) I don't. I have enough right now.
+  <bheron>  jmd: read the link I posted... it is slightly above average.
+  <bheron>  The AMGEN job was years ago... I won't say how much I'm
+            pulling in now.
+ <rindolf>  well, unless she'll really identify with your cause
+     <jmd>  My company charges between 250 - 400 (but I don't get to see
+            nearly that much)
+  <bheron>  I wasn't the one who mentioned Taylor Swift. ;)
+     <jmd>  bheron: That's something to do with infinite series expansion
+            isn't it?
+  <bheron>  jmd: What are you referring to?
+  <bheron>  AMGEN?
+ <rindolf>  bheron: once in bay watch the fictional head life guard called
+            Jenny McCarthy the famous MTV video jockey and said "Jenny
+            McCarthy? Hi, it's Mitch Buchannon"
+  <bheron>  AMGEN = Applied Molecular GENetics. They are a medical
+            biotechnology company. They make medicines derived from
+            genetically modified bacteria which produce certain
+            proteins... Things like Enbrel or other biologically based
+            things.
+  <bheron>  https://en.wikipedia.org/wiki/Amgen
+ <rindolf>  so we joked "Bill Clinton? Hi, it's Shlomi Fish you know me,
+            right?"
+  <bheron>  LOL
+ <rindolf>  bheron:
+            https://www.shlomifish.org/humour/bits/facts/Larry-Wall/ - I
+            was told he is only spiritually rich
+ <rindolf>  bheron: but Linus Torvalds is believed to make 20 million USD
+            a year
+  <bheron>  rindolf: I think you need to listen to a lot of the arguments
+            you're making yourself... I would like to know....
+  <bheron>  WHAT IS YOUR POINT?
+  <bheron>  That I should charge some outrageous amount of money?
+  <bheron>  That I'm undervaluing my work in some way... what are you
+            trying to prove?
+  <bheron>  So far you've hit me with several RIDICULOUS things... get to
+            the point. :)
+ <rindolf>  bheron: one day people will say "I don't remember who the
+            prime minister of Israel is. It's not like he has 300 million
+            twitter followers like bheron does..."
+  <bheron>  LOL
+ <rindolf>  bheron: I'm being motivational.
+  <bheron>  No.
+ <rindolf>  but time to write the blog post and try to get it on internet
+            news sites
+ <rindolf>  do or do not there is no try - Yoda
+  <bheron>  You're being *ridiculous*... first off, you've likely never
+            ever lived here in the US... so you have second hand
+            experience about the financial or economic situation at
+            best... and second you're giving these weird off the wall
+            examples based on celebrities or people (like Linus) who were
+            in the right place at the right time.
+  <bheron>  I would have LOVED if my sophomore project in college turned
+            into the UNIX that took over the world. :)
+  <bheron>  Right place...
+  <bheron>  right tie.
+  <bheron>  *time
+  <bheron>  Linus is NOT particularly talented.
+  <bheron>  Just good at being something of an asshole.
+  <bheron>  Linux is a Monolithic, poorly architected implementation of
+            UNIX... to quote Ken Thomson, "Those who do not know UNIX are
+            doomed to reimplement it... poorly"
+ <rindolf>  bheron: https://twitter.com/GeorgeLucasILM - only 22.4 k
+            followers
+ <rindolf>  bheron: she has a bitch image and she used to be the number
+            one twitter account surpassing president Obama -
+            https://twitter.com/katyperry
+  <bheron>  Just like GCC is a crappy compiler... it needs to learn
+            lessons from clang... did you know that gcc explicitly didn't
+            break out things like the parser and other functionality which
+            would have been better put into libraries so that other
+            programs could use them because RMS was that "it would make it
+            too easy for other apps which are proprietary to use
+            functionality without giving back to the compiler" (I'm
+            paraphrasing).
+  <bheron>  .. I know this because that answer was given to me when I was
+            trying to build a parser for C header files for a project a
+            while back. (it was for Gorm to discover objects which could
+            be used as target/action candidates)
+  <bheron>  I don't care. :)
+ <rindolf>  bheron: she was known for replying to replies and retweeting
+            replies she liked and stuff like that -
+            https://twitter.com/katyperry
+ <rindolf>  bheron: I'm following https://twitter.com/jk_rowling/ and she
+            seems to hate president trump
+ <rindolf>  bheron: of course I think many of his tweets are either good
+            or so bad they are good
+  <bheron>  rindolf: She hates him for a good reason...
+  <bheron>  he's a fucking moron.
+  <bheron>  I hate him more than most.
+  <bheron>  Why people in this country put such an idiot in office I will
+            never fathom.
+  <bheron>  People often said... "Well, he's not a politician". To which I
+            responded... "then let your next colonoscopy be performed by a
+            plumber"
+ <rindolf>  bheron:we are getting out of gnu land
+  <bheron>  We are.
+  <bheron>  To get us back...
+  <bheron>  GCC needs a kick in the ass.
+ <rindolf>  bheron: you should run for president when you get 300 million
+            Twitter followers
+  <bheron>  LOL
+  <bheron>  I would never survive.
+  <bheron>  Too many dark things in my past. ;)
+ <rindolf>  bheron: then become the next pope
+ <rindolf>  bheron: see
+            https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#departing_pope_about_twitter
+  <bheron>  rindolf: I'm an atheist.
+  <bheron>  Me becoming pope would be a true miracle. ;)
+  <bheron>  rindolf: well... strictly speaking I'm an "agnostic" in the
+            same way Richard Dawkins is... see his discussion about
+            teapots orbiting Mars. :)
+ <rindolf>  bheron: please read the link at the anchor - I am an agnostic
+            too
+  <bheron>  https://www.youtube.com/watch?v=-MncXMgVIZ4
+ <rindolf>  bheron: don't have prejudice
+  <bheron>  I never do.
+  <bheron>  Be right back
+ <rindolf>  bheron: ok, then see what the departing pope despite however
+            evil he may be taught me that twitter/facebook/g+ rip/etc are
+            what the Gutenberg press was only much more awesome
+ <rindolf>  bheron: ping me
+
+    -- #gnu, Freenode
+%
+You can never truly appreciate the Gilmore Girls until you've watched it in
+the original Klingon.
+
+    -- Shlomi Fish
+    -- Freenode conversation ( https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perlcafe-looking-back-at-your-old-habits )
+%
+*Note:* many of my stories are *not* too *realistic*, and aim to reflect a
+better and more idealistic reality than the one many people would perceive.
+This is in part because, I am [an
+idealist](https://www.shlomifish.org/me/rindolf/#rindolfism), and plan to
+remain so (and my idealism is dynamic and constantly changes), and wish that
+my words and deeds will carry reality *forward* instead of preserving the
+status quo.
+
+    -- Shlomi Fish
+    -- Preface on the page of large-scale screenplays and stories ( https://www.shlomifish.org/humour/stories/ )
+%
+Q2: OK, cool. We’ll let you kids do last minute arrangements and we’ll meet
+here in 45 minutes. Meanwhile I’ll have a drink.
+
+Q: I could use one too. Quark, how much would that be?
+
+Quark: Two drinks would be two strips of gold-pressed Latinum.
+
+However, Mr. Q., I recall you saying you could provide me with 1 million bars
+of gold-pressed Latinum.
+
+Q: That’s nothing, Mr. Quark. I can conjure a ball made out of gold-pressed
+Latinum the size of a red giant. Of course, it will quickly implode into a
+nasty black hole. Nothing we can’t handle of course, but still.
+
+[Cut to Quark - he is speechless and looks astonished.]
+
+Q: But two strips should be enough - there you go.
+
+    -- Shlomi Fish
+    -- Star Trek: “We, the Living Dead” ( https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/ )
+%
+Q2: In any case, I’ll leave you kids for now.
+
+Dax: Are you too busy?
+
+Q2: No. Busy people are unproductive. We are very productive and so we’re
+almost never busy. But I need some rest, and think I’m no longer needed here.
+Q can always find me, anyway.
+
+    -- Shlomi Fish
+    -- Star Trek: “We, the Living Dead” ( https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/ )
+%
+      <fenirskunk>  bin is for mission critical, xbin and sbin are for
+                    addins, cause Linux is paranoid crack mother over your
+                    shoulder.
+         <tomty89>  xbin is an android thing i think
+         <tomty89>  wonder what the x means
+          <Armand>  "not s"
+          <Armand>  :P
+          <schu-r>  extra
+      <fenirskunk>  Lol
+      <fenirskunk>  Kill me.
+         <tomty89>  exterminate
+         <Masklin>  I have four bins in my default PATH.
+         <Masklin>  FOUR!
+         <Masklin>  Two I would understand
+         <Masklin>  But this is outrageous
+      <fenirskunk>  Busybox should just be baked into kernel in my opinion
+         <Masklin>  Would that help?
+         <tomty89>  i am sure you have a lot of opinions
+          <ananke>  tomty89: that's precisely what I said
+  <Triffid_Hunter>  fenirskunk: heh do you remember back in the day when
+                    there was a http server baked into the kernel?
+ <SuperSeriousCat>  Ye. Building busybox every time you rebuild kernel
+                    would be awesome
+       <hexnewbie>  The kernel ought to have zsh, wayland and wineserver
+                    integrated.
+         <rindolf>  hexnewbie: heh
+ <SuperSeriousCat>  And a web browser!
+       <hexnewbie>  Think of the advantages of running CNN's JavaScript in
+                    kernel-space.
+         <rindolf>  hexnewbie: heh
+         <rindolf>  hexnewbie: you made me smile
+         <rindolf>  hexnewbie: i remember a .txt file causing msie 6 to
+                    fork bomb
+         <rindolf>  on windows though
+  <Triffid_Hunter>  rindolf: heh, or literally every single image format
+                    it supports having a remote code execution
+                    vulnerability?
+         <rindolf>  Triffid_Hunter: what?
+  <Triffid_Hunter>  rindolf: ie6
+         <rindolf>  Triffid_Hunter: ah
+       <hexnewbie>  Once again, a flaw in Wine's compatibility! Including
+                    an <img> src'ed from "con" should kernel-crash
+                    GNU/Linux too.
+  <Triffid_Hunter>  hexnewbie: LOL, or aux or lpt?
+         <rindolf>  hexnewbie: heh
+       <hexnewbie>  IE6 worked pretty well in Wine, from what I can
+                    recall, lack of system crash bugs notwithstanding.
+     <stefmorino2>  Masklin: I have $HOME/bin, /bin, /sbin, /usr/bin,
+                    /usr/sbin, /usr/ports/infrastructure/bin,
+                    /usr/X11R6/bin, /usr/local/bin, /usr/local/sbin
+         <rindolf>  hexnewbie: :)
+
+    -- Failure is not an option! It is bundled with the product.
+    -- ##linux, Freenode

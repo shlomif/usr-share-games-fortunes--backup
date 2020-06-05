@@ -49,7 +49,7 @@ Excerpt from "Bring it On"
 An algebra teacher is discussing a problem with a student. The teacher says:
 "Now, suppose x is the speed at which the train is travelling…". And the
 student says "But teacher, what if x is not the speed at which the train is
-travelling?
+travelling?"
 
     -- Unknown
     -- Re: "A Parody on Aristotle's Organum" ( http://groups.google.com/group/humanities.philosophy.objectivism/msg/e0d0b5a400d47c6b?hl=en )
@@ -3733,3 +3733,97 @@ Monologue - two people talking to themselves.
 
     -- Shaike Ophir
     -- The English Teacher ( https://www.youtube.com/watch?v=2bpVrKm9QCc )
+%
+"How can you trust an encyclopedia that everyone can edit?" How can you trust
+an encyclopedia that no one can edit!!
+
+    -- David Shay
+    -- Talk on an Israeli FOSS Conference
+%
+<<<
+
+<<<
+
+So what should I do to eliminate it?
+
+>>>
+
+Maybe Just Nothing
+
+The issue is that you can't special case get_current_coords to be truish, as
+far as Devel::Cover is concerned - it might not be.
+
+Any fix that could be thought up is inherently problematic.
+
+Coverage reporting is not done for the pretty colors - a human reads it, and
+says "OK, this is logical, get_current_coords always returns a true value".
+It's not a race for greens and percentages.
+
+>>>
+
+While I agree coverage is not a race, I disagree that a human should have to
+disambiguate between real missing coverage and a false negative. At least not
+more than once.
+
+I'll make the same argument "no broken windows" argument here that I do about
+warnings and tests: eliminate all warnings, even if they are dubious. Ensure
+all tests pass eliminating all false negatives. Do not leave any "expected
+warnings" or "expected failures" because this erodes the confidence in the
+test suite. Warnings and test failures fail to ring alarm bells. One
+"expected" warning leads to two. Then four. Then finally too many to remember
+which are expected and which are not and you ignore them all together.
+
+The Pragmatic Programmer does a good job with this argument.
+http://www.pragmaticprogrammer.com/ppbook/extracts/no_broken_windows.html
+
+So goes the same with coverage. Red should be a BAD color, something you do
+not want to see. You want to eliminate the red. But sometimes its a false
+negative. In that case there should be some way to tell the tool that it is,
+in fact, a false negative. Just like skipping tests, you store the fact that
+there is a false negative to make the red go away. Red remains a bad color and
+seeing it means something is wrong. The team doesn't have to remember which
+bits are expected to be uncovered and which are not.
+
+What's missing is a way to let Devel::Cover know that a bit of coverage is not
+necessary. The first way to do this which pops into my mind is a comment.
+
+my $foo = $bar || default(); # DC ignore X|0
+
+"Hey, Devel::Cover! Ignore the case where the right side of this logic is
+false."
+
+Ignored conditions would be green, but perhaps a slightly different shade of
+green so they can be spotted if you're looking for them.
+
+    -- Michael G Schwern
+    -- Post to the Perl-QA mailing list ( https://www.nntp.perl.org/group/perl.qa/2005/07/msg4492.html )
+%
+The Wise Janitor: Look, the thing that happened with Marty - it wasn't your
+fault.
+
+The Wise Janitor: OK, it was your fault…
+
+    -- Various Writers
+    -- Not Another Teen Movie ( http://en.wikipedia.org/wiki/Not_another_teen_movie )
+%
+So, did I immediately launch into a furious whirl of coding up a brand-new
+POP3 client to compete with the existing ones? Not on your life! I looked
+carefully at the POP utilities I had in hand, asking myself ``Which one is
+closest to what I want?'' Because:
+
+2. Good programmers know what to write. Great ones know what to rewrite (and
+reuse).
+
+While I don't claim to be a great programmer, I try to imitate one. An
+important trait of the great ones is constructive laziness. They know that you
+get an A not for effort but for results, and that it's almost always easier to
+start from a good partial solution than from nothing at all.
+
+Linus Torvalds, for example, didn't actually try to write Linux from scratch.
+Instead, he started by reusing code and ideas from Minix, a tiny Unix-like
+operating system for PC clones. Eventually all the Minix code went away or was
+completely rewritten—but while it was there, it provided scaffolding for the
+infant that would eventually become Linux.
+
+    -- Eric Raymond
+    -- The Cathedral and the Bazaar ( http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ )
