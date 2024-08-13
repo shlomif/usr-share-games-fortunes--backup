@@ -7,5 +7,5 @@
 #
 
 
-rsync -a --progress --delete-after -v /usr/share/games/fortunes/ ./fortunes
+rsync -a --progress -v /usr/share/games/fortune/ ./fortunes
 git add ./fortunes

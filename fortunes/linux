@@ -58,6 +58,7 @@ driver will be redirected to /dev/null, oh no, it's full...).
 	printf("Don't Panic!\n");
 	exit(42);
     }
+
 	-- Arnold Robbins in the LJ of February '95, describing RCS
 %
 lp1 on fire
@@ -72,8 +73,11 @@ NO (or Linux) is the answer.
 	-- Taken from a .signature from someone from the UK, source unknown
 %
 In most countries selling harmful things like drugs is punishable.
-Then howcome people can sell Microsoft software and go unpunished?
+Then how come people can sell Microsoft software and go unpunished?
 	-- Hasse Skrifvars, hasku@rost.abo.fi,
+%
+Fatal Error: Found [MS-Windows] System -> Repartitioning Disk for Linux...
+(By cbbrown@io.org, Christopher Browne)
 %
 Windows without the X is like making love without a partner.
 	-- MaDsen Wikholm, mwikholm@at8.abo.fi
@@ -90,6 +94,15 @@ Apples  have  meant  trouble  since  eden.
 Linux, the way to get rid of boot viruses
 	-- MaDsen Wikholm, mwikholm@at8.abo.fi
 %
+This  message was brought to  you by Linux, the free  unix.
+Windows without the X is like making love without a partner.
+Sex, Drugs & Linux Rules
+win-nt from the people who invented edlin
+apples  have  meant  trouble  since  eden
+Linux, the way to get rid of boot viruses
+
+	-- MaDsen Wikholm, mwikholm@at8.abo.fi
+%
 Once upon a time there was a DOS user who saw Unix, and saw that it was
 good.  After typing cp on his DOS machine at home, he downloaded GNU's
 unix tools ported to DOS and installed them.  He rm'd, cp'd, and mv'd
@@ -103,7 +116,7 @@ We are MicroSoft.  You will be assimilated.  Resistance is futile.
 		-- Attributed to B.G., Gill Bates
 %
 Avoid the Gates of Hell.  Use Linux
-		-- unknown source
+		-- Unknown source
 %
 Intel engineering seem to have misheard Intel marketing strategy.  The
 phrase was "Divide and conquer" not "Divide and cock up"
@@ -196,6 +209,7 @@ you blankly and say "Hey, I got those with the system, *for free*".
 %
 We come to bury DOS, not to praise it.
 	-- Paul Vojta, vojta@math.berkeley.edu
+    ( paraphrasing a quote of Shakespeare)
 %
 Be warned that typing \fBkillall \fIname\fP may not have the desired
 effect on non-Linux systems, especially when done by a privileged user.
@@ -208,6 +222,7 @@ look into it.
 %
 How should I know if it works?  That's what beta testers are for.  I
 only coded it.
+
 	-- Attributed to Linus Torvalds, somewhere in a posting
 %
 I develop for Linux for a living, I used to develop for DOS.
@@ -381,20 +396,21 @@ If it breaks then you get to keep both pieces.
 %
 'Mounten' wird für drei Dinge benutzt: 'Aufsitzen' auf Pferde, 'einklinken'
 von Festplatten in Dateisysteme, und, nun, 'besteigen' beim Sex.
+
+'Mounting' is used for three things: climbing on a horse, linking in a
+hard disk unit in data systems, and, well, mounting during sex.
+
 	-- Christa Keil
 %
 Manchmal stehe nachts auf und installier's mir einfach...
 	-- H0arry @ IRC
-%
-'Mounting' is used for three things: climbing on a horse, linking in a
-hard disk unit in data systems, and, well, mounting during sex.
-	-- Christa Keil
 %
 We are using Linux daily to UP our productivity - so UP yours!
 	-- Adapted from Pat Paulsen by Joe Sloan
 %
 But what can you do with it?
 	-- ubiquitous cry from Linux-user partner
+    -- (Submitted by Andy Pearce, ajp@hpopd.pwd.hp.com)
 %
 /*
  * [...] Note that 120 sec is defined in the protocol as the maximum
@@ -416,7 +432,7 @@ of careful development.
 %
 LILO, you've got me on my knees!
 	-- David Black, dblack@pilot.njin.net, with apologies to Derek and the
-Dominos, and Werner Almsberger
+       Dominos, and Werner Almsberger
 %
 I've run DOOM more in the last few days than I have the last few
 months.  I just love debugging ;-)
@@ -430,13 +446,13 @@ was unavailable for comment ...
 	-- Robert Manners, rjm@swift.eng.ox.ac.uk, in comp.os.linux.setup
 %
 The only "intuitive" interface is the nipple.  After that, it's all learned.
-	-- Bruce Ediger, bediger@teal.csn.org, on X interfaces
+	-- Bruce Ediger, bediger@teal.csn.org, on X interfaces in c.o.l.misc
 %
 After watching my newly-retired dad spend two weeks learning how to make a new
 folder, it became obvious that "intuitive" mostly means "what the writer or
 speaker of intuitive likes".
     -- Bruce Ediger, bediger@teal.csn.org, on X the intuitiveness of a Mac
-    interface
+    interface on comp.os.linux.misc.
 %
 Now I know someone out there is going to claim, "Well then, UNIX is intuitive,
 because you only need to learn 5000 commands, and then everything else follows
@@ -454,14 +470,6 @@ How do I type "for i in *.dvi do xdvi $i done" in a GUI?
 That's a city in Bosnia.  Right?
 	-- Discussion in comp.os.linux.misc on the intuitiveness of commands
 %
-Who wants to remember that escape-x-alt-control-left shift-b puts you into
-super-edit-debug-compile mode?
-	-- Discussion on the intuitiveness of commands, especially Emacs
-%
-Anyone who thinks UNIX is intuitive should be forced to write 5000 lines of
-code using nothing but vi or emacs.  AAAAACK!
-	-- Discussion on the intuitiveness of commands, especially Emacs
-%
 Now, it we had this sort of thing:
   yield -a     for yield to all traffic
   yield -t     for yield to trucks
@@ -470,11 +478,7 @@ Now, it we had this sort of thing:
 
 ...you'd have a lot of dead people at intersections, and traffic jams you
 wouldn't believe...
-		-- Discussion on the intuitiveness of commands
-%
-Actually, typing random strings in the Finder does the equivalent of
-filename completion.
-		-- Discussion on file completion vs. the Mac Finder
+		-- Discussion on the intuitiveness of commands, comp.os.linux.misc
 %
 Not me, guy.  I read the Bash man page each day like a Jehovah's Witness reads
 the Bible.  No wait, the Bash man page IS the bible.  Excuse me...
@@ -497,7 +501,7 @@ Surely, Linus is talking about the kind of idiocy that others aspire to :-).
 		-- Bruce Perens in response to Linus Torvalds's
 %
 Never make any mistaeks.
-		-- Anonymous, in a mail discussion about to a kernel bug report
+		-- Anonymous, in a mail discussion about a kernel bug report
 %
 +#if defined(__alpha__) && defined(CONFIG_PCI)
 +       /*
@@ -510,7 +514,7 @@ Never make any mistaeks.
 %
 As usual, this being a 1.3.x release, I haven't even compiled this
 kernel yet.  So if it works, you should be doubly impressed.
-	-- Linus Torvalds, announcing kernel 1.3.3
+	-- Linus Torvalds, announcing kernel 1.3.3 on LKML
 %
 People disagree with me.  I just ignore them.
 	-- Linus Torvalds, regarding the use of C++ for the Linux kernel
@@ -990,8 +994,9 @@ S:      Buried alive in email
 Netscape is not a newsreader, and probably never shall be.
 	-- Tom Christiansen
 %
-I think it's time to remove Qt and Qt-derived applications from the distributon.
-By distributing it, we only encourage authors to create restrictive licenses.
+I think it's time to remove Qt and Qt-derived applications from the
+distribution.  By distributing it, we only encourage authors to create
+restrictive licenses.
 	-- Bruce Perens
 %
 If someone can point me to a good and _FREE_ backup software that keeps
@@ -1828,4 +1833,113 @@ is a good rationale for doing something.
 < Overfiend> whew.
 < Overfiend> I really need to get some sleep.
 < Overfiend> but it sure was fun talking guitars, politics, and lesbians.
+%
+<<<
+Why Eclipse doesn't belong to the "right" tools? My naive understanding is
+that Eclipse is the Emacs of the 21st century – it is open source, customizable
+etc., similar to Emacs; in addition to being graphical.
+>>>
+
+Thank you! I was wondering why I hated Eclipse so much, and you have put your
+finger on it. It's exactly like a 21st century Emacs.
+
+    -- Shachar Shemesh
+    -- Re: [Haifux] [W2L] Call for lecturer + "Linux guru"
+       ( https://is.gd/PbULJR )
+%
+Emacs is a nice operating system, but what it lacks, in order to compete with
+Linux, is a good text editor.
+    — based on https://en.wikiquote.org/wiki/Emacs
+%
+> > You can easily install the binary distribution of Mozilla (from
+> > mozilla.org) on a different prefix, possibly under your home directory.
+> > Please install it and use it instead of Mozilla 1.1, at least when
+> > verifying if problems indeed exist. I do not wish to tolerate any more
+> > reports of problems when using Mozilla 1.1, because I can't tell if it's a
+> > bug that was fixed by then, or if it's an actual issue with Mozilla.
+> >
+> > On a slightly different note: my machine crashed the other day when
+> > using it with kernel 2.6.0. Can anyone help?
+>
+> I do not wish to tolerate any reports of problems when using kernel
+> 2.6.0, because I can't tell if it's a bug that was fixed by then, or
+> if it's an actual issue with the kernel.
+
+My Commodore 64 is suffering from slowness and insufficiency of memory;
+and its display device is grievously short of pixels. Can anyone help?
+
+    -- Shlomi Fish, Muli Ben Yehuda and Omer Zak on discussions@hamakor.org.il.
+    -- https://is.gd/tAZmZD
+%
+Who wants to remember that escape-x-alt-control-left shift-b puts you into
+super-edit-debug-compile mode?
+
+    -- Discussion in comp.os.linux.misc on the intuitiveness of commands,
+       especially Emacs.
+%
+I've heard a Jew and a Muslim argue in a Damascus cafe with less passion
+than the emacs wars."
+		-- Ronald Florence <ron@18james.com> in
+		   <ueu1c4mbrc.fsf@auda.18james.com>
+%
+World domination.  Fast
+
+    -- Linus Torvalds ( Unsourced )
+%
+Actually, typing random strings in the Finder does the equivalent of
+filename completion.
+    -- Discussion in comp.os.linux.misc on the intuitiveness of commands: file
+       completion vs. the Mac Finder.
+%
+Anyone who thinks UNIX is intuitive should be forced to write 5000 lines of
+code using nothing but vi or emacs. AAAAACK!
+(Discussion in comp.os.linux.misc on the intuitiveness of commands, especially
+Emacs.)
+%
+It's God.  No, not Richard Stallman, or Linus Torvalds, but God.
+
+    -- Matt Welsh
+%
+There are no threads in a.b.p.erotica,  so there's no  gain in using a
+threaded news reader.
+
+    -- Unknown source
+%
+Running Windows on a Pentium is like having a brand new Porsche but only
+be able to drive backwards with the handbrake on.
+
+    -- Unknown source
+%
+The nice thing about Windows is - It does not just crash, it displays a
+dialog box and lets you press 'OK' first.
+
+    -- Arno Schaefer's .sig
+%
+What's this script do?
+    unzip ; touch ; finger ; mount ; gasp ; yes ; umount ; sleep
+Hint for the answer: not everything is computer-oriented. Sometimes you're
+in a sleeping bag, camping out.
+
+    -- (Contributed by Frans van der Zande.)
+%
+Linux: Because Software Problems Should Not Cost Money.
+
+    -- Shlomi Fish
+    -- https://www.shlomifish.org/art/linux_banner/
+%
+My friend Botje from freenode noted that some people on its #osdev chatroom,
+have implemented kernels from scratch, which supported enough of POSIX to
+bootstrap a GNU ( https://gnu.org/ ) system (as I suspected).
+
+Now try this with CSS2.1...
+
+    -- Shlomi Fish
+    -- https://twitter.com/shlomif/status/1542047869989011457
+%
+You know who's dumb? It's me. I'm dumb.
+I couldn't eject the tape.
+Because there was no tape.
+And I was looking at the slot cover.
+
+    -- Jason B.
 %
