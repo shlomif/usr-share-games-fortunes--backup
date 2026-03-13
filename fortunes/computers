@@ -1106,13 +1106,6 @@ enormous amount of hard work.  But, a certain amount of unpredictable
 and often unrepeatable inspiration is what usually makes the difference
 between adequacy and excellence.
 %
-Creating computer software is always a demanding and painstaking
-process -- an exercise in logic, clear expression, and almost fanatical
-attention to detail.  It requires intelligence, dedication, and an
-enormous amount of hard work.  But, a certain amount of unpredictable
-and often unrepeatable inspiration is what usually makes the difference
-between adequacy and excellence.
-%
 %DCL-MEM-BAD, bad memory
 VMS-F-PDGERS, pudding between the ears
 %
@@ -1905,7 +1898,8 @@ I haven't lost my mind -- it's backed up on tape somewhere.
 I must have slipped a disk -- my pack hurts!
 %
 I think there's a world market for about five computers.
-		-- attr. Thomas J. Watson (Chairman of the Board, IBM), 1943
+		-- Misattributed to Thomas J. Watson (Chairman of the Board,
+        IBM), 1943 ; https://en.wikiquote.org/wiki/Thomas_J._Watson
 %
 I went on to test the program in every way I could devise.  I strained
 it to expose its weaknesses.  I ran it for high-mass stars and low-mass
@@ -5715,4 +5709,18 @@ sales are growing steadily. The People won’t stop buying it.
 
     -- Joel Spolsky, "Rub a dub dub"
     -- http://www.joelonsoftware.com/articles/fog0000000348.html
+%
+After giving a talk on unit testing in C, Benno Rice was asked
+the following question:
+
+        "You mentioned compiling with optimization off [...].
+        What about cases, when the optimizer does something, that is
+        completely legitimate, but a behaviour you weren't assuming?
+        How do you test those cases?"
+
+To which he replied:
+
+        "Hmm... In production."
+
+(Source: https://www.youtube.com/watch?v=z-uWt5wVVkU (around 22:04))
 %
